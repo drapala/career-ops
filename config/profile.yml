@@ -1,0 +1,84 @@
+candidate:
+  full_name: "Joao Francisco Drapala"
+  email: "joao.drapala@gmail.com"
+  phone: "+55 12 99244-2448"
+  location: "São Paulo, SP, Brazil"
+  linkedin: "linkedin.com/in/joaofdco"
+  portfolio_url: "https://github.com/drapala"
+  github: "github.com/drapala"
+
+target_roles:
+  primary:
+    - "AI Platform Engineer"
+    - "Senior AI Engineer"
+    - "Staff ML Engineer"
+    - "LLMOps Engineer"
+    - "Agentic Systems Engineer"
+  archetypes:
+    - name: "AI Platform / LLMOps Engineer"
+      level: "Senior/Staff"
+      fit: "primary"
+    - name: "Agentic Workflows Engineer"
+      level: "Senior"
+      fit: "primary"
+    - name: "ML Infrastructure Engineer"
+      level: "Senior"
+      fit: "primary"
+    - name: "AI Solutions Architect"
+      level: "Senior"
+      fit: "secondary"
+    - name: "Backend Engineer (AI-adjacent)"
+      level: "Senior"
+      fit: "adjacent"
+
+narrative:
+  headline: "AI Platform Engineer building production-grade agentic systems at scale"
+  exit_story: "10+ years as a backend/distributed systems engineer, pivoted fully into AI Platform. Now designing RAG pipelines, agentic workflows, and multimodal inference services in production at SponsorUnited. MBA in AI-Assisted Software Engineering in progress."
+  superpowers:
+    - "End-to-end RAG system design (vector DBs, semantic search, structured pipelines)"
+    - "Agentic workflow orchestration (LangChain, LangGraph, multi-step LLM loops)"
+    - "Multimodal AI inference (YOLOv7/SageMaker + OpenCLIP + OCR in production)"
+    - "Platform engineering mindset: reliability, observability, latency optimization"
+    - "Polyglot (Java/Kotlin/Python/Go) + cloud-native (Docker, K8s, AWS)"
+  proof_points:
+    - name: "Multimodal AI Inference Service"
+      hero_metric: "YOLOv7 + OpenCLIP + Milvus + OCR in production at SponsorUnited"
+    - name: "Autonomous Agent Pipelines"
+      hero_metric: "LangGraph-based LLM decision loops with external tool execution"
+    - name: "Payment Microservices — Grupo Boticário"
+      hero_metric: "+25% transaction speed, -15% downtime, full acquirer-independence"
+    - name: "Monitoring Infrastructure — PagBank"
+      hero_metric: "-15% downtime via Grafana/Prometheus/Splunk/NewRelic integration"
+
+compensation:
+  target_range: "$120K-180K USD"
+  currency: "USD"
+  minimum: "$90K USD"
+  location_flexibility: "Remote only (open to 1 week/quarter on-site for the right role)"
+
+location:
+  country: "Brazil"
+  city: "São Paulo"
+  timezone: "BRT (UTC-3)"
+  visa_status: "No sponsorship needed for remote roles"
+  remote_only: true
+
+preferences:
+  deal_breakers:
+    - "Full on-site required"
+    - "No AI/platform component"
+    - "Java-only shops with no path to AI"
+  preferred_company_types:
+    - "AI-native startups (Series A+)"
+    - "Scale-ups with strong platform/infra teams"
+    - "US/EU companies hiring remote from Brazil"
+  preferred_domains:
+    - "AI tooling & infrastructure"
+    - "Agentic systems"
+    - "LLMOps / MLOps platforms"
+    - "Multimodal AI"
+    - "Enterprise SaaS with AI core"
+
+language:
+  modes_dir: "modes"
+  output_language: "English"
