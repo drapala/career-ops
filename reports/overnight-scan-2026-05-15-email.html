@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; color: #1a1a1a; max-width: 680px; margin: 0 auto; padding: 20px; }
+  h1 { font-size: 20px; margin-bottom: 4px; }
+  .subtitle { color: #666; font-size: 13px; margin-bottom: 24px; }
+  .stat-row { display: flex; gap: 16px; margin-bottom: 24px; flex-wrap: wrap; }
+  .stat { background: #f4f4f4; border-radius: 8px; padding: 12px 18px; min-width: 100px; }
+  .stat-num { font-size: 28px; font-weight: 700; line-height: 1; }
+  .stat-label { font-size: 11px; color: #888; margin-top: 4px; text-transform: uppercase; letter-spacing: 0.5px; }
+  table { width: 100%; border-collapse: collapse; margin-bottom: 24px; }
+  th { text-align: left; font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; color: #888; border-bottom: 2px solid #eee; padding: 6px 8px; }
+  td { padding: 7px 8px; border-bottom: 1px solid #f0f0f0; font-size: 13px; }
+  .count { font-weight: 600; color: #0066cc; }
+  .highlight td { background: #f8f9ff; }
+  .section-title { font-size: 15px; font-weight: 600; margin: 24px 0 8px; border-top: 1px solid #eee; padding-top: 20px; }
+  .role-item { margin-bottom: 8px; padding: 8px 10px; border-left: 3px solid #0066cc; background: #f8f9ff; border-radius: 0 4px 4px 0; }
+  .role-company { font-weight: 600; font-size: 12px; color: #0066cc; }
+  .role-title { font-size: 13px; }
+  .role-location { font-size: 11px; color: #888; }
+  .role-url { font-size: 11px; color: #0066cc; word-break: break-all; }
+  .error-note { background: #fff3cd; border: 1px solid #ffc107; border-radius: 6px; padding: 10px 14px; font-size: 12px; color: #856404; margin-bottom: 24px; }
+  .update-note { background: #e8f0fe; border: 1px solid #4285f4; border-radius: 6px; padding: 10px 14px; font-size: 12px; color: #1a73e8; margin-bottom: 24px; }
+  .footer { font-size: 11px; color: #aaa; border-top: 1px solid #eee; padding-top: 16px; margin-top: 24px; }
+  code { background: #f0f0f0; padding: 1px 5px; border-radius: 3px; font-size: 12px; }
+</style>
+</head>
+<body>
+
+<h1>career-ops overnight scan</h1>
+<div class="subtitle">Friday, 15 May 2026 &mdash; Automated run</div>
+
+<div class="stat-row">
+  <div class="stat"><div class="stat-num">663</div><div class="stat-label">New jobs found</div></div>
+  <div class="stat"><div class="stat-num">663</div><div class="stat-label">Pending in pipeline</div></div>
+  <div class="stat"><div class="stat-num">73</div><div class="stat-label">Companies scanned</div></div>
+  <div class="stat"><div class="stat-num">32</div><div class="stat-label">Errors (503/404)</div></div>
+</div>
+
+<div class="error-note">
+  &#9888; <strong>32 companies returned errors</strong> (mostly HTTP 503 &mdash; likely transient rate limits). Missed portals include: Deepgram, Bland AI, Vapi, Cohere, Weights &amp; Biases, Mistral AI, Spotify, Perplexity, Supabase, Zapier, n8n, and others. Re-running the scan later may pick these up.
+</div>
+
+<div class="update-note">
+  &#128260; <strong>career-ops update available</strong>: v1.3.0 &rarr; v1.7.1. Open your session and say &ldquo;update career-ops&rdquo; to apply. Your CV, profile, and tracker data will not be touched.
+</div>
+
+<div class="error-note" style="background:#fde8e8; border-color:#dc3545; color:#721c24;">
+  &#128231; <strong>Gmail not sent</strong>: The Gmail MCP token expired during this automated run. Re-authenticate Gmail in your Claude Code session to restore overnight email delivery.
+</div>
+
+<div class="section-title">New Jobs by Company</div>
+<table>
+  <tr><th>Company</th><th>New roles</th><th>Category</th></tr>
+  <tr class="highlight"><td>SumUp</td><td class="count">99</td><td>Fintech / Payments</td></tr>
+  <tr class="highlight"><td>Anthropic</td><td class="count">64</td><td>AI / LLMs</td></tr>
+  <tr><td>Celonis</td><td class="count">49</td><td>Process Mining / AI</td></tr>
+  <tr class="highlight"><td>Sierra</td><td class="count">48</td><td>Conversational AI</td></tr>
+  <tr class="highlight"><td>LangChain</td><td class="count">44</td><td>AI Infra / Agents</td></tr>
+  <tr><td>HelloFresh</td><td class="count">36</td><td>eCommerce / Tech</td></tr>
+  <tr class="highlight"><td>Glean</td><td class="count">36</td><td>Enterprise AI</td></tr>
+  <tr class="highlight"><td>Intercom</td><td class="count">31</td><td>AI Customer Service</td></tr>
+  <tr class="highlight"><td>ElevenLabs</td><td class="count">24</td><td>Voice AI</td></tr>
+  <tr class="highlight"><td>Lakera</td><td class="count">21</td><td>AI Security</td></tr>
+  <tr class="highlight"><td>Hightouch</td><td class="count">17</td><td>Data Activation / AI</td></tr>
+  <tr><td>Helsing</td><td class="count">17</td><td>Defense AI</td></tr>
+  <tr class="highlight"><td>Arize AI</td><td class="count">17</td><td>AI Observability</td></tr>
+  <tr><td>N26</td><td class="count">15</td><td>Neobank</td></tr>
+  <tr class="highlight"><td>Synthesia</td><td class="count">13</td><td>Video AI</td></tr>
+  <tr class="highlight"><td>Vercel</td><td class="count">12</td><td>Dev Infra / AI</td></tr>
+  <tr class="highlight"><td>Parloa</td><td class="count">12</td><td>Conversational AI</td></tr>
+  <tr><td>GetYourGuide</td><td class="count">12</td><td>Travel Tech</td></tr>
+  <tr class="highlight"><td>Wayve</td><td class="count">10</td><td>Autonomous Vehicles / AI</td></tr>
+  <tr><td>Contentful</td><td class="count">10</td><td>CMS / SaaS</td></tr>
+  <tr><td>Trade Republic</td><td class="count">9</td><td>Fintech</td></tr>
+  <tr class="highlight"><td>Faculty</td><td class="count">9</td><td>Applied AI</td></tr>
+  <tr class="highlight"><td>Clay Labs</td><td class="count">9</td><td>Sales AI</td></tr>
+  <tr class="highlight"><td>PhysicsX</td><td class="count">7</td><td>AI for Engineering</td></tr>
+  <tr><td>WorkOS</td><td class="count">6</td><td>Dev Tools</td></tr>
+  <tr class="highlight"><td>Speechmatics</td><td class="count">4</td><td>Speech AI</td></tr>
+  <tr class="highlight"><td>RunPod</td><td class="count">4</td><td>GPU Cloud / AI Infra</td></tr>
+  <tr class="highlight"><td>PolyAI</td><td class="count">4</td><td>Voice AI</td></tr>
+  <tr class="highlight"><td>Isomorphic Labs</td><td class="count">4</td><td>AI Drug Discovery</td></tr>
+  <tr class="highlight"><td>Hume AI</td><td class="count">4</td><td>Emotional AI</td></tr>
+</table>
+
+<div class="section-title">Standout Roles &mdash; Evaluate These First</div>
+<p style="font-size:12px;color:#666;margin-bottom:12px;">Curated picks based on a Head of Applied AI profile &mdash; leadership, applied AI, and agent-focused roles.</p>
+
+<div class="role-item"><div class="role-company">Anthropic</div><div class="role-title">Global Applied AI Architecture Lead, Beneficial Deployments</div><div class="role-location">San Francisco, CA | New York City, NY</div></div>
+<div class="role-item"><div class="role-company">Anthropic</div><div class="role-title">Engineering Manager, Agent Prompts &amp; Evals</div><div class="role-location">San Francisco, CA | New York City, NY</div></div>
+<div class="role-item"><div class="role-company">Anthropic</div><div class="role-title">Engineering Manager, Vertical AI Products (Multiple Roles)</div><div class="role-location">New York City, NY; San Francisco, CA</div></div>
+<div class="role-item"><div class="role-company">Anthropic</div><div class="role-title">Manager, Forward Deployed Engineering</div><div class="role-location">San Francisco, CA | New York City, NY; Seattle, WA</div></div>
+<div class="role-item"><div class="role-company">Parloa</div><div class="role-title">Lead AI Agent Architect</div><div class="role-location">New York Office</div><div class="role-url">https://job-boards.eu.greenhouse.io/parloa/jobs/4566280101</div></div>
+<div class="role-item"><div class="role-company">Glean</div><div class="role-title">Founding Forward Deployed Engineer</div><div class="role-location">Mountain View, CA</div></div>
+<div class="role-item"><div class="role-company">Glean</div><div class="role-title">Machine Learning Engineer, AI Assistant &amp; Autonomous AI Agents</div><div class="role-location">Mountain View, CA</div></div>
+<div class="role-item"><div class="role-company">LangChain</div><div class="role-title">Director, Deployed Engineering - Central</div><div class="role-location">Chicago, IL</div></div>
+<div class="role-item"><div class="role-company">Intercom</div><div class="role-title">Staff AI Product Manager</div><div class="role-location">Berlin, Germany</div></div>
+<div class="role-item"><div class="role-company">Intercom</div><div class="role-title">Senior Manager, Forward Deployed Engineering</div><div class="role-location">San Francisco, California</div></div>
+<div class="role-item"><div class="role-company">Intercom</div><div class="role-title">Principal Engineer, Fin AI Agent</div><div class="role-location">Berlin, Germany</div></div>
+<div class="role-item"><div class="role-company">ElevenLabs</div><div class="role-title">Automations Engineer</div><div class="role-location">United States (Remote)</div></div>
+<div class="role-item"><div class="role-company">Arize AI</div><div class="role-title">AI Product Manager</div><div class="role-location">United States (Remote)</div></div>
+<div class="role-item"><div class="role-company">Hume AI</div><div class="role-title">Senior/Staff AI Research Engineer</div><div class="role-location">NYC, San Jose, or Remote</div><div class="role-url">https://job-boards.greenhouse.io/humeai/jobs/4003488008</div></div>
+<div class="role-item"><div class="role-company">RunPod</div><div class="role-title">Director, Cloud Marketplace and AI Infrastructure Partnerships</div><div class="role-location">Remote, USA</div></div>
+
+<div class="section-title">How to Evaluate</div>
+<p style="font-size:13px;">All 663 URLs are saved in <code>data/pipeline.md</code> in your career-ops repo (committed to GitHub). To evaluate:</p>
+<ol style="font-size:13px;line-height:1.8;">
+  <li>Pull the latest from GitHub: <code>git pull origin main</code></li>
+  <li>Paste any job URL directly &mdash; auto-pipeline will evaluate + score + generate PDF</li>
+  <li>Or run <code>/career-ops pipeline</code> to process pending URLs</li>
+  <li>For all 663 at once: <code>/career-ops batch</code></li>
+</ol>
+
+<div class="footer">
+  Automated scan by <strong>career-ops</strong> &mdash; AI job search pipeline<br>
+  Portals: Greenhouse, Ashby, Lever &middot; 73 companies scanned &middot; 0 tokens used<br>
+  Data committed to: github.com/drapala/career-ops (main branch)
+</div>
+
+</body>
+</html>
