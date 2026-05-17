@@ -1033,4 +1033,70 @@
 - [ ] https://jobs.ashbyhq.com/deepgram/b12e1b24-8df5-4900-929f-1d58ef6d4e0e | Deepgram | GTM Engineer
 - [ ] https://jobs.ashbyhq.com/faculty/e3f544c9-e520-4799-ab4d-c0b3cb050760 | Faculty | Lead Forward Deployed Engineer
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4977626008 | Anthropic | Applied AI Architect, Industries
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5193973008 | Anthropic | Applied AI Architect, Startups
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7824137 | Intercom | AI Infrastructure Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7818588 | Intercom | Engineering Manager, AI Models Infrastructure
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7725840 | Intercom | Principal Engineer, Fin AI Agent
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7920712 | Intercom | Staff AI Designer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7464291 | Intercom | Staff AI Product Manager
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7383963 | Intercom | Staff Product Engineer, AI
+- [ ] https://jobs.ashbyhq.com/deepgram/8884965c-8a55-414c-ba86-a52d527f5dff | Deepgram | Solutions Engineer, Enterprise
+- [ ] https://jobs.ashbyhq.com/deepgram/a58e4a11-7f98-4686-98e8-2612b52d7bbd | Deepgram | Forward Deployed Engineer, Deepgram for Restaurants
+- [ ] https://jobs.ashbyhq.com/sierra/e9f5fdb6-91ee-4c55-9230-41ec8865650e | Sierra | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/sierra/b4b762e6-8ce7-4ea7-b9b3-40c04f62135a | Sierra | Product Manager, Agent Development
+- [ ] https://jobs.ashbyhq.com/sierra/c25ca18c-dbe6-439d-9a40-ce23b40c323c | Sierra | Strategist, Agent Development
+- [ ] https://jobs.ashbyhq.com/sierra/3437596e-e545-42a9-af82-9947fabf828c | Sierra | Strategist, Agent Development (Spanish speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/ed38b1c1-2862-4e40-9894-3c6f20f7a785 | Sierra | Strategist, Agent Development (French speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/1a0a0334-41f8-4c15-9ed8-615336855e5e | Sierra | Agent Engineer, TLM
+- [ ] https://jobs.ashbyhq.com/sierra/569ba29b-de35-4bce-a16c-e27cb9b683ea | Sierra | GTM Operations, Agent Development
+- [ ] https://jobs.ashbyhq.com/sierra/5ea8d56f-09b5-4113-9929-a3ef42d010ef | Sierra | Agent Experience Designer, Voice (Multilingual)
+- [ ] https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893 | n8n | AI Product Builder
+- [ ] https://jobs.ashbyhq.com/n8n/788662b7-6b2b-4b07-b466-bf131fd95d08 | n8n | Senior Solutions Engineer | East Coast - Remote
+- [ ] https://jobs.ashbyhq.com/n8n/9ad9ea4e-4dce-47dc-ab70-bd251b521c94 | n8n | Executive Assistant (German speaking)
+- [ ] https://jobs.ashbyhq.com/n8n/a259b31d-3df5-4bc0-9feb-865e85016fba | n8n | GTM (German-speaking) Talent Pool
+- [ ] https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297 | n8n | Sr AI Engineer | Remote - Europe | TS/Vue/NodeJS
+- [ ] https://jobs.ashbyhq.com/n8n/0d3cda2a-b592-4733-a6a9-cd49f4ddc925 | n8n | Mid-Market Account Executive (Spanish or French Speaking - Remote Europe) 
+- [ ] https://jobs.ashbyhq.com/n8n/5c1d1b67-604c-46b3-9c59-cfe0cd703688 | n8n | Staff LLM Interaction Engineer (Europe remote - TS/Vue/NodeJS)
+- [ ] https://jobs.ashbyhq.com/n8n/53da0231-00c9-4aae-80e3-16d3a93c3381 | n8n | Senior Solutions Engineer | West Coast - Remote
+- [ ] https://jobs.ashbyhq.com/n8n/f814f5ce-b615-413d-bbe0-b5786b3872e9 | n8n | AI Engineering Manager | Remote | Europe 
+- [ ] https://jobs.ashbyhq.com/n8n/b736bd76-4cf6-4214-8633-2ff032a2bc03 | n8n | Customer Success Manager - German Speaking (EMEA)
+- [ ] https://jobs.ashbyhq.com/decagon/e31c0645-7325-43b9-9d58-0acc40904240 | Decagon | Senior Agent Product Manager
+- [ ] https://jobs.ashbyhq.com/decagon/1a7adb8e-f652-4556-9540-651f5299a0cd | Decagon | Senior Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/bb53080a-2945-4d39-9ef3-ef9a6fce6219 | Decagon | Staff Software Engineer, Agent Orchestration
+- [ ] https://jobs.ashbyhq.com/decagon/762ee436-6acc-4700-9927-0e73d6dc4123 | Decagon | Senior Software Engineer, Agent Orchestration
+- [ ] https://jobs.ashbyhq.com/decagon/ac14f2e8-950e-4668-a6ff-41f80181f006 | Decagon | Agent Success Manager 
+- [ ] https://jobs.ashbyhq.com/decagon/cd95c25c-fdb7-4816-8a31-6d75e86adbe0 | Decagon | Senior Software Engineer, Agents
+- [ ] https://jobs.ashbyhq.com/decagon/534658d0-9772-441e-8c06-ed6cdcd355e1 | Decagon | Research Engineer, Agents
+- [ ] https://jobs.ashbyhq.com/decagon/270e066f-b327-4774-9085-744f4aabde0c | Decagon | Customer Engineer, Agent Builder
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4823682101 | Speechmatics | Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694339005 | Glean | AI Success Manager, West
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651991005 | Glean | Founding Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4667085005 | Glean | Manager, AI Outcomes 
+- [ ] https://jobs.ashbyhq.com/cohere/fea8cc38-1a55-4f1c-a652-8c39c66138fc | Cohere | Forward Deployed Engineer, Infrastructure Specialist
+- [ ] https://jobs.ashbyhq.com/cohere/75c0032c-7200-48bf-9d6d-355880dd93d9 | Cohere | Forward Deployed Engineer, Agentic Platform
+- [ ] https://jobs.ashbyhq.com/cohere/1bc73d85-e6f4-4338-b53a-9ffb609a950d | Cohere | Solutions Architect - Public Sector
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7695047003?gh_jid=7695047003 | Celonis | Senior Applied AI Solutions Architect - Process Intelligence
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7695050003?gh_jid=7695050003 | Celonis | Senior Management & Technology Consultant - AI & Process Analytics
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7658079 | Contentful | Senior Product Manager (f/m/d)
+- [ ] https://sumup.com/careers/positions/8099530002?gh_jid=8099530002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8538499002?gh_jid=8538499002 | SumUp | Senior AML Investigator
+- [ ] https://sumup.com/careers/positions/8408853002?gh_jid=8408853002 | SumUp | Training Manager (Field Sales)
+- [ ] https://careers.hellofresh.com/global/en/job/7839242?gh_jid=7839242 | HelloFresh | Maintenance Technician II
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8501381002 | Wayve | Customer Integration Engineer
+- [ ] https://jobs.ashbyhq.com/causaly/0d240789-10ba-4a84-89fc-76f7e62079c0 | Causaly | Senior AI Engineer
+- [ ] https://jobs.ashbyhq.com/lovable/642dfe37-d5f5-4cf7-a38d-d6dac3dde58f | Lovable | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592 | Perplexity | Member of Technical Staff (AI Inference Engineer)
+- [ ] https://jobs.ashbyhq.com/perplexity/60deb376-51b5-46c6-9e17-55377a5ef34e | Perplexity | Member of Technical Staff (AI Infrastructure Engineer)
+- [ ] https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798 | Palantir | Forward Deployed AI Engineer
+- [ ] https://jobs.lever.co/palantir/4cba9c95-d16f-440d-83e7-2352480f689f | Palantir | Forward Deployed Enablement Engineer - Customer Success
+- [ ] https://jobs.lever.co/palantir/74748e0e-a0bc-4c53-a636-ef14e36d9b5e | Palantir | Forward Deployed Infrastructure Engineer - US Government
+- [ ] https://jobs.lever.co/palantir/689e6869-01bc-40f1-b580-adb33a020065 | Palantir | Forward Deployed Reliability Engineer
+- [ ] https://jobs.lever.co/palantir/2a817317-48a6-48b7-9a74-a98ccd2457d2 | Palantir | Forward Deployed Software Engineer
+- [ ] https://jobs.lever.co/palantir/909875b4-1940-41bd-b08d-a269c7235100 | Palantir | Forward Deployed Software Engineer - AUS Government
+- [ ] https://jobs.lever.co/palantir/c62264f5-5da8-40fe-9b44-f7f0f0012e11 | Palantir | Forward Deployed Software Engineer - Autonomous Systems C2
+- [ ] https://jobs.lever.co/palantir/84131e3f-455e-47fc-9c11-898d95f09048 | Palantir | Forward Deployed Software Engineer - US Government
+- [ ] https://jobs.lever.co/palantir/e7100322-be11-40c8-9dba-7a21b7302c08 | Palantir | Forward Deployed Software Engineer - US Government - Federal Health and Civilian
+- [ ] https://jobs.lever.co/palantir/78dbb616-cf3c-489c-9eb2-e6fc9bd9993a | Palantir | Systems Engineer - Business Systems
+
 ## Procesadas
