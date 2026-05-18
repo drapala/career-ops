@@ -1099,4 +1099,27 @@
 - [ ] https://jobs.lever.co/palantir/e7100322-be11-40c8-9dba-7a21b7302c08 | Palantir | Forward Deployed Software Engineer - US Government - Federal Health and Civilian
 - [ ] https://jobs.lever.co/palantir/78dbb616-cf3c-489c-9eb2-e6fc9bd9993a | Palantir | Systems Engineer - Business Systems
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7818585 | Intercom | Engineering Manager, AI Models Infrastructure
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7393922 | Intercom | Staff Product Engineer, AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5031670008 | Anthropic | Applied AI Architect, Industries
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5204086008 | Anthropic | [P] [Zurich] Solutions Architect, Applied AI
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694340005 | Glean | AI Success Manager, West
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4612814005 | Glean | Manager, AI Outcomes 
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4823663101 | Speechmatics | Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7658074 | Contentful | Senior Product Manager (f/m/d)
+- [ ] https://sumup.com/careers/positions/8032073002?gh_jid=8032073002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.lever.co/palantir/a90eb029-19cc-413c-bd51-b8411053d7d4 | Palantir | Forward Deployed Enablement Engineer - Customer Success
+- [ ] https://jobs.lever.co/palantir/b57f08e9-546c-4b9b-8d21-db0ebbc11363 | Palantir | Forward Deployed Infrastructure Engineer - US Government
+- [ ] https://jobs.lever.co/palantir/492a16bb-6b9f-457e-82c3-294e1a2c565d | Palantir | Forward Deployed Software Engineer
+- [ ] https://jobs.lever.co/palantir/ce8ca664-60dc-4f9a-8986-3c96673bcfdf | Palantir | Forward Deployed Software Engineer - US Government
+- [ ] https://jobs.lever.co/palantir/da426d8b-5963-42e5-9b19-84649cb519cc | Palantir | Systems Engineer - Business Systems
+- [ ] https://jobs.ashbyhq.com/sierra/43e6eda7-6e46-43e8-82a5-6e5035f063bb | Sierra | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/sierra/dc443fd1-14bd-493c-9397-c3713c78321c | Sierra | Product Manager, Agent Development
+- [ ] https://jobs.ashbyhq.com/sierra/08d96098-7213-44af-98da-f62366189f3b | Sierra | Strategist, Agent Development
+- [ ] https://jobs.ashbyhq.com/decagon/ee6c3e3f-b6ce-4945-a367-172d2b62ccf8 | Decagon | Senior Agent Product Manager
+- [ ] https://jobs.ashbyhq.com/decagon/73ef8e9d-a6b3-4817-ab02-893c4ac72bad | Decagon | Senior Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/f45c6d16-7a06-4a3f-ade7-c915698aba75 | Decagon | Agent Success Manager 
+- [ ] https://jobs.ashbyhq.com/decagon/230ad153-85be-4f7b-a368-5bad59e513e2 | Decagon | Customer Engineer, Agent Builder
+- [ ] https://jobs.lever.co/spotify/77526d53-3811-4336-9c0d-72f6ac0242c7 | Spotify | Artist Label Partnerships Manager, Taiwan
+
 ## Procesadas
