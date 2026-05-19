@@ -1122,4 +1122,33 @@
 - [ ] https://jobs.ashbyhq.com/decagon/230ad153-85be-4f7b-a368-5bad59e513e2 | Decagon | Customer Engineer, Agent Builder
 - [ ] https://jobs.lever.co/spotify/77526d53-3811-4336-9c0d-72f6ac0242c7 | Spotify | Artist Label Partnerships Manager, Taiwan
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7393950 | Intercom | Staff Product Engineer, AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5222289008 | Anthropic | Manager of Solutions Architecture, Applied AI (Enterprise Tech)
+- [ ] https://jobs.ashbyhq.com/sierra/df431e56-56f5-42ed-bc62-7d6f7041bd27 | Sierra | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/sierra/ab15547e-5c50-48a8-a560-f56c7bdad587 | Sierra | Strategist, Agent Development (Cantonese Speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/757f6d53-8849-46b5-b23e-184753c05e62 | Sierra | Strategist, Agent Development
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4613929005 | Glean | AI Success Manager (APAC hours)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4674460005 | Glean | Manager, AI Success
+- [ ] https://jobs.ashbyhq.com/decagon/4ec841cc-786c-459d-bf83-31b0071a85cc | Decagon | Senior Research Engineer, Voice + Speech
+- [ ] https://jobs.ashbyhq.com/decagon/7e727fb5-cc08-4728-97ca-2730e965ce41 | Decagon | Staff Research Engineer, Voice + Speech
+- [ ] https://jobs.ashbyhq.com/decagon/123e4aae-9550-4e69-be08-6789e09db07e | Decagon | Senior Agent Product Manager
+- [ ] https://jobs.ashbyhq.com/decagon/b0ef58e4-c1aa-49f2-a803-a1c8d92fe0fc | Decagon | Customer Engineer, Agent Builder
+- [ ] https://jobs.ashbyhq.com/cohere/9e1af45a-d1a6-4173-bf0f-8af42fa42bf0 | Cohere | Solutions Architect - Defence and National Security
+- [ ] https://helsing.ai/jobs/4869481101?gh_jid=4869481101 | Helsing | Product Manager — Electronic Warfare (Offboard & Cross-Platform)
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/4935984008 | Black Forest Labs | Forward Deployed Machine Learning Engineer
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7636216 | Contentful | Senior Product Manager (f/m/d)
+- [ ] https://careers.hellofresh.com/global/en/job/7894563?gh_jid=7894563 | HelloFresh | Teamleiter Lagerlogistik (all genders)
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=7938301 | Scandit | Program Manager, ML Data Operations
+- [ ] https://sumup.com/careers/positions/8468194002?gh_jid=8468194002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8555715002?gh_jid=8555715002 | SumUp | Technical Product Manager - Platform
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8554444002 | Wayve | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/claylabs/e43101dd-4e98-4c60-bc1b-adbbb38c7b15 | Clay Labs | GTM Engineer - CX
+- [ ] https://jobs.ashbyhq.com/claylabs/242be863-2f62-44a7-909d-6c351dee81d1 | Clay Labs | GTM Engineer - Ecosystem
+- [ ] https://jobs.ashbyhq.com/claylabs/d5c7f612-10e7-4080-8b8a-d51e70fff9c5 | Clay Labs | GTM Engineer - Seller Efficiency
+- [ ] https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850 | Palantir | Forward Deployed Software Engineer
+- [ ] https://jobs.lever.co/palantir/d83fac1c-353e-4b77-a586-3276b1090b6e | Palantir | Forward Deployed Software Engineer - US Government
+- [ ] https://jobs.lever.co/palantir/df20ad9f-3d7f-4267-8e37-8253f717534a | Palantir | Systems Engineer - Business Systems
+- [ ] https://jobs.lever.co/spotify/2a3b6947-2a3b-4d4a-a58d-eb242c3a2cae | Spotify | Senior Product Manager - Sharing & Social
+- [ ] https://jobs.lever.co/spotify/a69512de-6754-411c-a83f-1f944820e559 | Spotify | Senior Product Manager – Partner Growth
+
 ## Procesadas
