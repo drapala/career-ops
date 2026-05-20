@@ -1151,4 +1151,32 @@
 - [ ] https://jobs.lever.co/spotify/2a3b6947-2a3b-4d4a-a58d-eb242c3a2cae | Spotify | Senior Product Manager - Sharing & Social
 - [ ] https://jobs.lever.co/spotify/a69512de-6754-411c-a83f-1f944820e559 | Spotify | Senior Product Manager – Partner Growth
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7926025 | Intercom | Partner Solutions Engineer (NAMER & LATAM)
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7921414 | Intercom | Senior AI Deployment Consultant - Partners 
+- [ ] https://jobs.ashbyhq.com/sierra/b89816c1-80b2-449b-b69e-2c261b8e9e23 | Sierra | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/sierra/1c991675-099f-49dd-9b9b-bd3c9111e65c | Sierra | GTM Engineer
+- [ ] https://jobs.ashbyhq.com/sierra/99e82c10-977f-4b42-a737-2d9812ce614d | Sierra | Strategist, Agent Development
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5161728008 | Anthropic | Applied AI Architect, Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183021008 | Anthropic | Head of Accounting AI & Innovation
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5220143008 | Anthropic | Product Manager, Developer Productivity
+- [ ] https://jobs.ashbyhq.com/decagon/73aca25c-a457-46fd-b4c4-9f76f356586c | Decagon | Staff Research Engineer, Voice + Speech
+- [ ] https://jobs.ashbyhq.com/decagon/4a69b01d-6388-462a-8336-7cb288a87a0e | Decagon | Senior Research Engineer, Voice + Speech
+- [ ] https://helsing.ai/jobs/4334842101?gh_jid=4334842101 | Helsing | AI Research Engineer -  Computer Vision
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7676432003?gh_jid=7676432003 | Celonis | Engineering Manager - Orchestration and Automation
+- [ ] https://careers.hellofresh.com/global/en/job/7672162?gh_jid=7672162 | HelloFresh | Facilities & Maintenance Manager (all genders)
+- [ ] https://n26.com/en-eu/careers/positions/7941727?gh_jid=7941727 | N26 | Operations Manager - Complaints Management (German Market)
+- [ ] https://n26.com/en-eu/careers/positions/7941731?gh_jid=7941731 | N26 | Operations Manager - Complaints Management  (Germany) - Relocation to Madrid
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7727886 | Contentful | Senior Product Manager (f/m/d)
+- [ ] https://sumup.com/careers/positions/8032092002?gh_jid=8032092002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8447227002?gh_jid=8447227002 | SumUp | Onboarding Agent II
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4789348101 | PhysicsX | Forward Deployed Applications - Software Engineer
+- [ ] https://jobs.lever.co/palantir/8148182c-6127-4689-b615-7815a94173bb | Palantir | Forward Deployed Software Engineer
+- [ ] https://jobs.lever.co/palantir/e82b696e-a085-4bbf-8bcb-6d2c4f8cf2f7 | Palantir | Forward Deployed Software Engineer - US Government
+- [ ] https://jobs.lever.co/palantir/e1d6117e-2ee0-4cf6-8040-256c3009389f | Palantir | Systems Engineer - Business Systems
+- [ ] https://jobs.lever.co/spotify/c25dea90-3b36-4d7f-8011-ef1efd5c6e9e | Spotify | Group Product Manager - Messaging
+- [ ] https://jobs.ashbyhq.com/synthesia/08b78641-ac44-4656-95ba-d02df957e3e6 | Synthesia | Strategic Customer Success Manager - Italian Speaking 
+- [ ] https://jobs.ashbyhq.com/synthesia/84342701-d3e1-4915-987a-cdec0cb1bee8 | Synthesia | Strategic Customer Success Manager - French Speaking 
+- [ ] https://jobs.lever.co/mistral/249d0ec9-1824-41cb-8c4f-cb17a1d5d111 | Mistral AI | Applied Scientist / Research Engineer, AI4Engineering - EMEA
+- [ ] https://jobs.lever.co/mistral/a3b1b690-ed9e-4916-8a24-24f0ac0f1f8f | Mistral AI | Discovery Scientists - AI for Science - Paris
+
 ## Procesadas
