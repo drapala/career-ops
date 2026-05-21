@@ -1179,4 +1179,26 @@
 - [ ] https://jobs.lever.co/mistral/249d0ec9-1824-41cb-8c4f-cb17a1d5d111 | Mistral AI | Applied Scientist / Research Engineer, AI4Engineering - EMEA
 - [ ] https://jobs.lever.co/mistral/a3b1b690-ed9e-4916-8a24-24f0ac0f1f8f | Mistral AI | Discovery Scientists - AI for Science - Paris
 
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4866190101 | Parloa | Lead Agent Architect - SAP
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4871790101 | Parloa | Senior Agent Architect
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5221910008 | Anthropic | Account Executive, Beneficial Deployments (French Speaking)
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7943223 | Intercom | Partner Solutions Engineer (NAMER & LATAM)
+- [ ] https://jobs.ashbyhq.com/sierra/8f9d2381-aa28-4ad8-bdbd-8b6a7585b56c | Sierra | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/cohere/4fedfdfc-3c41-4b77-8c66-c17b4ed2aaeb | Cohere | Head of Solutions Architecture
+- [ ] https://helsing.ai/jobs/4871618101?gh_jid=4871618101 | Helsing | Transformation PMO Lead
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7739713003?gh_jid=7739713003 | Celonis | Working Student Digital Marketing
+- [ ] https://careers.hellofresh.com/global/en/job/7553086?gh_jid=7553086 | HelloFresh | Fulfillment Operations Specialist
+- [ ] https://sumup.com/careers/positions/8370140002?gh_jid=8370140002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8529498002?gh_jid=8529498002 | SumUp | Senior Technical Product Manager
+- [ ] https://jobs.lever.co/qonto/73b520ea-cca1-4b29-a9af-ddce38780c90 | Qonto | Growth Operations - Product Manager - Partnerships Channel
+- [ ] https://jobs.lever.co/qonto/471e0021-d630-4cd1-81c3-2fb2e9dc253c | Qonto | Senior Machine Learning Engineer for AI Product
+- [ ] https://jobs.ashbyhq.com/photoroom/5ded7e4c-de4d-4723-824e-41ce861666c6 | Photoroom | Senior Product Manager, Self-serve
+- [ ] https://jobs.ashbyhq.com/legora/24556afc-ddfe-4976-b330-3088d6946ebc | Legora | Senior Operations Manager - AI & Knowledge
+- [ ] https://jobs.ashbyhq.com/legora/0ca8ff9b-0338-4b1f-8113-15a37ddd0b0a | Legora | Director of Data Analytics and Business Systems
+- [ ] https://jobs.lever.co/palantir/90aa8748-3fef-4e2b-9ea9-c4dc5f37f0d2 | Palantir | Forward Deployed Software Engineer
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4009936009 | PlanetScale | Software Engineer - Sharded Postgres (Neki)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6001225004 | Hightouch | Solutions Engineer, Enterprise East (Pre-Sales)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6001217004 | Hightouch | Solutions Engineer, Mid-Market (Pre-Sales)
+- [ ] https://jobs.ashbyhq.com/synthesia/b1f960fd-f07a-4788-8e5c-8a7c62c77fb2 | Synthesia | Senior ML Engineer, Dubbing
+
 ## Procesadas
