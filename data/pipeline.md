@@ -1201,4 +1201,30 @@
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6001217004 | Hightouch | Solutions Engineer, Mid-Market (Pre-Sales)
 - [ ] https://jobs.ashbyhq.com/synthesia/b1f960fd-f07a-4788-8e5c-8a7c62c77fb2 | Synthesia | Senior ML Engineer, Dubbing
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4461450008 | Anthropic | Account Executive, AI Native 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5226862008 | Anthropic | Applied AI Architect, Applied AI (Digital Natives Business)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4880880008 | Anthropic | Manager, Account Executive (AI Native)
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4873079101 | Parloa | Senior Forward Deployed Engineer - Partner Success
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8551939002 | Airtable | Strategic Account Executive, AI Specialist
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7948297 | Intercom | Business Development Representative, Emerging AI Products 
+- [ ] https://jobs.ashbyhq.com/decagon/d3fca82a-d8e9-43fd-9917-719b051d6aea | Decagon | Software Engineer, Agent Orchestration
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5995789004 | Vercel | Senior Manager, Solutions Architect
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6002637004 | Arize AI | Forward Deployed Engineer, US
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4697778005 | Glean | Manager, AI Quality Evals
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4591195005 | Glean | Public Sector Solutions Engineer, SLED
+- [ ] https://getyourguide.careers/jobs/7837878?gh_jid=7837878 | GetYourGuide | Paid Search Lead (Ad Asset Intelligence & Automation)
+- [ ] https://getyourguide.careers/jobs/7552392?gh_jid=7552392 | GetYourGuide | Senior Product Manager, Connectivity 
+- [ ] https://getyourguide.careers/jobs/7920675?gh_jid=7920675 | GetYourGuide | Senior UX Manager (Payments, Checkout & Post-Booking) 
+- [ ] https://jobs.lever.co/palantir/98b81271-9e15-40b7-8dce-0c62f24702f9 | Palantir | Forward Deployed Software Engineer
+- [ ] https://sumup.com/careers/positions/8468191002?gh_jid=8468191002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8285232002?gh_jid=8285232002 | SumUp | Customer Support Agent - EN
+- [ ] https://sumup.com/careers/positions/8340130002?gh_jid=8340130002 | SumUp | Customer Support Agent- IT 
+- [ ] https://sumup.com/careers/positions/8558272002?gh_jid=8558272002 | SumUp | Senior Technical Product Manager
+- [ ] https://sumup.com/careers/positions/8560185002?gh_jid=8560185002 | SumUp | SIENA - Agenti di Vendita - P.Iva
+- [ ] https://sumup.com/careers/positions/8508062002?gh_jid=8508062002 | SumUp | Workplace Experience - Working Student
+- [ ] https://jobs.ashbyhq.com/sierra/8646493c-93a6-482e-a810-4a0aa6e3438f | Sierra | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/synthesia/2732bc00-620f-49ab-a0dc-001631d977df | Synthesia | Group Product Manager 
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6002877004 | Hightouch | Manager, Solutions Engineering, Mid-Market
+- [ ] https://jobs.ashbyhq.com/claylabs/c4ad4fac-6778-4bfa-a23e-6e7c32fe48d1 | Clay Labs | Solutions Engineer Manager
+
 ## Procesadas
