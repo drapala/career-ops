@@ -1227,4 +1227,21 @@
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6002877004 | Hightouch | Manager, Solutions Engineering, Mid-Market
 - [ ] https://jobs.ashbyhq.com/claylabs/c4ad4fac-6778-4bfa-a23e-6e7c32fe48d1 | Clay Labs | Solutions Engineer Manager
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5221914008 | Anthropic | Account Executive, Beneficial Deployments (Spanish Speaking)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5079916008 | Anthropic | Emerging Account Executive, AI Native
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4423394008 | Anthropic | Growth Account Executive, AI Native
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4976328008 | Anthropic | Manager– Growth Sales (AI-Native)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5153924008 | Anthropic | Product Manager, Multi-Cloud Growth - Google
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4796935101 | PolyAI | Forward Deployed AI Engineer (Must be PST timezone)
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4874171101 | Parloa | Senior Agent Architect - Partner Success 
+- [ ] https://jobs.ashbyhq.com/decagon/4ef4e97e-43b3-420f-be6f-1d0aab181149 | Decagon | Senior Agent Product Manager - Germany
+- [ ] https://jobs.ashbyhq.com/sierra/631848ec-1a74-4067-8b9f-cd04a71aab6d | Sierra | Software Engineer, Agent
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7737493003?gh_jid=7737493003 | Celonis | Working Student AI & Management Consulting (Nordics)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7746655003?gh_jid=7746655003 | Celonis | Working Student Applied AI Solution Consulting (Nordics)
+- [ ] https://n26.com/en-eu/careers/positions/7953649?gh_jid=7953649 | N26 | Head of Data Science - Generative AI
+- [ ] https://sumup.com/careers/positions/7869734002?gh_jid=7869734002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.lever.co/palantir/bf718bd3-b2ef-451e-8033-cb4d2d9c094b | Palantir | Forward Deployed Software Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/d46c3fc8-b87b-4b8b-bcc2-759944f77ae5 | ElevenLabs | Enterprise Solutions Engineer - Germany
+- [ ] https://jobs.ashbyhq.com/elevenlabs/b8af4833-d4a9-4ab4-baec-5da007f6d1e9 | ElevenLabs | General Manager - Spain
+
 ## Procesadas
