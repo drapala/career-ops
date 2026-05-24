@@ -1244,4 +1244,9 @@
 - [ ] https://jobs.ashbyhq.com/elevenlabs/d46c3fc8-b87b-4b8b-bcc2-759944f77ae5 | ElevenLabs | Enterprise Solutions Engineer - Germany
 - [ ] https://jobs.ashbyhq.com/elevenlabs/b8af4833-d4a9-4ab4-baec-5da007f6d1e9 | ElevenLabs | General Manager - Spain
 
+- [ ] https://jobs.ashbyhq.com/sierra/787c1efd-2327-46e7-9335-59a20ad4be18 | Sierra | Software Engineer, Agent
+- [ ] https://n26.com/en-eu/careers/positions/7951197?gh_jid=7951197 | N26 | Head of Data Science - Generative AI
+- [ ] https://sumup.com/careers/positions/8013031002?gh_jid=8013031002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.lever.co/palantir/c4442730-2926-41ad-8c0e-5e5a6b4d14ae | Palantir | Forward Deployed Software Engineer
+
 ## Procesadas
