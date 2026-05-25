@@ -1249,4 +1249,7 @@
 - [ ] https://sumup.com/careers/positions/8013031002?gh_jid=8013031002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 - [ ] https://jobs.lever.co/palantir/c4442730-2926-41ad-8c0e-5e5a6b4d14ae | Palantir | Forward Deployed Software Engineer
 
+- [ ] https://sumup.com/careers/positions/8032091002?gh_jid=8032091002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.lever.co/palantir/d084b769-6f53-4409-afa8-c183b059b384 | Palantir | Forward Deployed Software Engineer
+
 ## Procesadas
