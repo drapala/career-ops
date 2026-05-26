@@ -1252,4 +1252,9 @@
 - [ ] https://sumup.com/careers/positions/8032091002?gh_jid=8032091002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 - [ ] https://jobs.lever.co/palantir/d084b769-6f53-4409-afa8-c183b059b384 | Palantir | Forward Deployed Software Engineer
 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4549192005 | Glean | Partner Solutions Engineer 
+- [ ] https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0 | Palantir | Forward Deployed Software Engineer
+- [ ] https://sumup.com/careers/positions/7988602002?gh_jid=7988602002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.lever.co/qonto/66939e89-8d83-4b10-9e49-dbfd517057bb | Qonto | Backend Product Engineer - Python / AI
+
 ## Procesadas
