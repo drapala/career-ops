@@ -1257,4 +1257,16 @@
 - [ ] https://sumup.com/careers/positions/7988602002?gh_jid=7988602002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 - [ ] https://jobs.lever.co/qonto/66939e89-8d83-4b10-9e49-dbfd517057bb | Qonto | Backend Product Engineer - Python / AI
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5230755008 | Anthropic | Manager of Applied AI Architecture, Startups
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5222908008 | Anthropic | Partner Solutions Architect, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5127559008 | Anthropic | Product Manager, Consumer
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4843556101 | Parloa | GTM Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/7808684?gh_jid=7808684 | HelloFresh | Lead Product Manager, Growth
+- [ ] https://sumup.com/careers/positions/7988606002?gh_jid=7988606002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8556042002 | Wayve | Senior ML Performance Engineer (Inference Optimisation)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8562409002 | Wayve | Staff Product Manager – Cloud Platform - AI Portal
+- [ ] https://jobs.ashbyhq.com/legora/2d5dd270-fa08-4c10-ae9c-1dd13da5beec | Legora | Solutions Engineer
+- [ ] https://jobs.lever.co/pigment/39662985-9160-45be-8363-352c69edeeef | Pigment | Senior GenAI Engineer
+- [ ] https://jobs.lever.co/spotify/4d51cab2-09b9-4117-a732-a8a3e487b2b9 | Spotify | Senior Product Manager - Subscriptions Mission
+
 ## Procesadas
