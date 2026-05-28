@@ -1269,4 +1269,24 @@
 - [ ] https://jobs.lever.co/pigment/39662985-9160-45be-8363-352c69edeeef | Pigment | Senior GenAI Engineer
 - [ ] https://jobs.lever.co/spotify/4d51cab2-09b9-4117-a732-a8a3e487b2b9 | Spotify | Senior Product Manager - Subscriptions Mission
 
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4654856101 | PolyAI | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/elevenlabs/36bdb528-004b-482c-8924-33b27b76121f | ElevenLabs | Forward Deployed Engineer - Software Engineer - Singapore
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5231717008 | Anthropic | Supply Chain Security & Assurance Lead
+- [ ] https://jobs.ashbyhq.com/decagon/0902f176-33a3-4233-be8a-1e22d1e8d23d | Decagon | Engineering Manager, Agents
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7749429003?gh_jid=7749429003 | Celonis | Lead AI Consultant
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7749204003?gh_jid=7749204003 | Celonis | Principal Client Value Partner - Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7750227003?gh_jid=7750227003 | Celonis | Strategic Applied AI Solutions Consultant
+- [ ] https://careers.hellofresh.com/global/en/job/7916926?gh_jid=7916926 | HelloFresh | Principal Product Manager, Loyalty & Referrals
+- [ ] https://sumup.com/careers/positions/8468196002?gh_jid=8468196002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8567336002?gh_jid=8567336002 | SumUp | Executivo(a) de Vendas l Caucaia - CE
+- [ ] https://jobs.ashbyhq.com/lakera.ai/8f7e8228-3ac0-4b43-96f9-c7ce64a6c9da | Lakera | Enterprise Account Executive, AI Security (East)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8564317002 | Wayve | Partner Integration Engineer
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8564314002 | Wayve | Platform Engineer
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8564304002 | Wayve | Staff Data Platform Engineer
+- [ ] https://jobs.lever.co/spotify/cc21db45-9354-496b-b1a1-d5f293c4feb8 | Spotify | Senior Product Manager – Financial Engineering - Tax Solutions
+- [ ] https://jobs.lever.co/qonto/4869e9a9-001e-4775-a986-458679c1e9ef | Qonto | Banking Ops Apprentice
+- [ ] https://jobs.lever.co/qonto/450f66d1-3249-46ad-9fba-78c354386acf | Qonto | Tech Lead - AI Lab
+- [ ] https://jobs.lever.co/mistral/bfcc2d05-141a-49d3-aa4d-20d743ede9d9 | Mistral AI | AI Deployment Strategist, AI4Engineering - EMEA
+- [ ] https://jobs.lever.co/mistral/bc2e44fe-4397-4b3b-b1a5-3eab2a80658f | Mistral AI | Legal Counsel, Banking / Financing (Project finance)
+
 ## Procesadas
