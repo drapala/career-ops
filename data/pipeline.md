@@ -1256,6 +1256,19 @@
 - [ ] https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0 | Palantir | Forward Deployed Software Engineer
 - [ ] https://sumup.com/careers/positions/7988602002?gh_jid=7988602002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 - [ ] https://jobs.lever.co/qonto/66939e89-8d83-4b10-9e49-dbfd517057bb | Qonto | Backend Product Engineer - Python / AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5218573008 | Anthropic | Enterprise Account Executive - Retail
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/5916272 | Intercom | Senior Product Manager 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7609987003?gh_jid=7609987003 | Celonis | Associate Applied AI Engineer (France) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7749202003?gh_jid=7749202003 | Celonis | Principal Client Value Partner - Retail
+- [ ] https://sumup.com/careers/positions/8354976002?gh_jid=8354976002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/7875352002?gh_jid=7875352002 | SumUp |  Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/7871945002?gh_jid=7871945002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8329254002?gh_jid=8329254002 | SumUp | Selbstständiger Vertriebsmitarbeiter Außendienst (m/w/d)- Kiel 
+- [ ] https://sumup.com/careers/positions/8566489002?gh_jid=8566489002 | SumUp | Team Lead AML Operation
+- [ ] https://jobs.lever.co/qonto/d1f66e47-fa5b-49ed-9cbe-d357add5362c | Qonto | Senior Product Manager - Savings
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8568841002 | Wayve | Product Manager, Driving Features
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8567734002 | Wayve | System Integration Engineer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6008745004 | Hightouch | Founding Forward Deployed Marketer
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5230755008 | Anthropic | Manager of Applied AI Architecture, Startups
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5222908008 | Anthropic | Partner Solutions Architect, Applied AI
