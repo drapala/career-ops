@@ -1302,4 +1302,29 @@
 - [ ] https://jobs.lever.co/mistral/bfcc2d05-141a-49d3-aa4d-20d743ede9d9 | Mistral AI | AI Deployment Strategist, AI4Engineering - EMEA
 - [ ] https://jobs.lever.co/mistral/bc2e44fe-4397-4b3b-b1a5-3eab2a80658f | Mistral AI | Legal Counsel, Banking / Financing (Project finance)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5232392008 | Anthropic | Member of Staff, AI & Rule of Law
+- [ ] https://jobs.ashbyhq.com/elevenlabs/4bafa4ea-5271-43af-903e-2dfca0123753 | ElevenLabs | B2B Marketing - UKI Growth Lead
+- [ ] https://jobs.ashbyhq.com/bland/824f7ebb-6d71-4484-bc7d-a2bcd4441a70 | Bland AI | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7681157 | Intercom | Senior Sales Strategy & Operations Manager, AI Products
+- [ ] https://jobs.ashbyhq.com/decagon/ebeb6781-5357-4f70-a24b-0293a659bfac | Decagon | Agent Success Manager  
+- [ ] https://jobs.ashbyhq.com/decagon/e3c895d1-c215-4524-8b38-cad7209291ec | Decagon | Agent Success Manager - German Speaking
+- [ ] https://jobs.ashbyhq.com/vapi/1edbb1a0-40ba-4d25-b19c-c4d5639bb3fb | Vapi | GTM Engineer
+- [ ] https://jobs.ashbyhq.com/cohere/67c4c05a-f7ab-48dc-a779-af835e2d36f1 | Cohere | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/attio/cef00929-63ab-4927-8a3c-1ea1d4224606 | Attio | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/AlephAlpha/0ed0c9ef-8e9f-4161-80e6-55fc95c93736 | Aleph Alpha | Senior AI Software Engineer – Model Training  (f/m/d)
+- [ ] https://n26.com/en-eu/careers/positions/7912271?gh_jid=7912271 | N26 | Head of AI Products
+- [ ] https://careers.hellofresh.com/global/en/job/7423946?gh_jid=7423946 | HelloFresh | Market Automation Engineer (f/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/7916922?gh_jid=7916922 | HelloFresh | Principal Product Manager, Loyalty & Referrals 
+- [ ] https://jobs.ashbyhq.com/lakera.ai/5c6852fb-6fed-4d45-866a-98fb8adfbfb0 | Lakera | Enterprise Account Executive, AI Security (Seattle)
+- [ ] https://jobs.ashbyhq.com/photoroom/b75841ab-f3de-468c-893a-256d58b00c60 | Photoroom | Senior Product Manager, SMB E-commerce Growth
+- [ ] https://jobs.lever.co/mistral/a93b2891-9aaa-4c18-855e-37ef159d4eed | Mistral AI | Applied AI Engineer, Site Reliability Engineer - EMEA
+- [ ] https://sumup.com/careers/positions/8570775002?gh_jid=8570775002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Friuli-Venezia Giulia 
+- [ ] https://sumup.com/careers/positions/8570754002?gh_jid=8570754002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva - Liguria 
+- [ ] https://sumup.com/careers/positions/8570763002?gh_jid=8570763002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Lombardia 
+- [ ] https://sumup.com/careers/positions/8570784002?gh_jid=8570784002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Trentino- Alto Adige 
+- [ ] https://sumup.com/careers/positions/8570743002?gh_jid=8570743002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva - Valle D'Aosta
+- [ ] https://sumup.com/careers/positions/8570770002?gh_jid=8570770002 | SumUp | Agenti di Commercio/ Consulenti di vendita/ Procacciatori di Affari - P.Iva Veneto 
+- [ ] https://sumup.com/careers/positions/8354954002?gh_jid=8354954002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/7988613002?gh_jid=7988613002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+
 ## Procesadas
