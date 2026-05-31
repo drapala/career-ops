@@ -1327,4 +1327,10 @@
 - [ ] https://sumup.com/careers/positions/8354954002?gh_jid=8354954002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
 - [ ] https://sumup.com/careers/positions/7988613002?gh_jid=7988613002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 
+- [ ] https://jobs.ashbyhq.com/cohere/cd3eacfe-1169-4df0-8164-93a857d5ddf0 | Cohere | RevOps Analyst (Analytics)
+- [ ] https://jobs.ashbyhq.com/cohere/a03e02e4-76be-4666-a71d-e7b1d51e4a0f | Cohere | RevOps GTM Systems Architect
+- [ ] https://jobs.ashbyhq.com/attio/26c31052-b667-46ae-b459-049018e55e96 | Attio | Forward Deployed Engineer
+- [ ] https://sumup.com/careers/positions/7875400002?gh_jid=7875400002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8355672002?gh_jid=8355672002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+
 ## Procesadas
