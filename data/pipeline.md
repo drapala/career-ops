@@ -1350,4 +1350,30 @@
 - [ ] https://jobs.ashbyhq.com/supabase/636481f3-dc9e-4a9d-999f-06f87e173cc9 | Supabase | Product Manager - Postgres Platform
 - [ ] https://jobs.lever.co/mistral/ede2a7c2-38d8-4e6a-bd76-4ba3819b2fae | Mistral AI | Applied Scientist / Domain Expert, AI4Engineering - EMEA
 
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4880510101 | PolyAI | Forward Deployed AI Engineer - Vancouver
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5228931008 | Anthropic | Applied AI Architect (Startups)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5227643008 | Anthropic | [London] Applied AI Architect (Public Sector) 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4701912005 | Glean | Product Manager, Enterprise Intelligence
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5995824004 | Arize AI | Cloud & AI Technology Partner Manager
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5978967004 | Arize AI | Product Solutions Lead, AI Partner Ecosystem
+- [ ] https://jobs.ashbyhq.com/langchain/c882af7e-59aa-4017-b791-9a8094c0ef6f | LangChain | Solutions Architect (APAC)
+- [ ] https://helsing.ai/jobs/4880174101?gh_jid=4880174101 | Helsing | Mechanical Engineer, Kinematic Systems and Mechanisms
+- [ ] https://getyourguide.careers/jobs/7921049?gh_jid=7921049 | GetYourGuide | Senior workforce Management and AI Analyst
+- [ ] https://careers.hellofresh.com/global/en/job/7963186?gh_jid=7963186 | HelloFresh | [DACH MAG] Working Student FSQA and Quality Assurance (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7960625?gh_jid=7960625 | HelloFresh | Senior Manager, Supply Chain Operations
+- [ ] https://sumup.com/careers/positions/8294821002?gh_jid=8294821002 | SumUp | Agent Commercial Terrain - Indépendant (Freelance) - Saint-Étienne
+- [ ] https://sumup.com/careers/positions/7875409002?gh_jid=7875409002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/7875376002?gh_jid=7875376002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8539636002?gh_jid=8539636002 | SumUp | Senior Platform Engineer - Contact Centre
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8573684002 | Wayve | Fleet Service and Maintenance Technician
+- [ ] https://jobs.lever.co/qonto/ee6fa62c-4009-4393-85fb-b8767f0c3999 | Qonto | Events Manager Spain
+- [ ] https://jobs.ashbyhq.com/synthesia/c6b9462f-91b7-404d-ae28-5bfb950611ba | Synthesia | Technical Support Specialist - German Speaking
+- [ ] https://jobs.ashbyhq.com/synthesia/c2ba6d4d-f991-4432-a9c8-1514a93b08bb | Synthesia | Product Manager, New Product Bet 
+- [ ] https://jobs.ashbyhq.com/synthesia/31e1dca3-74fd-4f74-8f40-5bb19f4034bb | Synthesia | Product Manager, Enterprise
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4880930101 | PhysicsX | Forward Deployed Software Engineer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6011820004 | Hightouch | Partner Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/85606cff-df9a-462e-a6b9-5c7d0892eaa8 | Supabase | Partner Solutions Architect - AWS 
+- [ ] https://jobs.ashbyhq.com/supabase/202e9ca8-3c98-4dea-add5-0f7e2e98800c | Supabase | Product Manager - AI 
+- [ ] https://jobs.lever.co/pigment/a1be33de-4f92-4a74-9ea2-30965b384666 | Pigment | AI Deployment Strategist
+
 ## Procesadas
