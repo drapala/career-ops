@@ -1376,4 +1376,25 @@
 - [ ] https://jobs.ashbyhq.com/supabase/202e9ca8-3c98-4dea-add5-0f7e2e98800c | Supabase | Product Manager - AI 
 - [ ] https://jobs.lever.co/pigment/a1be33de-4f92-4a74-9ea2-30965b384666 | Pigment | AI Deployment Strategist
 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4702368005 | Glean | Product Manager, Core Experience
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4702369005 | Glean | Product Manager, Enterprise Intelligence
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4702367005 | Glean | Product Manager, Growth
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7762257003?gh_jid=7762257003 | Celonis | Client Value Partner - Retail 
+- [ ] https://careers.hellofresh.com/global/en/job/7977373?gh_jid=7977373 | HelloFresh | Claims & Risk Analyst
+- [ ] https://careers.hellofresh.com/global/en/job/7978117?gh_jid=7978117 | HelloFresh | Customer Care Specialist - Blended Campaign - Project based
+- [ ] https://careers.hellofresh.com/global/en/job/7978885?gh_jid=7978885 | HelloFresh |  Operations Trainer 
+- [ ] https://sumup.com/careers/positions/7875398002?gh_jid=7875398002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8468190002?gh_jid=8468190002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8537352002?gh_jid=8537352002 | SumUp | Product Manager
+- [ ] https://sumup.com/careers/positions/8459126002?gh_jid=8459126002 | SumUp | Senior Data Science/ML Engineer - Financial Crime
+- [ ] https://jobs.ashbyhq.com/photoroom/21d7187d-9d43-4d19-8580-13bf6513f1c0 | Photoroom | Customer Support Agent (Freelance/Part time)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8542296002 | Wayve | Systems Engineer, AI Validation 
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5837885004 | Isomorphic Labs | Head of Global Regulatory Affairs and Strategy
+- [ ] https://jobs.ashbyhq.com/synthesia/4721d2c3-3d94-45d3-b9f7-ea5e1f549ce2 | Synthesia | Product Designer, AI-Native Products (Senior/Staff-Level)
+- [ ] https://jobs.lever.co/palantir/16a1b500-13fe-4c22-ad89-372093b462da | Palantir | Deal Team - Business Affairs
+- [ ] https://jobs.ashbyhq.com/legora/8aa3a02e-6081-4237-9994-bcf61d1de050 | Legora | Platform Engineer
+- [ ] https://jobs.lever.co/mistral/b2498ec4-51e7-46b7-b258-d9bc40b6e39e | Mistral AI | Applied AI,  Senior/Staff Forward Deployed Machine Learning Engineer - Munich
+- [ ] https://jobs.lever.co/mistral/aff9f13c-e79f-4d66-98b1-f62dd1c552cd | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Munich
+- [ ] https://jobs.lever.co/mistral/45b0fae3-61ea-4cb0-8cd1-c1bc2a43a84a | Mistral AI | Applied AI, Technical Lead, Forward Deployed AI Engineer - Munich
+
 ## Procesadas
