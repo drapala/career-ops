@@ -1397,4 +1397,21 @@
 - [ ] https://jobs.lever.co/mistral/aff9f13c-e79f-4d66-98b1-f62dd1c552cd | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Munich
 - [ ] https://jobs.lever.co/mistral/45b0fae3-61ea-4cb0-8cd1-c1bc2a43a84a | Mistral AI | Applied AI, Technical Lead, Forward Deployed AI Engineer - Munich
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7982566 | Intercom | Forward Deployed Software Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5247640008 | Anthropic | Product Manager, Claude Code Model Performance 
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8498915002 | Airtable | Senior Solutions Architect
+- [ ] https://jobs.ashbyhq.com/elevenlabs/3f10ccc9-56a9-40bf-b5f1-33ab5834ff4a | ElevenLabs | Enterprise Solutions Engineer - Netherlands
+- [ ] https://jobs.ashbyhq.com/elevenlabs/07a8552c-4206-4c27-9f0d-d72d3e40d2a1 | ElevenLabs | Enterprise Solutions Engineer - Belgium
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4702147005 | Glean | Product Manager, Core Experience
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4702151005 | Glean | Product Manager, Growth
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7640401003?gh_jid=7640401003 | Celonis | Enterprise Business Development Representative (German speaker) | Relocation to Madrid, Spain
+- [ ] https://careers.hellofresh.com/global/en/job/7981175?gh_jid=7981175 | HelloFresh | Director, Fulfillment
+- [ ] https://careers.hellofresh.com/global/en/job/7808767?gh_jid=7808767 | HelloFresh | Principal Product Manager - Paid Social  
+- [ ] https://careers.hellofresh.com/global/en/job/7983358?gh_jid=7983358 | HelloFresh | Production & Fulfillment Lead (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7983326?gh_jid=7983326 | HelloFresh | Production Manager – Plating, RTI & Fulfillment (all genders)
+- [ ] https://sumup.com/careers/positions/7875407002?gh_jid=7875407002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8468195002?gh_jid=8468195002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.lever.co/palantir/2add8e90-c65a-4684-8c0d-6dfa7a541871 | Palantir | Deal Team - Business Affairs
+- [ ] https://jobs.ashbyhq.com/photoroom/f7cf95df-3479-49fa-bff6-ce7c31c0c136 | Photoroom | Growth Product Manager
+
 ## Procesadas
