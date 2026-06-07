@@ -1440,4 +1440,8 @@
 - [ ] https://jobs.ashbyhq.com/supabase/184c3ad5-5d5f-44a1-98f7-65ff6f287b2f | Supabase | Product Manager - Interfaces
 - [ ] https://jobs.lever.co/palantir/a7a77fc5-9f68-4ded-aad7-4814d96cb316 | Palantir | Deal Team - Business Affairs
 
+- [ ] https://jobs.ashbyhq.com/decagon/ee0c62b4-8e2a-4f0e-9bf4-9ff139374250 | Decagon | Agent Development Manager
+- [ ] https://sumup.com/careers/positions/7875410002?gh_jid=7875410002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8370118002?gh_jid=8370118002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+
 ## Procesadas
