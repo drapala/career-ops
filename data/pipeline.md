@@ -1444,4 +1444,10 @@
 - [ ] https://sumup.com/careers/positions/7875410002?gh_jid=7875410002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
 - [ ] https://sumup.com/careers/positions/8370118002?gh_jid=8370118002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 
+- [ ] https://sumup.com/careers/positions/8354974002?gh_jid=8354974002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8425643002?gh_jid=8425643002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.ashbyhq.com/DeepL/f8094527-6d0f-4be9-8bcb-b7b446a1483f | DeepL | Senior Solutions Architect - Voice 
+- [ ] https://jobs.ashbyhq.com/decagon/e0f5118b-9af7-4d37-87a8-c79c8163116a | Decagon | Agent Development Manager
+- [ ] https://jobs.lever.co/mistral/1abe543d-4e31-4510-9782-ddab360080aa | Mistral AI | AI Deployment Strategist - USA
+
 ## Procesadas
