@@ -1450,4 +1450,22 @@
 - [ ] https://jobs.ashbyhq.com/decagon/e0f5118b-9af7-4d37-87a8-c79c8163116a | Decagon | Agent Development Manager
 - [ ] https://jobs.lever.co/mistral/1abe543d-4e31-4510-9782-ddab360080aa | Mistral AI | AI Deployment Strategist - USA
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4936029008 | Anthropic | Product Manager, Platform
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/6781237 | Intercom | AI Design Leader
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6016529004 | Arize AI | AI Sales Engineer, Digital Native
+- [ ] https://jobs.ashbyhq.com/decagon/e973eabb-2544-4323-ba60-e443dae140e5 | Decagon | Agent Development Manager
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7765669003?gh_jid=7765669003 | Celonis | Associate Applied AI Engineer (DACH) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7762505003?gh_jid=7762505003 | Celonis | Associate Applied AI Engineer (Scale EMEA) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7765909003?gh_jid=7765909003 | Celonis | Senior Value Engineer - Banking
+- [ ] https://careers.hellofresh.com/global/en/job/7988450?gh_jid=7988450 | HelloFresh | Lead Facilities & Maintenance Integration Manager (all genders)
+- [ ] https://sumup.com/careers/positions/8354982002?gh_jid=8354982002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/7927624002?gh_jid=7927624002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8580040002?gh_jid=8580040002 | SumUp | Customer Support Agent
+- [ ] https://jobs.ashbyhq.com/faculty/f9f3871f-f16a-43ef-a477-e2e5ba3ab9d7 | Faculty | Lead Data Scientist - Retail
+- [ ] https://jobs.ashbyhq.com/faculty/70340093-7182-4d2c-b0d4-f383190856bf | Faculty | Lead Machine Learning Engineer - Retail 
+- [ ] https://jobs.ashbyhq.com/perplexity/0a18a699-741e-4288-baa1-e4184b130676 | Perplexity | Member of Technical Staff (AI Policy and Strategic Initiatives)
+- [ ] https://jobs.ashbyhq.com/perplexity/b744b7a6-32d3-49b3-81c7-8f6d862ed848 | Perplexity | Engineering Manager (TLM, Agents)
+- [ ] https://jobs.lever.co/qonto/879e3415-e926-4397-81c6-0546032877d8 | Qonto | Lead AML Project Manager
+- [ ] https://jobs.lever.co/pigment/15e7b82c-ebf3-477c-96b5-96a3b25e0663 | Pigment | AI Deployment Strategist
+
 ## Procesadas
