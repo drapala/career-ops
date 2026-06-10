@@ -1468,4 +1468,19 @@
 - [ ] https://jobs.lever.co/qonto/879e3415-e926-4397-81c6-0546032877d8 | Qonto | Lead AML Project Manager
 - [ ] https://jobs.lever.co/pigment/15e7b82c-ebf3-477c-96b5-96a3b25e0663 | Pigment | AI Deployment Strategist
 
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4891112101 | PolyAI | Senior Agent Design Engineer 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4702767005 | Glean | Strategic Account Executive, UKI
+- [ ] https://jobs.ashbyhq.com/pinecone/af4c8c1e-77f8-4da8-9837-7fd2c0a4d582 | Pinecone | Senior Data Platform Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7765677003?gh_jid=7765677003 | Celonis | Associate Applied AI Engineer (DACH) - Orbit Program
+- [ ] https://sumup.com/careers/positions/8354977002?gh_jid=8354977002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8197069002?gh_jid=8197069002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.lever.co/pigment/1a9ccf1f-c28d-4ed4-ab40-d093eb8fee63 | Pigment | AI Deployment Strategist
+- [ ] https://n26.com/en-eu/careers/positions/7857802?gh_jid=7857802 | N26 | Data Engineer - Platform Engineering 
+- [ ] https://jobs.ashbyhq.com/synthesia/7afbc805-b77e-4382-8577-5818dfdaea28 | Synthesia |  Digital Designer (French-Speaking)
+- [ ] https://jobs.ashbyhq.com/legora/6dae34ec-2164-46de-bec7-a877b96a0f7c | Legora |  AI Marketing Engineer
+- [ ] https://jobs.lever.co/spotify/6f663028-2c8f-4bce-b1a3-2b20acca7800 | Spotify | Machine Learning Engineer - Artist-First AI Music Lab
+- [ ] https://jobs.ashbyhq.com/claylabs/f90028b7-6c35-4392-824c-105967ccd406 | Clay Labs | GTM Engineer - Systems and Infrastructure
+- [ ] https://jobs.lever.co/qonto/599b0148-94b7-43cd-9b97-231467376e39 | Qonto | Senior Product Manager for our AI Lab
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4935314008 | Anthropic | Recruiter, AI Research
+
 ## Procesadas
