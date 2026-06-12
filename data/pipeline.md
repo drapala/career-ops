@@ -1500,4 +1500,33 @@
 - [ ] https://job-boards.greenhouse.io/planetscale/jobs/4280570009 | PlanetScale | Software Engineer - Neki Orchestration
 - [ ] https://jobs.lever.co/pigment/27d0415e-b9fe-446f-bf45-aa95c660b0a8 | Pigment | AI Deployment Strategist
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5253339008 | Anthropic | Product Manager, Enterprise
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5254623008 | Anthropic | Product Manager, GTM Experiences
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5139628008 | Anthropic |  Product Manager, Safeguards Rare Harms
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6016765004 | Vercel | Growth Marketing Manager, Agent Stack 
+- [ ] https://jobs.ashbyhq.com/attio/d973504f-6cdd-4eaa-912d-b8e8dc8703d9 | Attio | Senior Platform Engineer 
+- [ ] https://jobs.ashbyhq.com/deepgram/f924e637-6bfa-46fc-a05a-b4bcdb176f78 | Deepgram | German Speaking- Sales Development Representative, EMEA
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7770073003?gh_jid=7770073003 | Celonis | Principal Process Intelligence & Supply Chain Transformation Consultant - Manufacturing
+- [ ] https://careers.hellofresh.com/global/en/job/7981787?gh_jid=7981787 | HelloFresh | Jr. Supply Chain Coordinator (All Genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7988614?gh_jid=7988614 | HelloFresh | Staff Software Engineer, Supply Chain Management Technology (all genders) 
+- [ ] https://careers.hellofresh.com/global/en/job/7996932?gh_jid=7996932 | HelloFresh | Teamleitung FSQA (all genders)
+- [ ] https://n26.com/en-eu/careers/positions/7806652?gh_jid=7806652 | N26 | Banking Operations - Claims Associate German market
+- [ ] https://n26.com/en-eu/careers/positions/7996650?gh_jid=7996650 | N26 | Senior Product Manager - Conversational Banking
+- [ ] https://sumup.com/careers/positions/8588811002?gh_jid=8588811002 | SumUp | Agent de Suporte [Libras]
+- [ ] https://sumup.com/careers/positions/8354984002?gh_jid=8354984002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/7875347002?gh_jid=7875347002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8585777002?gh_jid=8585777002 | SumUp | MLRO 
+- [ ] https://jobs.ashbyhq.com/lakera.ai/872517f6-7ecb-4f5b-90c6-848d3ff4a8bf | Lakera | Solutions Engineer (Sacramento, California)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/85ed83e1-483a-424a-8e7b-9c8fd7adb0cd | Lakera | Solutions Engineer (Fremont, California)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/a093ea56-8918-4902-b5e4-f2d736e15940 | Lakera | Solutions Engineer (Mountain View, California)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/97940de3-1bbb-4609-87f2-cc3397c1242d | Lakera | Solutions Engineer (San Jose, California)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/a741bb5f-9556-4e5a-84ad-00344ce1d5ab | Lakera | Solutions Engineer (San Diego, California)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/4572ad9c-3a65-499b-aa93-6389bbb4752a | Lakera | Solutions Engineer (Los Angeles, California)
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5818858004 | Isomorphic Labs | Software Engineer (Training Platform)
+- [ ] https://jobs.lever.co/qonto/e97346dd-7496-448d-9bbb-38a560760c82 | Qonto | Data Engineer for AI Product
+- [ ] https://jobs.ashbyhq.com/perplexity/4ab39122-1d15-4874-8ab7-c6a241472743 | Perplexity | Member of Technical Staff (AI Software Engineer, Agents)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6020299004 | Hightouch | Engineering Manager, Agents
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6020404004 | Hightouch | Staff Engineer, AI Productivity
+- [ ] https://jobs.lever.co/pigment/aa87cacc-8a4e-4e8a-9341-e1e7624d05e9 | Pigment | AI Deployment Strategist
+
 ## Procesadas
