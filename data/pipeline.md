@@ -1529,4 +1529,23 @@
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6020404004 | Hightouch | Staff Engineer, AI Productivity
 - [ ] https://jobs.lever.co/pigment/aa87cacc-8a4e-4e8a-9341-e1e7624d05e9 | Pigment | AI Deployment Strategist
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5255853008 | Anthropic | IT Systems Engineer, Client Platform Engineer
+- [ ] https://jobs.ashbyhq.com/sierra/b37a6f9e-53c7-4c47-beb5-1ab4451f3001 | Sierra | Software Engineer, Agent (Cantonese Speaking)
+- [ ] https://jobs.ashbyhq.com/cohere/01a34bc3-6421-4af2-bf5b-f42e98155dda | Cohere | Technical Program Manager, AI Delivery for Public Sector & Defence 
+- [ ] https://jobs.ashbyhq.com/cohere/f3cf5d6a-5a93-41b5-8a00-160e120859ff | Cohere | RevOps - Compensation & GTM Integration
+- [ ] https://jobs.ashbyhq.com/n8n/e34d0a51-253b-4ca0-96ec-f3685d0fad9e | n8n | Forward Deployed Engineering Lead
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7764531003?gh_jid=7764531003 | Celonis | Client Account Lead - Strategy & Transformation (Pharma)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7771534003?gh_jid=7771534003 | Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence (Pharma)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7771535003?gh_jid=7771535003 | Celonis | Client Value Partner (CVP) - AI-Driven Transformation & Process Intelligence (Pharma)
+- [ ] https://sumup.com/careers/positions/8354975002?gh_jid=8354975002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8210397002?gh_jid=8210397002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8576666002?gh_jid=8576666002 | SumUp | SDR Coach and Trainer
+- [ ] https://jobs.ashbyhq.com/lakera.ai/15ab5a5a-2c7a-4fc9-822d-68759d5e4db4 | Lakera | Solutions Engineer (Amsterdam, Netherlands)
+- [ ] https://careers.hellofresh.com/global/en/job/7942481?gh_jid=7942481 | HelloFresh | (US-DC) Area Manager I, Fulfillment
+- [ ] https://careers.hellofresh.com/global/en/job/8003705?gh_jid=8003705 | HelloFresh | [US-DC] Director, Fulfillment
+- [ ] https://jobs.ashbyhq.com/lovable/f1c3bdd3-683b-409f-b0a1-5a39f9c7dd72 | Lovable | Product Manager (Partnerships)
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066993101 | Amplemarket | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/perplexity/7f2b3619-5ffa-467b-be6f-7a6b7d487892 | Perplexity | Member of Technical Staff (Software Engineer, Agent Capabilities)
+- [ ] https://jobs.ashbyhq.com/faculty/449fa059-c78d-4cf0-b406-c0a04d1e7f3e | Faculty | Head of Banking
+
 ## Procesadas
