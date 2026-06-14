@@ -1548,4 +1548,6 @@
 - [ ] https://jobs.ashbyhq.com/perplexity/7f2b3619-5ffa-467b-be6f-7a6b7d487892 | Perplexity | Member of Technical Staff (Software Engineer, Agent Capabilities)
 - [ ] https://jobs.ashbyhq.com/faculty/449fa059-c78d-4cf0-b406-c0a04d1e7f3e | Faculty | Head of Banking
 
+- [ ] https://sumup.com/careers/positions/8210442002?gh_jid=8210442002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+
 ## Procesadas
