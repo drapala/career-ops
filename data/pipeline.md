@@ -1552,4 +1552,28 @@
 
 - [ ] https://sumup.com/careers/positions/7993285002?gh_jid=7993285002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8209823002 | Airtable | Senior Mid Market Account Executive, AI Native
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6030903004 | Arize AI | AI Solutions Manager, Digital Native
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6030902004 | Arize AI | AI Solutions Manager, East
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6030953004 | Arize AI | Forward Deployed AI Engineer, West
+- [ ] https://jobs.ashbyhq.com/n8n/0bfb0054-67f6-4bf2-84de-9b36dfcb0e41 | n8n | Senior Product Manager (Enterprise)
+- [ ] https://jobs.ashbyhq.com/cohere/4a3c3eb2-ae2e-4a86-a677-7bdecbc7d76e | Cohere | Software Engineer, Agents & Automations
+- [ ] https://careers.hellofresh.com/global/en/job/7846756?gh_jid=7846756 | HelloFresh | Automation Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8007181?gh_jid=8007181 | HelloFresh | Multi Skilled Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8007182?gh_jid=8007182 | HelloFresh | Multi Skilled Maintenance Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/7972630?gh_jid=7972630 | HelloFresh | [US HQ] Director, Value Stream Fulfillment
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7773708003?gh_jid=7773708003 | Celonis |  Lead AI Deployment Architect (Italian Speaking)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7765927003?gh_jid=7765927003 | Celonis | Principal Digital Transformation & Process Optimisation Consultant - Manufacturing/Production
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7773716003?gh_jid=7773716003 | Celonis | Senior Process Intelligence and Digital Transformation Consultant - AI & Process Analytics (Public Sector)
+- [ ] https://n26.com/en-eu/careers/positions/7992076?gh_jid=7992076 | N26 | Complaints Legal Analyst (German Market)
+- [ ] https://n26.com/en-eu/careers/positions/8000161?gh_jid=8000161 | N26 | Complaints Legal Analyst (Spanish Market) - Maternity Cover 
+- [ ] https://n26.com/en-eu/careers/positions/7992395?gh_jid=7992395 | N26 | Information Security Controls Manager - Cloud & AI Governance
+- [ ] https://traderepublic.com/en-de/about?jobId=6255748003&gh_jid=6255748003 | Trade Republic | Process Operations Working Student (f/d/m)
+- [ ] https://jobs.lever.co/mistral/ca891ff4-2b47-41cd-9815-168688922d91 | Mistral AI | RFP & Bid Manager - AI Solutions
+- [ ] https://jobs.lever.co/palantir/0a0d2db2-75a5-48e4-b0a0-81baa6588e36 | Palantir | Forward Deployed Software Engineer - Norwegian Government
+- [ ] https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382 | Palantir | Forward Deployed Software Engineer, New Grad - Intel, US Government
+- [ ] https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb | Palantir | Forward Deployed Software Engineer, New Grad - US Government
+- [ ] https://jobs.ashbyhq.com/claylabs/37d8354d-a379-4d1e-b098-2d8740c8bae3 | Clay Labs | IT Systems Engineer, Identity & Automation
+- [ ] https://sumup.com/careers/positions/8210443002?gh_jid=8210443002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+
 ## Procesadas
