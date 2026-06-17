@@ -1576,4 +1576,19 @@
 - [ ] https://jobs.ashbyhq.com/claylabs/37d8354d-a379-4d1e-b098-2d8740c8bae3 | Clay Labs | IT Systems Engineer, Identity & Automation
 - [ ] https://sumup.com/careers/positions/8210443002?gh_jid=8210443002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 
+- [ ] https://jobs.ashbyhq.com/sierra/013d54ba-6658-448b-9de6-c7ba8dcad77f | Sierra | Forward Deployed Infrastructure Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4705011005 | Glean | AI Success Manager (US East Customer Hours)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4705017005 | Glean | AI Success Manager (US West Customer Hours)
+- [ ] https://jobs.ashbyhq.com/cohere/87e9fd4e-49ac-4242-97be-7da6f718020d | Cohere | Product Manager, Integrations
+- [ ] https://jobs.ashbyhq.com/attio/4649d1da-9672-4e04-bb7a-a71fb816615c | Attio | Solutions Engineer [Pre and Post-Sales] - SMB
+- [ ] https://helsing.ai/jobs/4900456101?gh_jid=4900456101 | Helsing | Software Engineer, Platform Engineering
+- [ ] https://jobs.lever.co/mistral/80358670-36c7-4b00-85f9-9051dc8a341e | Mistral AI | Applied AI Engineer, Senior/Staff Devops/SRE - Singapore
+- [ ] https://jobs.ashbyhq.com/faculty/02810d92-1349-46df-818b-344e033c01ca | Faculty | Test Position (Website Maintenance)
+- [ ] https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca | Palantir | Forward Deployed Software Engineer, New Grad - US Government
+- [ ] https://jobs.ashbyhq.com/synthesia/317a64dc-8dc1-4deb-bbae-9e5d661c23b9 | Synthesia | Solutions Architect
+- [ ] https://jobs.lever.co/spotify/30874804-804d-4f2c-8f5d-192ca8285930 | Spotify | Senior Sales Trainer - Advertising
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8011085 | Intercom | Senior Solutions Engineer
+- [ ] https://sumup.com/careers/positions/8531513002?gh_jid=8531513002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8576667002?gh_jid=8576667002 | SumUp | Senior Full Stack Engineer - Sidekick
+
 ## Procesadas
