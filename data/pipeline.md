@@ -1591,4 +1591,14 @@
 - [ ] https://sumup.com/careers/positions/8531513002?gh_jid=8531513002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 - [ ] https://sumup.com/careers/positions/8576667002?gh_jid=8576667002 | SumUp | Senior Full Stack Engineer - Sidekick
 
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8597941002 | Airtable | Senior Solutions Architect- West Coast
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4706392005 | Glean | Solutions Engineer, DACH
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7627711003?gh_jid=7627711003 | Celonis | Associate Technology Consultant - Galaxy Graduate Program (German or French speaking)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7775886003?gh_jid=7775886003 | Celonis | Senior Management & Technology Consultant - AI & Process Analytics
+- [ ] https://traderepublic.com/en-de/about?jobId=6318622003&gh_jid=6318622003 | Trade Republic | ML Platform Engineer (Berlin/London/Paris) 
+- [ ] https://careers.hellofresh.com/global/en/job/7993055?gh_jid=7993055 | HelloFresh | Growth Marketing Specialist, Direct Mail
+- [ ] https://careers.hellofresh.com/global/en/job/8012272?gh_jid=8012272 | HelloFresh | Supply Chain Analyst
+- [ ] https://jobs.lever.co/spotify/a025cf69-f8c6-4873-9a8b-7ca6b1fbe9fd | Spotify | Principal Product Manager, Agentic Surfaces
+- [ ] https://jobs.ashbyhq.com/sierra/758beaca-db59-4e46-9867-7a93989735a7 | Sierra | Product Manager, Agent Development - Flagship Deployment
+
 ## Procesadas
