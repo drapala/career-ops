@@ -1601,4 +1601,17 @@
 - [ ] https://jobs.lever.co/spotify/a025cf69-f8c6-4873-9a8b-7ca6b1fbe9fd | Spotify | Principal Product Manager, Agentic Surfaces
 - [ ] https://jobs.ashbyhq.com/sierra/758beaca-db59-4e46-9867-7a93989735a7 | Sierra | Product Manager, Agent Development - Flagship Deployment
 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4707391005 | Glean | Manager, AI Outcomes 
+- [ ] https://jobs.ashbyhq.com/decagon/834d9a8b-4f7f-416a-9953-05d93c326a5f | Decagon | Staff Software Engineer, Agents
+- [ ] https://helsing.ai/jobs/4902953101?gh_jid=4902953101 | Helsing | Machine Learning Engineer, Detection and Tracking
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7765936003?gh_jid=7765936003 | Celonis | Associate Applied AI Engineer (Benelux) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7773301003?gh_jid=7773301003 | Celonis | Client Account Lead - Strategy & Transformation (Logistics/Transportation)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7777097003?gh_jid=7777097003 | Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence (Logistics/Transportation)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7777096003?gh_jid=7777096003 | Celonis | Client Value Partner- AI-Driven Transformation & Process Intelligence (Logistics/Transportation)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7742457003?gh_jid=7742457003 | Celonis | Engagement Manager - AI & Process Intelligence
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7742436003?gh_jid=7742436003 | Celonis | Senior Engagement Manager - AI & Process Intelligence
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6097447004 | Hightouch | AI Creative Designer, Email
+- [ ] https://jobs.lever.co/qonto/53f5103c-e7eb-4b7f-baa4-777968faf405 | Qonto | Senior Product Manager [Accounting expertise] - German speaking 🇩🇪
+- [ ] https://jobs.ashbyhq.com/sierra/4f0e65ba-b262-4d79-b926-3988f8eb0c00 | Sierra | Product Manager, Agent Development (Brazilian Portuguese speaking)
+
 ## Procesadas
