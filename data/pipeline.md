@@ -1614,4 +1614,18 @@
 - [ ] https://jobs.lever.co/qonto/53f5103c-e7eb-4b7f-baa4-777968faf405 | Qonto | Senior Product Manager [Accounting expertise] - German speaking 🇩🇪
 - [ ] https://jobs.ashbyhq.com/sierra/4f0e65ba-b262-4d79-b926-3988f8eb0c00 | Sierra | Product Manager, Agent Development (Brazilian Portuguese speaking)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5271380008 | Anthropic | Research Engineer, Domain Scaling
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4903164101 | Parloa | Senior Agent Architect (France)
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4903168101 | Parloa |  Senior Agent Architect (Italy)
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4903167101 | Parloa | Senior Agent Architect (Spain)
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4747267101 | Parloa | Senior Forward Deployed Engineer (France)
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4751509101 | Parloa | Senior Forward Deployed Engineer (Spain)
+- [ ] https://jobs.ashbyhq.com/decagon/7d9e30a4-249b-4032-930c-4bd7bc8addb1 | Decagon | Senior Agent Product Manager - Sydney
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7721667003?gh_jid=7721667003 | Celonis | Enterprise Account Executive Benelux CPG & Retail
+- [ ] https://n26.com/en-eu/careers/positions/8009937?gh_jid=8009937 | N26 | Operational Readiness Associate - Complaints Management and Prevention
+- [ ] https://careers.hellofresh.com/global/en/job/8018882?gh_jid=8018882 | HelloFresh | Maintenance Technician I 
+- [ ] https://jobs.lever.co/mistral/ebbae799-78e9-4705-97bc-9f86d359f56f | Mistral AI | AI Deployment Strategist - Canada
+- [ ] https://jobs.lever.co/qonto/4fcecb44-bb42-4c33-94c6-9216ea464754 | Qonto | Head of AML
+- [ ] https://jobs.lever.co/qonto/88cc7044-a37a-44fc-9d93-1ec69dcfae79 | Qonto | Website Product Manager - Growth
+
 ## Procesadas
