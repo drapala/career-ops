@@ -1628,4 +1628,8 @@
 - [ ] https://jobs.lever.co/qonto/4fcecb44-bb42-4c33-94c6-9216ea464754 | Qonto | Head of AML
 - [ ] https://jobs.lever.co/qonto/88cc7044-a37a-44fc-9d93-1ec69dcfae79 | Qonto | Website Product Manager - Growth
 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7775887003?gh_jid=7775887003 | Celonis | Strategic Value & Process Optimisation Consultant - Supply Chain
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7779591003?gh_jid=7779591003 | Celonis | Value Consultant - Data Analytics & Supply Chain Transformation
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7773309003?gh_jid=7773309003 | Celonis | Value Engineer (Supply Chain) - Iberia & Latam
+
 ## Procesadas
