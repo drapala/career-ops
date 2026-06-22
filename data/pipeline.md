@@ -1632,4 +1632,6 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7779591003?gh_jid=7779591003 | Celonis | Value Consultant - Data Analytics & Supply Chain Transformation
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7773309003?gh_jid=7773309003 | Celonis | Value Engineer (Supply Chain) - Iberia & Latam
 
+- [ ] https://careers.hellofresh.com/global/en/job/8020023?gh_jid=8020023 | HelloFresh | Maintenance Technician I 
+
 ## Procesadas
