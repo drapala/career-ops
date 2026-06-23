@@ -1634,4 +1634,19 @@
 
 - [ ] https://careers.hellofresh.com/global/en/job/8020023?gh_jid=8020023 | HelloFresh | Maintenance Technician I 
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5247407008 | Anthropic | Research Product Manager, Model Behaviors
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4905260101 | Parloa | Staff/Principal Product Manager, Infrastructure Platform
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4904498101 | Parloa | Working Student - AI Agent Architecture 
+- [ ] https://jobs.ashbyhq.com/sierra/d7febb53-07d2-44fb-8cd0-7e5a011fdf24 | Sierra | Strategist, Agent Development (Brazilian Portuguese speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/f51d6c09-d767-4e86-bc62-216b2051e318 | Sierra | Software Engineer, Agent (Brazilian Portuguese speaking)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4706804005 | Glean | Associate Solutions Architect 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4707386005 | Glean | Industrial Trainee, Tax
+- [ ] https://traderepublic.com/en-de/about?jobId=7775140003&gh_jid=7775140003 | Trade Republic | Platform Engineer – Backend & Reliability
+- [ ] https://sumup.com/careers/positions/8508079002?gh_jid=8508079002 | SumUp | Senior Backend Engineer - Bookings
+- [ ] https://sumup.com/careers/positions/8602283002?gh_jid=8602283002 | SumUp | Senior Software Engineer (Golang – Pricing Domain)
+- [ ] https://careers.hellofresh.com/global/en/job/8022305?gh_jid=8022305 | HelloFresh | Maintenance Technician I
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8601206002 | Wayve | Quality Assurance and Training Coordinator
+- [ ] https://jobs.ashbyhq.com/faculty/3c808ef2-1d15-4352-bf87-93fef11027d1 | Faculty | Lead AI/ML Engineer
+- [ ] https://jobs.lever.co/spotify/01afc9d0-ca8d-494f-a0c9-e95dc7c9e555 | Spotify | Senior Product Manager - Core Experience
+
 ## Procesadas
