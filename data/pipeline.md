@@ -1649,4 +1649,23 @@
 - [ ] https://jobs.ashbyhq.com/faculty/3c808ef2-1d15-4352-bf87-93fef11027d1 | Faculty | Lead AI/ML Engineer
 - [ ] https://jobs.lever.co/spotify/01afc9d0-ca8d-494f-a0c9-e95dc7c9e555 | Spotify | Senior Product Manager - Core Experience
 
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4906262101 | Parloa | Senior Forward Deployed Engineer (France)
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4906263101 | Parloa | Senior Forward Deployed Engineer (Spain)
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4906177101 | Parloa | Team Lead Forward Deployed Engineering
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8382119002 | Airtable | Senior Manager, Marketing AI Operations
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5205723008 | Anthropic | Strategic Deals Lead, Compute, Networking & Memory
+- [ ] https://jobs.ashbyhq.com/sierra/61bb1eca-b416-4e6d-a0ac-5f418b35a8f3 | Sierra | Forward Deployed Infrastructure Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/9109be1c-b6e3-430f-a964-887253ef891a | Decagon | Product Manager, Duet
+- [ ] https://jobs.ashbyhq.com/decagon/a9e1123e-b6e7-4f93-ad4d-6c54a8c33a72 | Decagon | Senior Software Engineer, Platform Engineering
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/5276450008 | Black Forest Labs | Forward Deployed, Robotics Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7767354003?gh_jid=7767354003 | Celonis | Working Student Employment Law
+- [ ] https://careers.hellofresh.com/global/en/job/8018870?gh_jid=8018870 | HelloFresh | Product Manager
+- [ ] https://careers.hellofresh.com/global/en/job/8023145?gh_jid=8023145 | HelloFresh | Schichtleiter Maintenance (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8021245?gh_jid=8021245 | HelloFresh | Supply Chain Associate, Logistics/Shipping
+- [ ] https://careers.hellofresh.com/global/en/job/8023142?gh_jid=8023142 | HelloFresh | Teamleiter Instandhaltung – Schichtbetrieb (all genders)
+- [ ] https://traderepublic.com/en-de/about?jobId=7781222003&gh_jid=7781222003 | Trade Republic | Working Student - Corporate IT & Operations (London) 
+- [ ] https://jobs.ashbyhq.com/lovable/433cd888-45cf-456b-98e1-f1c53b5c6dbc | Lovable | GTM Engineering Lead
+- [ ] https://jobs.lever.co/spotify/03437e2a-2d5e-4593-9e97-11271014932e | Spotify | Product Manager - Data Platform
+- [ ] https://jobs.ashbyhq.com/legora/3f80dbce-825a-45f9-8180-f3dcfc153086 | Legora | Solutions Engineer, London
+
 ## Procesadas
