@@ -1761,4 +1761,19 @@
 - [ ] https://jobs.lever.co/palantir/53fb4c05-f949-4146-a046-5c063c36a628 | Palantir | Forward Deployed Software Engineer - Spain
 - [ ] https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial
 
+- [ ] https://jobs.ashbyhq.com/deepgram/68372d7d-b7a9-439e-a0a7-76690576aba4 | Deepgram | Software Engineer - Applied AI (Senior or Staff Level)
+- [ ] https://jobs.lever.co/qonto/ef93ff43-495e-43d6-90f9-8674bfe0cf1f | Qonto | Fraud Agent - Italian Market
+- [ ] https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6100340004 | Isomorphic Labs | Senior Security Engineer (AI Safety), London or Lausanne
+- [ ] https://n26.com/en-eu/careers/positions/7668144?gh_jid=7668144 | N26 | Product Manager - AI Products
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7788209003?gh_jid=7788209003 | Celonis | Senior Applied AI Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8044891?gh_jid=8044891 | HelloFresh | AI and Automation Specialist
+- [ ] https://careers.hellofresh.com/global/en/job/8044889?gh_jid=8044889 | HelloFresh | Manager Operational Transformation
+- [ ] https://careers.hellofresh.com/global/en/job/8043163?gh_jid=8043163 | HelloFresh | Senior Maintenance Manager (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8028102?gh_jid=8028102 | HelloFresh | Staff Product Manager, Organic Growth 
+- [ ] https://careers.hellofresh.com/global/en/job/8030896?gh_jid=8030896 | HelloFresh | [US DC] Associate Maintenance Manager
+- [ ] https://sumup.com/careers/positions/8618347002?gh_jid=8618347002 | SumUp | Agent Support SumUp
+- [ ] https://sumup.com/careers/positions/7988679002?gh_jid=7988679002 | SumUp | Commercial(e) Terrain Indépendant(e)
+- [ ] https://sumup.com/careers/positions/8616619002?gh_jid=8616619002 | SumUp | Working Student - People Operations & Payroll
+
 ## Procesadas
