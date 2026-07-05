@@ -1776,4 +1776,6 @@
 - [ ] https://sumup.com/careers/positions/7988679002?gh_jid=7988679002 | SumUp | Commercial(e) Terrain Indépendant(e)
 - [ ] https://sumup.com/careers/positions/8616619002?gh_jid=8616619002 | SumUp | Working Student - People Operations & Payroll
 
+- [ ] https://careers.hellofresh.com/global/en/job/8035499?gh_jid=8035499 | HelloFresh | Working Student Special Operations (all genders)
+
 ## Procesadas
