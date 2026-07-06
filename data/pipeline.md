@@ -1778,4 +1778,7 @@
 
 - [ ] https://careers.hellofresh.com/global/en/job/8035499?gh_jid=8035499 | HelloFresh | Working Student Special Operations (all genders)
 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7725788003?gh_jid=7725788003 | Celonis | Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program
+- [ ] https://jobs.lever.co/mistral/84f85d72-f1ff-46da-b7a0-4bf37764db3a | Mistral AI | AI Deployment Strategist, Science - EMEA
+
 ## Procesadas
