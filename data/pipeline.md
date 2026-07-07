@@ -1781,4 +1781,14 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7725788003?gh_jid=7725788003 | Celonis | Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program
 - [ ] https://jobs.lever.co/mistral/84f85d72-f1ff-46da-b7a0-4bf37764db3a | Mistral AI | AI Deployment Strategist, Science - EMEA
 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7795941003?gh_jid=7795941003 | Celonis | Associate Applied (AI) Value Engineer (Benelux) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7795949003?gh_jid=7795949003 | Celonis | Associate Applied (AI) Value Engineer (Scale EMEA/German-Speaking) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7781716003?gh_jid=7781716003 | Celonis | Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7493569003?gh_jid=7493569003 | Celonis | Principal Product Manager, Public Sector & Regulated Industries
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7635483003?gh_jid=7635483003 | Celonis | Senior Applied Value Engineer - UKI Oil & Gas
+- [ ] https://sumup.com/careers/positions/8596506002?gh_jid=8596506002 | SumUp | AML Analyst ll
+- [ ] https://jobs.lever.co/mistral/2803542b-e1b8-4e69-b849-50fcf4c0a65b | Mistral AI | Model Behavior Architect- General Agents
+- [ ] https://jobs.lever.co/pigment/ee78acfe-8b51-40b9-bc51-6c5ae9aeb0e3 | Pigment | Supply Chain Director
+- [ ] https://jobs.lever.co/qonto/2a69983f-0210-43f1-8884-010725dd37f5 | Qonto | Banking Operations Manager - Juridical (German market)
+
 ## Procesadas
