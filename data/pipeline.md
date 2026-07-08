@@ -1791,4 +1791,13 @@
 - [ ] https://jobs.lever.co/pigment/ee78acfe-8b51-40b9-bc51-6c5ae9aeb0e3 | Pigment | Supply Chain Director
 - [ ] https://jobs.lever.co/qonto/2a69983f-0210-43f1-8884-010725dd37f5 | Qonto | Banking Operations Manager - Juridical (German market)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5300430008 | Anthropic | Applied AI Architect, Partnerships 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5164820008 | Anthropic | Product Manager, Safeguards Generalist-2 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5301883008 | Anthropic | Senior Business Systems Analyst, Finance Systems (Assets & Lease Management)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7788767003?gh_jid=7788767003 | Celonis | Product Manager – Decision Intelligence 
+- [ ] https://careers.hellofresh.com/global/en/job/8049022?gh_jid=8049022 | HelloFresh | Maintenance Technician II
+- [ ] https://traderepublic.com/en-de/about?jobId=7550818003&gh_jid=7550818003 | Trade Republic | Working Student - Social Media & Community Management
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6110361004 | Hightouch | Sales Development Representative, EMEA (German Speaking) 
+- [ ] https://jobs.lever.co/qonto/dc3bb55e-daf0-4d4c-b839-b65e43fd412c | Qonto | Senior/Staff Backend Engineer - AI Compliance Tooling
+
 ## Procesadas
