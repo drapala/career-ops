@@ -1800,4 +1800,22 @@
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6110361004 | Hightouch | Sales Development Representative, EMEA (German Speaking) 
 - [ ] https://jobs.lever.co/qonto/dc3bb55e-daf0-4d4c-b839-b65e43fd412c | Qonto | Senior/Staff Backend Engineer - AI Compliance Tooling
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5304425008 | Anthropic | Staff Software Engineer, Labs: Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5284500008 | Anthropic | Strategy & Operations, Applied AI - AMER
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8051388 | Intercom | Senior Engineering Manager, Fin AI Agent
+- [ ] https://jobs.ashbyhq.com/deepgram/94ae2781-a85f-493a-86c1-ff85a9289355 | Deepgram | Applied ML Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6112143004 | Vercel | Enterprise Account Executive, Retail
+- [ ] https://jobs.ashbyhq.com/sierra/39b17af4-3451-4fa1-af82-383fad5ee743 | Sierra | Sales Director - Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7798592003?gh_jid=7798592003 | Celonis | Application Product Manager - AI System Transformations
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7635246003?gh_jid=7635246003 | Celonis | Lead Applied Value Engineer - UKI | Healthcare & Lifesciences
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7797930003?gh_jid=7797930003 | Celonis | Product Manager – Decision Intelligence 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7614493003?gh_jid=7614493003 | Celonis | Senior Applied Value Engineer | UKI | CPG
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7793356003?gh_jid=7793356003 | Celonis | Senior Applied Value Engineer - UKI Oil & Gas
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7798683003?gh_jid=7798683003 | Celonis | Senior Engagement Manager- Data & AI - Banking
+- [ ] https://n26.com/en-eu/careers/positions/8050888?gh_jid=8050888 | N26 | Product Manager - Product Factory
+- [ ] https://sumup.com/careers/positions/8578073002?gh_jid=8578073002 | SumUp | Agente de Suporte - Vaga afirmativa Pessoa com Deficiência (PcD)
+- [ ] https://jobs.lever.co/spotify/39901b71-2c35-40ed-b515-d369bf875713 | Spotify | Sales Trainer, EMEA - London
+- [ ] https://jobs.lever.co/qonto/ace090d6-0f9c-4d35-81bf-992a6bd41d95 | Qonto | Senior Product Designer - Qonto AI Lab
+- [ ] https://careers.hellofresh.com/global/en/job/8043204?gh_jid=8043204 | HelloFresh | Staff Product Manager, Benefits Platform (all genders)
+
 ## Procesadas
