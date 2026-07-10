@@ -1818,4 +1818,21 @@
 - [ ] https://jobs.lever.co/qonto/ace090d6-0f9c-4d35-81bf-992a6bd41d95 | Qonto | Senior Product Designer - Qonto AI Lab
 - [ ] https://careers.hellofresh.com/global/en/job/8043204?gh_jid=8043204 | HelloFresh | Staff Product Manager, Benefits Platform (all genders)
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7825825 | Intercom | Senior Engineering Manager, Fin AI Agent
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5316593008 | Anthropic | Engineering Manager, Agent Runtime Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5315789008 | Anthropic | Finance Systems Integration Engineer
+- [ ] https://jobs.ashbyhq.com/deepgram/1c34f6ba-6998-447c-9485-d4cf56db42de | Deepgram | Senior Technical Program Manager (Engineering) - AI Tooling & Systems
+- [ ] https://jobs.ashbyhq.com/deepgram/c91de352-9f25-479e-8877-fbea9576a52c | Deepgram | Head of AI Enablement Engineering
+- [ ] https://jobs.ashbyhq.com/elevenlabs/0e238579-d1db-4db2-a37a-8c28e86ce55e | ElevenLabs | Account Executive - ElevenCreative - Spain
+- [ ] https://jobs.ashbyhq.com/sierra/bbe271c3-4626-4bed-9336-f4ffcd92e49d | Sierra | Sales Director - Retail
+- [ ] https://helsing.ai/jobs/4776546101?gh_jid=4776546101 | Helsing | (Senior) Systems Safety Engineer - Air
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7798590003?gh_jid=7798590003 | Celonis | Application Product Manager - AI System Transformations
+- [ ] https://careers.hellofresh.com/global/en/job/8051042?gh_jid=8051042 | HelloFresh | Account Executive - Retail Media
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8624759002 | Wayve | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/legora/42de977d-201e-4ef1-854a-91d422047b73 | Legora | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/legora/56c298d6-6fab-4752-a8db-596b6cc86f9e | Legora | Senior Operations Manager, ESG & Sustainability
+- [ ] https://jobs.ashbyhq.com/legora/ac0aebb7-fad2-4f1e-83ec-40a5e1a70a2b | Legora | Forward Deployed Engineer - SE
+- [ ] https://jobs.ashbyhq.com/perplexity/2c5fdd71-472a-4c62-bc53-deafb66e7941 | Perplexity | Member of Technical Staff (Software Engineer, Agentic Enterprise)
+- [ ] https://jobs.lever.co/pigment/f5c06df1-8457-42d9-b583-fdfd5cf74095 | Pigment | Business Development Representative - French Speaking
+
 ## Procesadas
