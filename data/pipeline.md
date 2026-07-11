@@ -1835,4 +1835,22 @@
 - [ ] https://jobs.ashbyhq.com/perplexity/2c5fdd71-472a-4c62-bc53-deafb66e7941 | Perplexity | Member of Technical Staff (Software Engineer, Agentic Enterprise)
 - [ ] https://jobs.lever.co/pigment/f5c06df1-8457-42d9-b583-fdfd5cf74095 | Pigment | Business Development Representative - French Speaking
 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/05e53a4b-8ab9-40a1-b53d-c730ef684dbe | ElevenLabs | Account Executive- Spain - Enterprise 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/347282a4-74ff-4e56-a92d-3c4249ee6c28 | ElevenLabs | Account Executive - Spain - Mid-Market
+- [ ] https://jobs.ashbyhq.com/elevenlabs/8678d594-66cb-4150-a0f8-44599c54f89a | ElevenLabs | Account Executive - ElevenCreative - Spain
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4925068101 | Parloa | Senior Forward Deployed Engineer (France)
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4925069101 | Parloa | Senior Forward Deployed Engineer (Spain)
+- [ ] https://jobs.ashbyhq.com/sierra/63d41476-9621-4566-a6fa-8fde0d643836 | Sierra | Sales Director - Retail
+- [ ] https://jobs.ashbyhq.com/sierra/675b6dab-6f04-4d9e-a6bd-c001f2784c0b | Sierra | Enterprise Sales Leader - Retail
+- [ ] https://careers.hellofresh.com/global/en/job/8052044?gh_jid=8052044 | HelloFresh | Associate Director, Maintenance and Reliability Engineering
+- [ ] https://careers.hellofresh.com/global/en/job/8035217?gh_jid=8035217 | HelloFresh | [DACH HQ] Working Student Supply Planning
+- [ ] https://careers.hellofresh.com/global/en/job/8055120?gh_jid=8055120 | HelloFresh | Field Marketing Stagiair (f/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/8052158?gh_jid=8052158 | HelloFresh | Maintenance Manager
+- [ ] https://jobs.ashbyhq.com/faculty/3b19a24d-8c8a-4ccc-8aa8-2a66874c0f9b | Faculty | Platform Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5096878008 | Anthropic | Research Product Manager, Labs
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4712442005 | Glean | Software Engineer, Agents
+- [ ] https://jobs.lever.co/spotify/0cb3b774-3c2c-4b9b-ba35-fa983c2c6e68 | Spotify | Group Product Manager - Backend Experience (Core Infrastructure)
+- [ ] https://jobs.lever.co/spotify/7424c142-4be7-4a21-9010-621d69aae86d | Spotify | Paid Revenue Manager
+- [ ] https://jobs.lever.co/spotify/13b8ecf0-0ce6-411e-ac9d-5c60d9c94000 | Spotify | Senior Engineering Manager - ML
+
 ## Procesadas
