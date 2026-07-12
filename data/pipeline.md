@@ -1853,4 +1853,6 @@
 - [ ] https://jobs.lever.co/spotify/7424c142-4be7-4a21-9010-621d69aae86d | Spotify | Paid Revenue Manager
 - [ ] https://jobs.lever.co/spotify/13b8ecf0-0ce6-411e-ac9d-5c60d9c94000 | Spotify | Senior Engineering Manager - ML
 
+- [ ] https://jobs.lever.co/spotify/59cb83b1-e012-4839-ae90-6b671923408a | Spotify | Senior Engineering Manager - ML
+
 ## Procesadas
