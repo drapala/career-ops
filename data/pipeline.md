@@ -1855,4 +1855,6 @@
 
 - [ ] https://jobs.lever.co/spotify/59cb83b1-e012-4839-ae90-6b671923408a | Spotify | Senior Engineering Manager - ML
 
+- [ ] https://jobs.ashbyhq.com/photoroom/085eaa32-44fe-4928-8826-b48873823bfd | Photoroom | Head of GenAI Platform
+
 ## Procesadas
