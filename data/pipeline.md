@@ -1857,4 +1857,10 @@
 
 - [ ] https://jobs.ashbyhq.com/photoroom/085eaa32-44fe-4928-8826-b48873823bfd | Photoroom | Head of GenAI Platform
 
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8617009002 | Airtable | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/cohere/2afb4605-136a-4f5b-a808-8577f15361df | Cohere | Lead, Global External Affairs
+- [ ] https://careers.hellofresh.com/global/en/job/8063645?gh_jid=8063645 | HelloFresh | Lead Maintenance Technician 
+- [ ] https://careers.hellofresh.com/global/en/job/8059139?gh_jid=8059139 | HelloFresh | Maintenance Manager
+- [ ] https://n26.com/en-eu/careers/positions/8020406?gh_jid=8020406 | N26 | Principal AI Engineer - Conversational Banking
+
 ## Procesadas
