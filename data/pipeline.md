@@ -1863,4 +1863,24 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8059139?gh_jid=8059139 | HelloFresh | Maintenance Manager
 - [ ] https://n26.com/en-eu/careers/positions/8020406?gh_jid=8020406 | N26 | Principal AI Engineer - Conversational Banking
 
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8400814002 | Airtable | Product Manager
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5343697008 | Anthropic | Applied AI Engineer, Beneficial Deployments
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5179891008 | Anthropic | Product Operations Manager, Claude.ai (Consumer & Growth)
+- [ ] https://jobs.ashbyhq.com/cohere/bde93d36-4a41-4c8c-bd98-b4e44f9061e4 | Cohere | Lead - US Government Affairs & Public Policy
+- [ ] https://jobs.ashbyhq.com/cohere/8a2eaded-53a6-46aa-a7d0-d13f0fc45046 | Cohere | Senior Manager, Global Public Affairs & Policy Narratives
+- [ ] https://jobs.ashbyhq.com/n8n/443fd5c2-6501-45cf-b8c8-851fe94d48f9 | n8n | Head of Solutions Engineering
+- [ ] https://jobs.ashbyhq.com/n8n/bdff4d5b-9cc0-4b1f-9ca1-7008e5972488 | n8n | Senior Frontend Platform Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7802397003?gh_jid=7802397003 | Celonis | Accounts Receivable Specialist (German-Speaking)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7804439003?gh_jid=7804439003 | Celonis | Senior Consultant – Supply Chain Management
+- [ ] https://n26.com/en-eu/careers/positions/8053326?gh_jid=8053326 | N26 | Banking Operations - Claims Specialist German market
+- [ ] https://n26.com/en-eu/careers/positions/8053334?gh_jid=8053334 | N26 | Banking Operations - Claims Specialist Italian market
+- [ ] https://n26.com/en-eu/careers/positions/8053226?gh_jid=8053226 | N26 | Banking Operations Specialist - Account & Customer Data (Fluent German)
+- [ ] https://sumup.com/careers/positions/8607732002?gh_jid=8607732002 | SumUp | Senior AML Officer
+- [ ] https://traderepublic.com/en-de/about?jobId=7802608003&gh_jid=7802608003 | Trade Republic | People Operations Working Student
+- [ ] https://careers.hellofresh.com/global/en/job/8051295?gh_jid=8051295 | HelloFresh | Associate Director, Supply Chain Management
+- [ ] https://careers.hellofresh.com/global/en/job/8060031?gh_jid=8060031 | HelloFresh | Manager, Fulfillment Technology
+- [ ] https://jobs.ashbyhq.com/photoroom/cfe36a59-a475-44dd-925b-5cb4f93ec831 | Photoroom | Senior Product Manager, SMB e-commerce Growth
+- [ ] https://jobs.ashbyhq.com/photoroom/3bd8a6ab-496b-4f54-b9df-eb0b13fb46d2 | Photoroom | Senior Product Manager, Core Product
+- [ ] https://jobs.lever.co/spotify/331d11c6-6056-45b4-8bd6-d289978b1919 | Spotify | Multilingual AI Quality Specialist
+
 ## Procesadas
