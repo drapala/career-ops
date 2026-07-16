@@ -1883,4 +1883,18 @@
 - [ ] https://jobs.ashbyhq.com/photoroom/3bd8a6ab-496b-4f54-b9df-eb0b13fb46d2 | Photoroom | Senior Product Manager, Core Product
 - [ ] https://jobs.lever.co/spotify/331d11c6-6056-45b4-8bd6-d289978b1919 | Spotify | Multilingual AI Quality Specialist
 
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4928578101 | Parloa | Senior Agent Architect (UK)
+- [ ] https://jobs.ashbyhq.com/sierra/82d714bd-4908-4648-b72e-3322ad4211b6 | Sierra | Sales Director - Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7790264003?gh_jid=7790264003 | Celonis | Senior Software Engineer - AI & Task Mining
+- [ ] https://n26.com/en-eu/careers/positions/8053216?gh_jid=8053216 | N26 | Banking Operations Specialist - Account & Customer Data (Fluent Italian and Spanish)
+- [ ] https://sumup.com/careers/positions/8634283002?gh_jid=8634283002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8421864002?gh_jid=8421864002 | SumUp | Commercial(e) Terrain (H/F)- CDI 
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8627776002 | Wayve | Supply Chain Program Manager
+- [ ] https://jobs.ashbyhq.com/vapi/c321a2f2-5678-49e2-ba90-a424971e8b94 | Vapi | Solutions Engineering Manager
+- [ ] https://jobs.ashbyhq.com/vapi/e7f4cc7d-1d49-4767-9556-175d8f0069fd | Vapi | Solutions Engineer - SF
+- [ ] https://jobs.ashbyhq.com/vapi/dce1928f-b432-4d6b-8c2f-b7c63c672310 | Vapi | Solutions Engineer - EMEA
+- [ ] https://jobs.ashbyhq.com/vapi/03532365-7180-4999-b534-24595884aeb9 | Vapi | Solutions Engineer - NY
+- [ ] https://jobs.ashbyhq.com/vapi/4fbfa699-a543-49da-857c-64a2c990fd06 | Vapi | Product Designer — AI UX / Product Experience
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5097490008 | Anthropic | Product Manager, Safeguards (Verticals)
+
 ## Procesadas
