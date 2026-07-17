@@ -1897,4 +1897,19 @@
 - [ ] https://jobs.ashbyhq.com/vapi/4fbfa699-a543-49da-857c-64a2c990fd06 | Vapi | Product Designer — AI UX / Product Experience
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5097490008 | Anthropic | Product Manager, Safeguards (Verticals)
 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/0e690a2f-0a1a-4c4e-adf6-4dc3c6cbc3bd | ElevenLabs | Paid Media Manager
+- [ ] https://jobs.ashbyhq.com/elevenlabs/cb90c8ba-dc35-4e86-9103-9564751ccaf7 | ElevenLabs | Strategic Account Executive - Sweden - Retail
+- [ ] https://jobs.ashbyhq.com/cohere/afd7e838-bd5e-4697-94ea-5d31fe1b00fd | Cohere | Finance Systems and Automation Manager
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7806523003?gh_jid=7806523003 | Celonis | Lead Deployment Architect - AI
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7727306003?gh_jid=7727306003 | Celonis | Lead Deployment Architect - AI 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7806519003?gh_jid=7806519003 | Celonis | Principal / Lead Deployment Architect - AI
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7600347003?gh_jid=7600347003 | Celonis | Senior Deployment Architect - AI 
+- [ ] https://careers.hellofresh.com/global/en/job/8068936?gh_jid=8068936 | HelloFresh | Maintenance Technician (all genders)
+- [ ] https://traderepublic.com/en-de/about?jobId=7799476003&gh_jid=7799476003 | Trade Republic | Anti-Financial Crime Compliance Manager / Deputy MLRO Italy
+- [ ] https://sumup.com/careers/positions/8634292002?gh_jid=8634292002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4930150101 | PhysicsX | Principal Solutions Architect - Aerospace & Defense
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4930148101 | PhysicsX | Principal Solutions Engineer - Aerospace & Defense
+- [ ] https://jobs.lever.co/qonto/b6954588-bcb3-4c0b-9cae-db2164c520f5 | Qonto | MLRO/Anti-Financial Crime Officer - Belgium 🇧🇪
+- [ ] https://jobs.ashbyhq.com/perplexity/4b8347e9-615e-4176-bfb8-3be9025f9f27 | Perplexity | Member of Technical Staff (Software Engineer, Inference & Training Platform)
+
 ## Procesadas
