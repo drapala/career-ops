@@ -1912,4 +1912,15 @@
 - [ ] https://jobs.lever.co/qonto/b6954588-bcb3-4c0b-9cae-db2164c520f5 | Qonto | MLRO/Anti-Financial Crime Officer - Belgium 🇧🇪
 - [ ] https://jobs.ashbyhq.com/perplexity/4b8347e9-615e-4176-bfb8-3be9025f9f27 | Perplexity | Member of Technical Staff (Software Engineer, Inference & Training Platform)
 
+- [ ] https://getyourguide.careers/jobs/8066989?gh_jid=8066989 | GetYourGuide | Account Executive DACH (German Speaking)
+- [ ] https://getyourguide.careers/jobs/8071476?gh_jid=8071476 | GetYourGuide | Group Product Manager, B2C
+- [ ] https://getyourguide.careers/jobs/8066985?gh_jid=8066985 | GetYourGuide | Inside Sales Executive Malaysia (Malay & Mandarin speaking)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7796205003?gh_jid=7796205003 | Celonis | Lead Deployment Architect - AI 
+- [ ] https://sumup.com/careers/positions/8634289002?gh_jid=8634289002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8321194002?gh_jid=8321194002 | SumUp | Inbound Sales Representative - German Speaking
+- [ ] https://jobs.ashbyhq.com/perplexity/6829d54e-570b-4001-a822-3c1e85a34371 | Perplexity | Engineering Manager (TLM, Agents)
+- [ ] https://jobs.ashbyhq.com/perplexity/0f14dc7f-84c3-4447-a28a-e926fa8b053b | Perplexity | Member of Technical Staff (AI Software Engineer, Agents)
+- [ ] https://jobs.ashbyhq.com/workos/257e30d0-eaa3-4ce1-a47d-2b2c4f65cf1a | WorkOS | Product Manager - Growth
+- [ ] https://traderepublic.com/en-de/about?jobId=7805800003&gh_jid=7805800003 | Trade Republic | Working Student Office Management
+
 ## Procesadas
