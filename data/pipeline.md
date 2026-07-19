@@ -1923,4 +1923,6 @@
 - [ ] https://jobs.ashbyhq.com/workos/257e30d0-eaa3-4ce1-a47d-2b2c4f65cf1a | WorkOS | Product Manager - Growth
 - [ ] https://traderepublic.com/en-de/about?jobId=7805800003&gh_jid=7805800003 | Trade Republic | Working Student Office Management
 
+- [ ] https://sumup.com/careers/positions/8634291002?gh_jid=8634291002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+
 ## Procesadas
