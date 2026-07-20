@@ -1925,4 +1925,13 @@
 
 - [ ] https://sumup.com/careers/positions/8634291002?gh_jid=8634291002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/5459cb9d-5396-4729-9507-22729582781a | ElevenLabs | Forward Deployed Engineer - Software Engineer - ANZ
+- [ ] https://jobs.ashbyhq.com/elevenlabs/9dc3f256-3c42-4368-8d7e-ba9a3b3505e7 | ElevenLabs | Enterprise Solutions Engineer - Italy
+- [ ] https://jobs.ashbyhq.com/elevenlabs/4fa4745c-cc31-4d20-8695-60e104c9c217 | ElevenLabs | Enterprise Solutions Engineer - Nordics
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6ce3306e-a546-4e11-83d6-3eaff5dd366b | ElevenLabs | Forward Deployed Engineer - Software Engineer - Brazil
+- [ ] https://jobs.ashbyhq.com/elevenlabs/c25e27d5-71ff-4763-ae7b-137d0c252efa | ElevenLabs | Forward Deployed Engineer - Software Engineer - India
+- [ ] https://jobs.ashbyhq.com/elevenlabs/39d438fa-8070-4660-968b-055493860c4c | ElevenLabs | Forward Deployed Engineer - Software Engineer
+- [ ] https://sumup.com/careers/positions/8634286002?gh_jid=8634286002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://jobs.lever.co/spotify/e99f0469-bee8-464f-96b7-70909a4ac073 | Spotify | Group Product Manager - Backend Experience (Core Infrastructure)
+
 ## Procesadas
