@@ -1934,4 +1934,24 @@
 - [ ] https://sumup.com/careers/positions/8634286002?gh_jid=8634286002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
 - [ ] https://jobs.lever.co/spotify/e99f0469-bee8-464f-96b7-70909a4ac073 | Spotify | Group Product Manager - Backend Experience (Core Infrastructure)
 
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4907496101 | Parloa | Sr Agent Architect - Partner Success 
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6120051004 | Vercel | Director of Forward Deployed Engineering
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6119846004 | Vercel | Director, Solutions Architect
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659407005 | Glean | Forward Deployed Product Manager
+- [ ] https://jobs.ashbyhq.com/sierra/84a9ecff-115c-452f-9f1f-1b0b142e256f | Sierra | GTM Operations, Agent Development
+- [ ] https://jobs.ashbyhq.com/cohere/fc5cb642-23df-430e-ae84-67215384be1c | Cohere | Technical Program Manager, AI Delivery for Public Sector & Defense, France
+- [ ] https://jobs.ashbyhq.com/cohere/cd987666-aeda-4da6-a23c-d84d4231d33b | Cohere | Technical Program Manager, AI Delivery, Korea
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7809732003?gh_jid=7809732003 | Celonis | Associate (AI) Solution Consultant (Benelux) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7809731003?gh_jid=7809731003 | Celonis | Associate Applied (AI) Value Engineer  - Orbit Program (Madrid-based)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7797439003?gh_jid=7797439003 | Celonis | Senior Solutions Architect
+- [ ] https://getyourguide.careers/jobs/8074246?gh_jid=8074246 | GetYourGuide | Inside Sales Executive (Malay speaking)
+- [ ] https://sumup.com/careers/positions/8634290002?gh_jid=8634290002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8340146002?gh_jid=8340146002 | SumUp | Customer Support Agent - Spanish and Portuguese
+- [ ] https://sumup.com/careers/positions/8640268002?gh_jid=8640268002 | SumUp | Inbound Sales Representative - German-speaking
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8637714002 | Wayve | System Integration Engineer
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4932720101 | PhysicsX | Forward Deployed Software Engineer
+- [ ] https://jobs.ashbyhq.com/claylabs/2c53eca3-b39a-45bc-9e59-fca37794010f | Clay Labs | Account Executive - SMB/High Velocity (French Speaking)
+- [ ] https://jobs.lever.co/spotify/a88002db-cb15-49f4-a0e7-efc5c79c347b | Spotify | Principal Product Manager, Habit Formation
+- [ ] https://jobs.lever.co/spotify/ba605886-4258-44ee-b372-6fd3a803dd3d | Spotify | Senior Product Manager - User Platform
+
 ## Procesadas
