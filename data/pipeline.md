@@ -1954,4 +1954,27 @@
 - [ ] https://jobs.lever.co/spotify/a88002db-cb15-49f4-a0e7-efc5c79c347b | Spotify | Principal Product Manager, Habit Formation
 - [ ] https://jobs.lever.co/spotify/ba605886-4258-44ee-b372-6fd3a803dd3d | Spotify | Senior Product Manager - User Platform
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5366149008 | Anthropic | Business Systems Analyst
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5324349008 | Anthropic | [Pipeline] Product Manager, Research (Code) 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5290838008 | Anthropic | Recruiting Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6120092004 | Vercel | AI Accelerator Lead 
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8606309002 | Airtable | Engineering Manager, AI Tooling
+- [ ] https://jobs.ashbyhq.com/decagon/2059c9be-8da0-49a5-9849-e45f6f6a14d8 | Decagon | Customer Engineer, Agent Builder - German Speaking
+- [ ] https://jobs.ashbyhq.com/decagon/3b52f574-3cc3-4db9-ac2e-2c78389a1377 | Decagon | Customer Engineer, Agent Builder - French Speaking
+- [ ] https://jobs.ashbyhq.com/decagon/78680ef6-798f-4511-98de-d60c8c6d909b | Decagon | Customer Engineer, Agent Builder - Spanish Speaking
+- [ ] https://jobs.ashbyhq.com/sierra/e2d3e1f5-03cb-4e18-9f3d-a32f0bb6ff91 | Sierra | Software Engineer, Agent - Travel & Hospitality
+- [ ] https://jobs.ashbyhq.com/cohere/10306789-4fd5-4f1d-90aa-8132c2df2848 | Cohere | Technical Program Manager, AI Delivery for Public Sector & Defence, UK
+- [ ] https://jobs.ashbyhq.com/cohere/1e6c4acf-d98a-46ac-bacb-d609ca1326c1 | Cohere | Senior Manager, Solutions Architecture
+- [ ] https://jobs.ashbyhq.com/attio/eef50b66-c092-4018-bff5-08b81889a4f4 | Attio | Solutions Engineer [Pre and Post-Sales] - Mid-Market
+- [ ] https://jobs.ashbyhq.com/n8n/5afbde12-defb-457d-a21e-584347141436 | n8n | IT Systems & Automation Engineer
+- [ ] https://jobs.ashbyhq.com/DeepL/5daf5fcb-b165-45bd-91ca-7cfc09b9110f | DeepL | Outbound Business Development Representitive | EMEA - Italian Speaking
+- [ ] https://jobs.ashbyhq.com/DeepL/9f0202ae-854f-4e3c-b44b-a2bca7d0ab30 | DeepL | Commercial Account Executive | UKI & Nordics (based in London)
+- [ ] https://jobs.ashbyhq.com/DeepL/7827cc1e-4cd4-4b5d-a266-1aed45b1bca0 | DeepL | Snr Marketing Operations Manager / GTM Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8071245?gh_jid=8071245 | HelloFresh | [DACH MAG] Shift Lead Maintenance (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8077823?gh_jid=8077823 | HelloFresh | Lead Sorter - Fairfield NJ
+- [ ] https://n26.com/en-eu/careers/positions/8077098?gh_jid=8077098 | N26 | AI Engineer
+- [ ] https://jobs.ashbyhq.com/faculty/72faa106-47e1-4e0f-8f9b-d5af33a5a6d5 | Faculty | Principal Product Manager
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6122160004 | Hightouch | Forward Deployed Analytics Engineer 
+- [ ] https://jobs.ashbyhq.com/legora/ad9da6eb-f10c-4f00-9f97-45ce07e5f381 | Legora | Supply Chain Risk Lead
+
 ## Procesadas
