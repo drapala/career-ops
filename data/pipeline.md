@@ -1977,4 +1977,35 @@
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6122160004 | Hightouch | Forward Deployed Analytics Engineer 
 - [ ] https://jobs.ashbyhq.com/legora/ad9da6eb-f10c-4f00-9f97-45ce07e5f381 | Legora | Supply Chain Risk Lead
 
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4935645101 | Parloa | Sr Agent Architect (Germany)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5368034008 | Anthropic | Staff+ Software Engineer, Enterprise AI Products
+- [ ] https://jobs.ashbyhq.com/elevenlabs/d29d23d8-703f-4448-8d80-255d141cac10 | ElevenLabs | Strategic Account Executive - Denmark - Consumer & Retail
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6122437004 | Vercel | DevRel Engineer, Agentic Infrastructure
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6122619004 | Vercel | Senior Integrated Campaigns Manager
+- [ ] https://jobs.ashbyhq.com/deepgram/94443791-d22f-4f63-a4dd-fd3efb3fc82e | Deepgram | Account Executive (Korean Speaking)
+- [ ] https://jobs.ashbyhq.com/decagon/d50361fe-a78a-4ff5-93ad-753e7bd0a800 | Decagon | Agent Success Manager 
+- [ ] https://jobs.ashbyhq.com/decagon/a45dfb3e-ed8c-4996-92bb-ef6aafe8a4ee | Decagon | Agent Strategy Manager 
+- [ ] https://jobs.ashbyhq.com/decagon/fd94fe62-c0e0-41fe-9b19-c8f8464fbb2f | Decagon | Customer Engineer, Agent Builder - Spanish Speaking
+- [ ] https://jobs.ashbyhq.com/decagon/4f705fac-4c33-427e-83d1-960a45947cb6 | Decagon | Agent Education Manager
+- [ ] https://jobs.ashbyhq.com/sierra/02382d7f-0fb2-4ba3-89af-caf20a448e3a | Sierra | Strategist, Agent Development - Retail
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8066989 | GetYourGuide | Account Executive DACH (German Speaking)
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8066991 | GetYourGuide | Account Executive (French Speaking)
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8066993 | GetYourGuide | Account Executive (Italian Speaking)
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8066987 | GetYourGuide | Account Executive (Spanish/Portuguese Speaking)
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/7738772 | GetYourGuide | AI Governance Lead
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8071476 | GetYourGuide | Group Product Manager, B2C
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8074246 | GetYourGuide | Inside Sales Executive (Malay speaking)
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8066985 | GetYourGuide | Inside Sales Executive (Mandarin speaking)
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/7657103 | GetYourGuide | Lead Product Manager, Paid Search
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/7837883 | GetYourGuide | Senior Legal Counsel - Data, Privacy & AI
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/7594703 | GetYourGuide | Senior ML Ops Engineer, AI Platform Team
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/7865219 | GetYourGuide | Senior Product Manager, B2C (Landing Pages)  
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/7552392 | GetYourGuide | Senior Product Manager, Connectivity 
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/7887400 | GetYourGuide | Senior Product Manager, Supplier Portal  
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/7920675 | GetYourGuide | Senior UX Manager (Payments, Checkout & Post-Booking) 
+- [ ] https://n26.com/en-eu/careers/positions/7920917?gh_jid=7920917 | N26 | AI Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8079372?gh_jid=8079372 | HelloFresh | Facilities & Maintenance Manager
+- [ ] https://sumup.com/careers/positions/8644779002?gh_jid=8644779002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://jobs.lever.co/palantir/67110929-adea-41c3-851a-8882e222d9e4 | Palantir | Software Engineer - Edge AI Systems
+
 ## Procesadas
