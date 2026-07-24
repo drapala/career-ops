@@ -2008,4 +2008,22 @@
 - [ ] https://sumup.com/careers/positions/8644779002?gh_jid=8644779002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
 - [ ] https://jobs.lever.co/palantir/67110929-adea-41c3-851a-8882e222d9e4 | Palantir | Software Engineer - Edge AI Systems
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5356621008 | Anthropic | Recruiter, Applied AI
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4717716005 | Glean | Resident Solutions Architect 
+- [ ] https://jobs.ashbyhq.com/decagon/e5881147-3d9f-43b2-89bb-2b8614360666 | Decagon | Customer Engineer, Agent Builder - Spanish Speaking
+- [ ] https://jobs.ashbyhq.com/sierra/9b94e279-5869-4a33-b50f-9aa01ff61a22 | Sierra | Product Manager, Agent Development (Spanish speaking)
+- [ ] https://helsing.ai/jobs/4936025101?gh_jid=4936025101 | Helsing | Product Manager
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7814021003?gh_jid=7814021003 | Celonis | Associate (AI) Solution Consultant - Orbit Program (Madrid-based)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7807064003?gh_jid=7807064003 | Celonis | People & Culture Automation & AI Project Manager
+- [ ] https://careers.hellofresh.com/global/en/job/8080916?gh_jid=8080916 | HelloFresh |  IJP - Training Facilitator CustCare Global
+- [ ] https://careers.hellofresh.com/global/en/job/8082334?gh_jid=8082334 | HelloFresh | Warehouse Sorter- Fairfield NJ
+- [ ] https://sumup.com/careers/positions/8644791002?gh_jid=8644791002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8642454002?gh_jid=8642454002 | SumUp | Working Student - People Development
+- [ ] https://jobs.ashbyhq.com/faculty/6c0abf94-8d61-459b-b094-49307a595c60 | Faculty | Senior Research Scientist - AI Safety Evaluations
+- [ ] https://jobs.ashbyhq.com/perplexity/a14c4626-ed07-4151-a923-3a710fb66de2 | Perplexity | Member of Data Staff (AI Builder)
+- [ ] https://jobs.ashbyhq.com/perplexity/fb1815de-07d9-4933-8746-979dbcb00870 | Perplexity | AI Strategist, Legal
+- [ ] https://jobs.ashbyhq.com/perplexity/31dfcb60-a0df-4983-b3a4-d653cdc0aa8f | Perplexity | AI Strategist, Financial Services
+- [ ] https://jobs.lever.co/pigment/d75f91cb-62f4-4686-9ee0-ff5d1d742779 | Pigment | Senior AI Data Analyst - Sales
+- [ ] https://jobs.lever.co/palantir/73d1a90c-162d-4cb6-9e0c-4c8de9561ad0 | Palantir | Forward Deployed Software Engineer - NATO
+
 ## Procesadas
