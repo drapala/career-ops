@@ -2026,4 +2026,25 @@
 - [ ] https://jobs.lever.co/pigment/d75f91cb-62f4-4686-9ee0-ff5d1d742779 | Pigment | Senior AI Data Analyst - Sales
 - [ ] https://jobs.lever.co/palantir/73d1a90c-162d-4cb6-9e0c-4c8de9561ad0 | Palantir | Forward Deployed Software Engineer - NATO
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5370167008 | Anthropic | Regional State and Local Affairs Lead, Southern States
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4017544008 | Anthropic | Research Engineer, Agents
+- [ ] https://jobs.ashbyhq.com/deepgram/3a12f539-7734-46fa-9e3b-28e041e56074 | Deepgram | Senior Product Manager, Enterprise
+- [ ] https://jobs.ashbyhq.com/deepgram/d0660127-6c26-4053-943c-c006990b8edc | Deepgram | Staff Product Manager - Self Serve (Growth)
+- [ ] https://jobs.ashbyhq.com/cohere/bb0c781f-b2ca-47fb-90bf-ee13dbf58718 | Cohere | Engineering Manager, FDE Agentic Platform 
+- [ ] https://careers.hellofresh.com/global/en/job/8083290?gh_jid=8083290 | HelloFresh | Kitchen Lead
+- [ ] https://sumup.com/careers/positions/8644955002?gh_jid=8644955002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8596505002?gh_jid=8596505002 | SumUp | AI Experience Lead - Operations
+- [ ] https://sumup.com/careers/positions/8648854002?gh_jid=8648854002 | SumUp | Copy of Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8648855002?gh_jid=8648855002 | SumUp | Copy of Copy of Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8634761002?gh_jid=8634761002 | SumUp | Talent Acquisition Partner (Dutch-speaking)
+- [ ] https://sumup.com/careers/positions/8649447002?gh_jid=8649447002 | SumUp | Talent Acquisition Partner (Portuguese-speaking)
+- [ ] https://sumup.com/careers/positions/8649441002?gh_jid=8649441002 | SumUp | Talent Acquisition Partner (Spanish-speaking)
+- [ ] https://sumup.com/careers/positions/8648395002?gh_jid=8648395002 | SumUp | Working Student People Ops & Payroll
+- [ ] https://sumup.com/careers/positions/8174816002?gh_jid=8174816002 | SumUp | Zelfstandig B2B Sales Agent
+- [ ] https://sumup.com/careers/positions/8183479002?gh_jid=8183479002 | SumUp | Zelfstandig B2B Sales Agent 
+- [ ] https://jobs.ashbyhq.com/perplexity/bfb392f2-086e-4187-b69c-2a231b8c3290 | Perplexity | Member of Technical Staff (AI Software Engineer, Agents)
+- [ ] https://jobs.ashbyhq.com/legora/53ae82a6-d5d6-4565-88aa-c6a2feccc736 | Legora | Senior Product Manager 
+- [ ] https://jobs.ashbyhq.com/supabase/23c9ce7e-6b7b-4316-8f00-8f318e902441 | Supabase | Product Manager - Marketplace
+- [ ] https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government
+
 ## Procesadas
