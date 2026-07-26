@@ -2047,4 +2047,7 @@
 - [ ] https://jobs.ashbyhq.com/supabase/23c9ce7e-6b7b-4316-8f00-8f318e902441 | Supabase | Product Manager - Marketplace
 - [ ] https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government
 
+- [ ] https://sumup.com/careers/positions/8644968002?gh_jid=8644968002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government
+
 ## Procesadas
