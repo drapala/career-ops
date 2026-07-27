@@ -2050,4 +2050,6 @@
 - [ ] https://sumup.com/careers/positions/8644968002?gh_jid=8644968002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
 - [ ] https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government
 
+- [ ] https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government
+
 ## Procesadas
