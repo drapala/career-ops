@@ -2052,4 +2052,17 @@
 
 - [ ] https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government
 
+- [ ] https://jobs.ashbyhq.com/deepgram/6f3d761e-4873-43af-a9b1-daeb147661f9 | Deepgram | Senior Software Engineer - Model Evaluation & AI Systems
+- [ ] https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522 | LangChain | Deployed Engineer (Early Career- SF/NY)
+- [ ] https://jobs.ashbyhq.com/decagon/491d67c4-b877-4ddc-895a-496eed6777ed | Decagon | Senior Software Engineer, AI Developer Experience
+- [ ] https://jobs.ashbyhq.com/decagon/2f64e63b-e825-4fdc-89be-978ae22e4ad4 | Decagon | Engineering Manager, Agents
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7816927003?gh_jid=7816927003 | Celonis | Associate Applied (AI) Value Engineer (DACH) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7805677003?gh_jid=7805677003 | Celonis | Senior Software Engineer - Orchestration and Automation
+- [ ] https://careers.hellofresh.com/global/en/job/8076708?gh_jid=8076708 | HelloFresh | Staff AI Content Designer 
+- [ ] https://sumup.com/careers/positions/8644969002?gh_jid=8644969002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/7988642002?gh_jid=7988642002 | SumUp | Commercial Terrain (H/F) – Nantes
+- [ ] https://jobs.ashbyhq.com/legora/33c8b9c1-f7b7-43bc-94f8-a16d540b8bd2 | Legora | Senior Platform Engineer
+- [ ] https://jobs.lever.co/palantir/a194220b-684a-4b4e-b918-1f70154b464c | Palantir | Forward Deployed Site Reliability Engineer - US Government
+- [ ] https://jobs.lever.co/pigment/9c902d4b-8150-4e82-9b80-1f597e32ed5e | Pigment | Domain Principal, Supply Chain - Paris
+
 ## Procesadas
