@@ -2065,4 +2065,13 @@
 - [ ] https://jobs.lever.co/palantir/a194220b-684a-4b4e-b918-1f70154b464c | Palantir | Forward Deployed Site Reliability Engineer - US Government
 - [ ] https://jobs.lever.co/pigment/9c902d4b-8150-4e82-9b80-1f597e32ed5e | Pigment | Domain Principal, Supply Chain - Paris
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8090570 | Intercom |  Senior Product Manager 
+- [ ] https://jobs.ashbyhq.com/deepgram/17f95148-fa1c-4c34-82c8-333589bef789 | Deepgram | Staff Product Manager, Agentic Experiences (Former Engineer)
+- [ ] https://jobs.ashbyhq.com/decagon/1024ca01-3513-4b6b-9896-b0dfa7643996 | Decagon | Performance Marketing Manager, Paid Social & EMEA Growth
+- [ ] https://jobs.ashbyhq.com/decagon/98ef21f3-72cf-4230-b019-85b3e8c111b2 | Decagon | Senior Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7819725003?gh_jid=7819725003 | Celonis | Associate Applied (AI) Value Engineer (DACH)
+- [ ] https://sumup.com/careers/positions/8644777002?gh_jid=8644777002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8370153002?gh_jid=8370153002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.ashbyhq.com/synthesia/6730e2e5-0d32-4919-a438-625f1673b70c | Synthesia | ML Platform Engineer
+
 ## Procesadas
