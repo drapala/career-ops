@@ -2074,4 +2074,23 @@
 - [ ] https://sumup.com/careers/positions/8370153002?gh_jid=8370153002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 - [ ] https://jobs.ashbyhq.com/synthesia/6730e2e5-0d32-4919-a438-625f1673b70c | Synthesia | ML Platform Engineer
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5205735008 | Anthropic | Director, Global Order-to-Cash Transformation
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6119757004 | Arize AI | Open Source AI Engineer (Typescript)
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7591247 | Intercom | Account Executive, MidMarket - French Speaking
+- [ ] https://jobs.ashbyhq.com/decagon/c34f5713-25aa-42fd-877e-012a99e261e3 | Decagon | Senior Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/3a417528-0fbc-4780-8e76-1ad32429e861 | Decagon | Senior Agent Product Manager
+- [ ] https://jobs.ashbyhq.com/sierra/83a88812-d488-4a24-bb39-e1b0aa6dd240 | Sierra | Strategist, Agent Development (Spanish speaking)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7820048003?gh_jid=7820048003 | Celonis | Client Account Lead - Strategy & Transformation (Logistics/Transportation)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7820049003?gh_jid=7820049003 | Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence (Logistics/Transportation)
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/7771663 | GetYourGuide | Head of Paid Social
+- [ ] https://jobs.ashbyhq.com/DeepL/9459b4ac-0673-40d1-811c-56240b7ab39f | DeepL | Inbound Business Development Representative | DACH | German Speaking
+- [ ] https://careers.hellofresh.com/global/en/job/8094654?gh_jid=8094654 | HelloFresh | Senior Manager, Cost Performance and Supply Chain Optimization
+- [ ] https://careers.hellofresh.com/global/en/job/8093756?gh_jid=8093756 | HelloFresh | Senior Strategic Product Manager (M/F/X)
+- [ ] https://careers.hellofresh.com/global/en/job/8093663?gh_jid=8093663 | HelloFresh | Sourcing Coordinator (Supply Chain)
+- [ ] https://careers.hellofresh.com/global/en/job/8083230?gh_jid=8083230 | HelloFresh | Staff Software Engineer, GenAI Enablement Squad, Foundations Alliance
+- [ ] https://sumup.com/careers/positions/8644758002?gh_jid=8644758002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/7875289002?gh_jid=7875289002 | SumUp | Commercial(e) terrain indépendant(e) – SumUp
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=8093936 | Scandit | Senior Product Manager (ShelfView)
+- [ ] https://jobs.ashbyhq.com/supabase/11beb619-0c25-4b11-9818-3f18e278c65b | Supabase | Performance Engineer - Benchmarking
+
 ## Procesadas
