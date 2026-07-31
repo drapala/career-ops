@@ -2093,4 +2093,24 @@
 - [ ] https://www.scandit.com/careers/job-description/?gh_jid=8093936 | Scandit | Senior Product Manager (ShelfView)
 - [ ] https://jobs.ashbyhq.com/supabase/11beb619-0c25-4b11-9818-3f18e278c65b | Supabase | Performance Engineer - Benchmarking
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8081923 | Intercom | Senior AI Deployment Consultant
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8096347 | Intercom | Senior Engineering Manager, Customer Agent
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8081165 | Intercom | Senior Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/n8n/82554686-449f-4ef8-9bd5-0a71cf500a6c | n8n | Senior Product Manager, n8n Labs
+- [ ] https://jobs.ashbyhq.com/decagon/75e5cdbc-66dd-41be-8440-508aa69a6ed8 | Decagon | Senior Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/cohere/a912a36f-0300-41d3-997f-636cc85a5e1b | Cohere | Data Annotation Specialist - Investment Banking and Private Equity 
+- [ ] https://jobs.ashbyhq.com/sierra/6c246883-6335-413e-9183-ece94780590c | Sierra | GTM Operations Analyst, Agent Development
+- [ ] https://jobs.ashbyhq.com/DeepL/4921cca4-576c-4d90-8742-8a90bbc0a6ea | DeepL | Senior Data Platform Engineer
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/7649294 | GetYourGuide | Lead Product Manager, B2C
+- [ ] https://careers.hellofresh.com/global/en/job/8097713?gh_jid=8097713 | HelloFresh | Operations Trainer 
+- [ ] https://n26.com/en-eu/careers/positions/8079658?gh_jid=8079658 | N26 | Lead Product Manager - Conversational Banking
+- [ ] https://sumup.com/careers/positions/8658153002?gh_jid=8658153002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/7875282002?gh_jid=7875282002 | SumUp | Commercial(e) terrain indépendant(e) – SumUp
+- [ ] https://sumup.com/careers/positions/8658169002?gh_jid=8658169002 | SumUp | Customer Support Agent - Consumer Team
+- [ ] https://sumup.com/careers/positions/8656544002?gh_jid=8656544002 | SumUp | Senior Platform Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7820050003?gh_jid=7820050003 | Celonis | Client Value Partner- AI-Driven Transformation & Process Intelligence (Logistics/Transportation)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7813081003?gh_jid=7813081003 | Celonis | Working Student Corporate Law Specialist
+- [ ] https://jobs.ashbyhq.com/workos/b6c03b24-b4ee-4ee3-ac62-5e5718c502d4 | WorkOS | Developer & Agent Experience Engineer
+- [ ] https://jobs.ashbyhq.com/claylabs/ada9ebd0-bbae-40a3-9c6e-b9701369daaa | Clay Labs | DACH Partner Manager (German Speaking)
+
 ## Procesadas
