@@ -2113,4 +2113,28 @@
 - [ ] https://jobs.ashbyhq.com/workos/b6c03b24-b4ee-4ee3-ac62-5e5718c502d4 | WorkOS | Developer & Agent Experience Engineer
 - [ ] https://jobs.ashbyhq.com/claylabs/ada9ebd0-bbae-40a3-9c6e-b9701369daaa | Clay Labs | DACH Partner Manager (German Speaking)
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8094884 | Intercom | Senior AI Deployment Consultant
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5251866008 | Anthropic | Product Manager, Claude Code
+- [ ] https://jobs.ashbyhq.com/n8n/588573bf-9ad7-47ad-b3ef-fe11707b9a89 | n8n | Senior Marketing Manager, Integrated Campaigns
+- [ ] https://jobs.ashbyhq.com/n8n/d418f8fb-b2f2-405e-8f22-db73dcf4e8b4 | n8n | Senior Product Manager - Core Platform
+- [ ] https://jobs.ashbyhq.com/decagon/6a319fa2-00f9-4046-bd09-98e992f1bf1c | Decagon | Senior Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/langchain/dfbba971-a7e2-4feb-a0d9-8e38a1155134 | LangChain | Deployed Engineer (Early Career-NYC)
+- [ ] https://jobs.ashbyhq.com/langchain/385313eb-bff4-4019-8106-42714dc9879a | LangChain | Deployed Engineer (Houston)
+- [ ] https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89 | Cohere | Business Development Representative - Spanish Speaking
+- [ ] https://jobs.ashbyhq.com/sierra/97ca0c70-f371-4167-9908-2adca3464b8d | Sierra | Software Engineer, Agent - Healthcare Integrations
+- [ ] https://jobs.ashbyhq.com/sierra/bae30d56-4257-430e-b1d7-590c8555995d | Sierra | Sales Director (Brazilian Portuguese speaking)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7822700003?gh_jid=7822700003 | Celonis | Value Engineer - Banking & FS
+- [ ] https://jobs.ashbyhq.com/DeepL/fb25de9d-3b6f-4c5f-8b33-41aba66ba997 | DeepL | Staff Platform Engineer
+- [ ] https://jobs.ashbyhq.com/DeepL/0d95c72f-fb32-4911-ba78-4d8d72846e7c | DeepL | Working Student, IT (Werkstudent)
+- [ ] https://careers.hellofresh.com/global/en/job/8090725?gh_jid=8090725 | HelloFresh | [DACH MAG] Supply Chain Coordinator (all genders)
+- [ ] https://sumup.com/careers/positions/8658148002?gh_jid=8658148002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8364212002?gh_jid=8364212002 | SumUp | Data Platform Engineer
+- [ ] https://sumup.com/careers/positions/8658514002?gh_jid=8658514002 | SumUp | KYC Operations Agent with Dutch
+- [ ] https://sumup.com/careers/positions/8658510002?gh_jid=8658510002 | SumUp | KYC Operations Agent with German
+- [ ] https://n26.com/en-eu/careers/positions/8090711?gh_jid=8090711 | N26 | Senior Legal Counsel Banking Law
+- [ ] https://jobs.ashbyhq.com/legora/6127b7c5-3c09-47fb-ad59-c20a261c6b1f | Legora | Legal Engineer - French Speaking
+- [ ] https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541 | Supabase | AI Platform Engineer
+- [ ] https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial
+- [ ] https://jobs.lever.co/spotify/d174a24c-bf16-4661-9b9a-32396e883c25 | Spotify | Marketing Manager Taiwan
+
 ## Procesadas
