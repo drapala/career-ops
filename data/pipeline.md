@@ -2137,4 +2137,26 @@
 - [ ] https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial
 - [ ] https://jobs.lever.co/spotify/d174a24c-bf16-4661-9b9a-32396e883c25 | Spotify | Marketing Manager Taiwan
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4926242008 | Anthropic | Software Engineer, ML Networking
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6255f8a9-1ff8-49b3-8409-c104f8b46e56 | ElevenLabs | Strategic Account Executive - Poland - Consumer & Retail
+- [ ] https://jobs.ashbyhq.com/sierra/7ec62895-e3b6-4a01-8d4b-df3909cbbbb8 | Sierra | Enterprise Sales Director - Strategic, Retail
+- [ ] https://jobs.ashbyhq.com/sierra/99858356-70b7-4c3a-aefb-87415e3fdbad | Sierra | Enterprise Sales Director, Retail
+- [ ] https://jobs.ashbyhq.com/sierra/ae852ea8-a4fb-40b2-a390-e06f34622d9e | Sierra | Enterprise Sales Director , Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7817273003?gh_jid=7817273003 | Celonis | Senior Digital Transformation & Process Optimisation Consultant - Manufacturing/Production
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7826212003?gh_jid=7826212003 | Celonis | Senior Digital Transformation & Process Optimisation Consultant (Senior Value Engineer)! - Scale Team
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7825969003?gh_jid=7825969003 | Celonis | Senior Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production
+- [ ] https://careers.hellofresh.com/global/en/job/8104373?gh_jid=8104373 | HelloFresh | Area Manager I, Fulfillment
+- [ ] https://careers.hellofresh.com/global/en/job/8090727?gh_jid=8090727 | HelloFresh | [DACH MAG] Supply Chain Coordinator (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8106935?gh_jid=8106935 | HelloFresh | Sr. Supply Chain Planner – PHF Category Europe (f/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/8105436?gh_jid=8105436 | HelloFresh | Supervisor Kitchen (all genders)
+- [ ] https://n26.com/en-eu/careers/positions/8098982?gh_jid=8098982 | N26 | Senior Legal Counsel Banking Law
+- [ ] https://sumup.com/careers/positions/8644734002?gh_jid=8644734002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8390715002?gh_jid=8390715002 | SumUp | Commercial(e) Terrain (H/F) – CDI
+- [ ] https://sumup.com/careers/positions/8671660002?gh_jid=8671660002 | SumUp | Product Engineer — Working Student
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8655859002 | Wayve | Senior Machine Learning Engineer, AI Performance
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8642805002 | Wayve | Staff ML Performance Engineer (Compiler)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6134022004 | Hightouch | Enterprise Account Executive, Spain 
+- [ ] https://jobs.ashbyhq.com/legora/34c4aecc-a808-480b-a585-61e489b0eac4 | Legora | Associate, Applied Research, AI Transformation
+- [ ] https://jobs.lever.co/palantir/721fe5ca-73b8-4223-826e-93a528194821 | Palantir | Platform Engineer - Identity Infrastructure
+
 ## Procesadas
