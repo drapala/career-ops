@@ -2159,4 +2159,21 @@
 - [ ] https://jobs.ashbyhq.com/legora/34c4aecc-a808-480b-a585-61e489b0eac4 | Legora | Associate, Applied Research, AI Transformation
 - [ ] https://jobs.lever.co/palantir/721fe5ca-73b8-4223-826e-93a528194821 | Palantir | Platform Engineer - Identity Infrastructure
 
+- [ ] https://jobs.ashbyhq.com/sierra/e17cc0d2-9eee-476f-8fe2-b7b7ba8faa85 | Sierra | Enterprise Sales Director - Strategic, Retail
+- [ ] https://jobs.ashbyhq.com/sierra/17bd055c-c281-4c01-bf61-671710b25cc0 | Sierra | Enterprise Sales Engineer, Retail
+- [ ] https://jobs.ashbyhq.com/bland/ea532833-f3d8-4dad-b5b2-f9bbeaa1a1a5 | Bland AI | Enterprise Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/n8n/c9fc97fa-a473-4133-b3cb-502785649ecd | n8n | Forward Deployed Engineer - EMEA
+- [ ] https://jobs.ashbyhq.com/langchain/a16d58f7-e210-495c-9e6f-82222267de3a | LangChain | AI Engineer, Enablement (London)
+- [ ] https://jobs.ashbyhq.com/langchain/0faf969b-33a8-4cf8-9f7b-0b0b0b327bd4 | LangChain | AI Engineer, Enablement (Amsterdam)
+- [ ] https://jobs.ashbyhq.com/cohere/a3981a28-9f41-48a7-9ffe-2e7f9675e486 | Cohere | Senior Program Manager, Corporate Affairs
+- [ ] https://n26.com/en-eu/careers/positions/8105374?gh_jid=8105374 | N26 | Senior Product Manager - Banking Scalability Platform
+- [ ] https://sumup.com/careers/positions/8644737002?gh_jid=8644737002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://jobs.ashbyhq.com/synthesia/d5737204-2356-480a-9593-4a5a00d7eea1 | Synthesia | Software Engineer, Front End Leaning, Agents
+- [ ] https://jobs.lever.co/qonto/bf3bf4ed-4907-4f7d-a09e-7fc575001270 | Qonto | Customer Service Agent - French Market 🇫🇷
+- [ ] https://jobs.lever.co/qonto/564e03fe-3419-40e7-8b4a-6e229b323ca6 | Qonto | Regulatory Affairs & Project Manager
+- [ ] https://jobs.lever.co/palantir/a80afc2b-2564-4a98-84c2-34cdcc0402df | Palantir | Platform Engineer - Identity Infrastructure
+- [ ] https://jobs.ashbyhq.com/legora/7706e25f-da84-44f2-8322-a0c90f426844 | Legora | Senior Operations Manager - ESG & Sustainability
+- [ ] https://careers.hellofresh.com/global/en/job/8108536?gh_jid=8108536 | HelloFresh | IT Support Engineer - Enterprise AI
+- [ ] https://careers.hellofresh.com/global/en/job/8092481?gh_jid=8092481 | HelloFresh | Maintenance Technician II
+
 ## Procesadas
