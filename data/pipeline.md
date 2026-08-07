@@ -2176,4 +2176,20 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8108536?gh_jid=8108536 | HelloFresh | IT Support Engineer - Enterprise AI
 - [ ] https://careers.hellofresh.com/global/en/job/8092481?gh_jid=8092481 | HelloFresh | Maintenance Technician II
 
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4947868101 | Parloa | Forward Deployed Engineer, DevOps
+- [ ] https://jobs.ashbyhq.com/elevenlabs/5bcd3475-8e38-42f1-897a-fa010ee6f9bd | ElevenLabs | Automation Engineer - Influencers
+- [ ] https://jobs.ashbyhq.com/n8n/90980c78-8bed-4cbd-a334-559ff604d7dd | n8n | Forward Deployed Engineer - US East Coast
+- [ ] https://jobs.ashbyhq.com/deepgram/928303de-61d6-46ec-b10a-08709e1deb4a | Deepgram | Senior Product Marketing Manager, Voice Agent
+- [ ] https://jobs.ashbyhq.com/cohere/8ac3ed85-e315-443b-bc13-e7a0b900b922 | Cohere | Global Public Policy Manager, Compute, Infrastructure & Sovereign AI
+- [ ] https://careers.hellofresh.com/global/en/job/8095933?gh_jid=8095933 | HelloFresh | Fulfillment Technology Analyst, Lisses DC France (f/m/x)
+- [ ] https://n26.com/en-eu/careers/positions/8104979?gh_jid=8104979 | N26 | Lead Backend Engineer - Conversational Banking 
+- [ ] https://n26.com/en-eu/careers/positions/8108810?gh_jid=8108810 | N26 | Senior Product Manager - Banking Scalability Platform
+- [ ] https://sumup.com/careers/positions/8644951002?gh_jid=8644951002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://jobs.ashbyhq.com/lovable/df79d83b-e366-4998-afdd-694d06183d75 | Lovable | Brand Designer, AI & Ops
+- [ ] https://jobs.ashbyhq.com/lovable/a1e49a18-7533-450f-b760-cef337f2f9e3 | Lovable | Data Scientist, Agent
+- [ ] https://jobs.ashbyhq.com/lovable/8dd92c40-b45d-41b2-ae6b-1680b0a05d92 | Lovable | AI Ops Engineer (People Team)
+- [ ] https://jobs.ashbyhq.com/legora/d1c6f3d2-50d5-4787-ac21-5d8df0a6ddc2 | Legora | AI Adoption Manager - Communities
+- [ ] https://jobs.lever.co/spotify/600a4ac7-6ffa-4ced-8d34-253d00147aa9 | Spotify | Director of ML Engineering, Conversation Product Area
+- [ ] https://jobs.lever.co/palantir/cf08f44c-bf75-45ed-9fab-f4836e51013e | Palantir | Platform Engineer - Identity Infrastructure
+
 ## Procesadas
