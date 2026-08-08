@@ -2192,4 +2192,20 @@
 - [ ] https://jobs.lever.co/spotify/600a4ac7-6ffa-4ced-8d34-253d00147aa9 | Spotify | Director of ML Engineering, Conversation Product Area
 - [ ] https://jobs.lever.co/palantir/cf08f44c-bf75-45ed-9fab-f4836e51013e | Palantir | Platform Engineer - Identity Infrastructure
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5383242008 | Anthropic | AI Fluency Education Lead
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5383335008 | Anthropic | Applied AI Architect, Enterprise Tech
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6132416004 | Vercel | Partner Solutions Engineer, EMEA
+- [ ] https://jobs.ashbyhq.com/decagon/e27fcbdf-891c-4b2f-9c47-d2bdc26eb2d4 | Decagon | Product Manager, Enterprise Agent Platform
+- [ ] https://jobs.ashbyhq.com/cohere/3fe03041-347a-479f-8361-6b1f5f81338e | Cohere | Applied AI Engineer, Agents & Automations
+- [ ] https://n26.com/en-eu/careers/positions/8043854?gh_jid=8043854 | N26 | Product Manager - Product Factory
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8113681 | GetYourGuide | Senior ML Ops Engineer, AI Platform Team
+- [ ] https://careers.hellofresh.com/global/en/job/8113998?gh_jid=8113998 | HelloFresh | Maintenance Technician I
+- [ ] https://careers.hellofresh.com/global/en/job/8114112?gh_jid=8114112 | HelloFresh | Maintenance Technician II
+- [ ] https://careers.hellofresh.com/global/en/job/8105337?gh_jid=8105337 | HelloFresh | Senior Product Manager II, Menu Planning (all genders)  
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4722386005 | Glean | Strategic Solutions Engineer
+- [ ] https://sumup.com/careers/positions/8686836002?gh_jid=8686836002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://jobs.ashbyhq.com/synthesia/280fdabf-4cc1-4c34-98d7-b55951dff37c | Synthesia | Product Manager, Interactive Avatar API (Staff/Principal-level)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7834892003?gh_jid=7834892003 | Celonis | Training Specialist (Portuguese Speaker)
+- [ ] https://jobs.lever.co/spotify/5b6b17ce-a676-49b1-b9a7-62362a75f9d8 | Spotify | Head of Strategic Programs - Government Affairs
+
 ## Procesadas
