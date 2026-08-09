@@ -2208,4 +2208,8 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7834892003?gh_jid=7834892003 | Celonis | Training Specialist (Portuguese Speaker)
 - [ ] https://jobs.lever.co/spotify/5b6b17ce-a676-49b1-b9a7-62362a75f9d8 | Spotify | Head of Strategic Programs - Government Affairs
 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4614349005 | Glean | Strategic Solutions Engineer
+- [ ] https://n26.com/en-eu/careers/positions/8108866?gh_jid=8108866 | N26 | Senior Backend Engineer - Agentic Platform
+- [ ] https://sumup.com/careers/positions/8648853002?gh_jid=8648853002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+
 ## Procesadas
