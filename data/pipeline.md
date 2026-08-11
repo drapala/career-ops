@@ -2212,4 +2212,33 @@
 - [ ] https://n26.com/en-eu/careers/positions/8108866?gh_jid=8108866 | N26 | Senior Backend Engineer - Agentic Platform
 - [ ] https://sumup.com/careers/positions/8648853002?gh_jid=8648853002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5230394008 | Anthropic | Staff+ Site Reliability Engineer, Safeguards ML Infra
+- [ ] https://jobs.ashbyhq.com/elevenlabs/38e0b741-5bfa-4481-891e-e95b503d4aff | ElevenLabs | Forward Deployed Engineer - Software Engineer - France
+- [ ] https://jobs.ashbyhq.com/elevenlabs/44c6b5f3-e135-4f3b-b286-7baccf782912 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Belgium
+- [ ] https://jobs.ashbyhq.com/elevenlabs/a4ccd185-8576-4f69-aa8d-454f323cc024 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Canada
+- [ ] https://jobs.ashbyhq.com/elevenlabs/50d20869-819d-4ae3-be8d-71c3c9bf3394 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Netherlands
+- [ ] https://jobs.ashbyhq.com/elevenlabs/cd610558-4a8e-4746-81c1-10e3902f5576 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Italy
+- [ ] https://jobs.ashbyhq.com/elevenlabs/4738893a-de4f-4a06-b104-315c6a4d366c | ElevenLabs | Enterprise Solutions Engineer - Sweden
+- [ ] https://jobs.ashbyhq.com/elevenlabs/c6fc071f-c80e-4d3b-921a-3ec02a2ad25d | ElevenLabs | Forward Deployed Engineer - Software Engineer - Sweden
+- [ ] https://jobs.ashbyhq.com/decagon/95524337-b5e7-4156-9022-af5c192f174d | Decagon | Senior Agent Product Manager, Healthcare
+- [ ] https://jobs.ashbyhq.com/sierra/adaa6543-00df-4e5f-8e40-e4327ccb764c | Sierra | Enterprise Sales Engineer (Spanish speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/102b597d-876d-458f-bf11-58924df4b73d | Sierra | Enterprise Sales Engineer (Brazilian Portuguese speaking)
+- [ ] https://jobs.ashbyhq.com/cohere/9c5e1ab3-883b-4d15-885c-76400da7ca11 | Cohere | Forward Deployed Engineer, Infrastructure Specialist (South Korea)
+- [ ] https://jobs.ashbyhq.com/cohere/e88931c0-d3fa-4e81-accc-45db823ea616 | Cohere | Forward Deployed Engineer, Infrastructure Specialist (Singapore)
+- [ ] https://helsing.ai/jobs/4947377101?gh_jid=4947377101 | Helsing | Product Manager, Autonomous Systems Command & Control
+- [ ] https://n26.com/en-eu/careers/positions/8111591?gh_jid=8111591 | N26 | Head of Product, Core Banking Systems
+- [ ] https://careers.hellofresh.com/global/en/job/8120541?gh_jid=8120541 | HelloFresh | Automation Technician 
+- [ ] https://careers.hellofresh.com/global/en/job/8119915?gh_jid=8119915 | HelloFresh | Maintenance Technician I 
+- [ ] https://careers.hellofresh.com/global/en/job/8111616?gh_jid=8111616 | HelloFresh | Senior Marketing Automation Engineer (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8095950?gh_jid=8095950 | HelloFresh | Senior Product Manager, Intelligent Platforms (m/f/x)
+- [ ] https://careers.hellofresh.com/global/en/job/7805944?gh_jid=7805944 | HelloFresh | Teamleitung Logistik (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7983373?gh_jid=7983373 | HelloFresh | Teamleitung Produktion (all genders)
+- [ ] https://sumup.com/careers/positions/8644820002?gh_jid=8644820002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8118802002?gh_jid=8118802002 | SumUp | Commercial(e) Terrain (H/F) – Lyon
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4907382101 | PhysicsX | Forward Deployed DevOps Lead
+- [ ] https://jobs.ashbyhq.com/synthesia/e934a7ac-b668-46c0-9953-eed4504658b7 | Synthesia | Product Manager, Interactive Avatars
+- [ ] https://jobs.ashbyhq.com/faculty/87b95736-0abf-4b18-b628-0083d52ec961 | Faculty | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/faculty/c7d3b4b9-fe50-4ebd-8f55-9c6c014014e8 | Faculty | Senior Forward Deployed Engineer 
+- [ ] https://jobs.lever.co/palantir/341d5cae-a473-4813-9a6c-0f67fcc1b253 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial
+
 ## Procesadas
