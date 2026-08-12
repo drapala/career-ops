@@ -2241,4 +2241,19 @@
 - [ ] https://jobs.ashbyhq.com/faculty/c7d3b4b9-fe50-4ebd-8f55-9c6c014014e8 | Faculty | Senior Forward Deployed Engineer 
 - [ ] https://jobs.lever.co/palantir/341d5cae-a473-4813-9a6c-0f67fcc1b253 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial
 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/0d68b2a2-887e-491c-8b9b-56e8354f75fb | ElevenLabs | Enterprise Solutions Engineer - Canada
+- [ ] https://jobs.ashbyhq.com/n8n/ea8efc33-c7b8-4b88-826c-3dca17c3aa47 | n8n | Staff Core Platform Engineer
+- [ ] https://jobs.ashbyhq.com/langchain/f7de4819-e7aa-4dfb-9acd-8b81ad8caf2c | LangChain | Frontend Engineer, AI Observability & Evals Platform 
+- [ ] https://jobs.ashbyhq.com/sierra/2d638355-ee46-44ce-a239-844b9234ba6d | Sierra | Forward Deployed Infrastructure Engineer (Spanish speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/93fea91f-a8a2-4084-8113-1cde73344e33 | Sierra | Software Engineer, Agent - Retail
+- [ ] https://jobs.ashbyhq.com/cohere/04a50498-eefa-43db-b6d8-0aea8064d186 | Cohere | Head of Impact & Sustainability 
+- [ ] https://jobs.ashbyhq.com/cohere/e906188a-e089-4b86-85b9-aad0d4413c68 | Cohere | Engineering Manager, FDE Agentic Platform
+- [ ] https://careers.hellofresh.com/global/en/job/8121627?gh_jid=8121627 | HelloFresh | Claims & Risk Analyst
+- [ ] https://careers.hellofresh.com/global/en/job/8097766?gh_jid=8097766 | HelloFresh | [US DC] Lead Automation Engineer
+- [ ] https://sumup.com/careers/positions/8658147002?gh_jid=8658147002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8660342002?gh_jid=8660342002 | SumUp | Field Sales Trainer (UK South)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8693131002 | Wayve | Customer Integration Engineer
+- [ ] https://jobs.lever.co/spotify/9d1764a1-45fc-4e16-a823-7b7453b61d2e | Spotify | Principal Product Manager – Content Platform
+- [ ] https://jobs.lever.co/spotify/07fa27d0-48cd-4315-8a3c-aa492dff4554 | Spotify | Product Manager - Podcast
+
 ## Procesadas
