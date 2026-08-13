@@ -2256,4 +2256,25 @@
 - [ ] https://jobs.lever.co/spotify/9d1764a1-45fc-4e16-a823-7b7453b61d2e | Spotify | Principal Product Manager – Content Platform
 - [ ] https://jobs.lever.co/spotify/07fa27d0-48cd-4315-8a3c-aa492dff4554 | Spotify | Product Manager - Podcast
 
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4936108101 | Parloa | Senior Frontend Platform Engineer (f/m/d)*
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5382750008 | Anthropic | AI Infrastructure Operations, Demand Planning
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5302966008 | Anthropic | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5386182008 | Anthropic | Product Manager, New Markets and Monetization
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4612849005 | Glean | Supply Chain Security Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/33bb01d0-993c-47fa-ae91-81c0c84f367e | ElevenLabs | Product Marketing - Agents - Government
+- [ ] https://jobs.ashbyhq.com/n8n/bcf96878-d41a-479d-b506-7753356077c4 | n8n | Senior Product Manager (Enterprise)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7825757003?gh_jid=7825757003 | Celonis | Value Engineer (Scale EMEA/Italian Speaking) 
+- [ ] https://careers.hellofresh.com/global/en/job/8102843?gh_jid=8102843 | HelloFresh | Director of Engineering, GenAI Enablement Tribe
+- [ ] https://careers.hellofresh.com/global/en/job/8112268?gh_jid=8112268 | HelloFresh | Fulfillment Technology Analyst, Derby DC (f/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/8125805?gh_jid=8125805 | HelloFresh | Senior AI Solutions Engineer, GenAI Enablement (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8119658?gh_jid=8119658 | HelloFresh | Senior Forward Deployed Engineer, Intelligent Platforms Alliance (all genders)
+- [ ] https://sumup.com/careers/positions/8644738002?gh_jid=8644738002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8699064002?gh_jid=8699064002 | SumUp | Commercial(e) Terrain (H/F) – CDI 
+- [ ] https://sumup.com/careers/positions/8699015002?gh_jid=8699015002 | SumUp | Commercial(e) terrain indépendant(e) – SumUp
+- [ ] https://sumup.com/careers/positions/7871972002?gh_jid=7871972002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.ashbyhq.com/perplexity/ef269656-94ef-463a-ae0e-6102ca3a94dd | Perplexity | Technical Recruiter, AI
+- [ ] https://jobs.ashbyhq.com/perplexity/19d8bcfd-e493-4b3a-b8fd-11a2a6502da2 | Perplexity | Member of Technical Staff (Machine Learning Engineer, Ranking Quality - Search)
+- [ ] https://jobs.ashbyhq.com/perplexity/3d7ef710-b1f6-4a80-af57-946f9bccd35b | Perplexity | Technical Sourcer, AI
+- [ ] https://jobs.lever.co/spotify/7f870908-eeb0-43ee-90be-46f19bcd4b85 | Spotify | Product Manager - Podcast
+
 ## Procesadas
