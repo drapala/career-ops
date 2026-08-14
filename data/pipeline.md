@@ -2277,4 +2277,24 @@
 - [ ] https://jobs.ashbyhq.com/perplexity/3d7ef710-b1f6-4a80-af57-946f9bccd35b | Perplexity | Technical Sourcer, AI
 - [ ] https://jobs.lever.co/spotify/7f870908-eeb0-43ee-90be-46f19bcd4b85 | Spotify | Product Manager - Podcast
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5385634008 | Anthropic | Manager, Forward Deployed Engineering
+- [ ] https://jobs.ashbyhq.com/vapi/0ec4a11b-09ec-43ed-aa79-e4718bebec1e | Vapi | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/decagon/9686ca93-1073-48f1-bc2a-af241eba83d1 | Decagon | Director of Solutions Engineering - EMEA Enterprise
+- [ ] https://jobs.ashbyhq.com/decagon/ab6a5dac-d63b-4862-bc12-c5c9525b6f8b | Decagon | Director of Solutions Engineering - EMEA Strat
+- [ ] https://jobs.ashbyhq.com/decagon/d3fc9efe-2a61-4a15-b1fc-42bbb6a3119b | Decagon | Agent Development Manager
+- [ ] https://jobs.ashbyhq.com/decagon/cfb9edd8-8d40-40e5-bf27-368825c3c415 | Decagon | Agent Strategy Manager 
+- [ ] https://jobs.ashbyhq.com/decagon/08b34a9e-6e98-40f3-9a81-ee6667bef97b | Decagon | Agent Experience Designer
+- [ ] https://jobs.ashbyhq.com/sierra/4472e6c2-fe4e-4540-a37c-68b9367fe02a | Sierra | Software Engineer, Agent - Tech, Media & Telecom
+- [ ] https://jobs.ashbyhq.com/cohere/8878b0d0-7d88-4ee9-bc17-b0dd237e39a0 | Cohere | Member of Technical Staff, Agentic Environments 
+- [ ] https://jobs.ashbyhq.com/langchain/df7a4d66-2159-4dff-b5ff-92f6e835f242 | LangChain | Solutions Engineer (Texas)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7805685003?gh_jid=7805685003 | Celonis | Sr. Frontend Software Engineer - Orchestration and Automation
+- [ ] https://careers.hellofresh.com/global/en/job/8102836?gh_jid=8102836 | HelloFresh | Director of Engineering, GenAI Enablement Tribe
+- [ ] https://careers.hellofresh.com/global/en/job/8127743?gh_jid=8127743 | HelloFresh | Operations Trainer 
+- [ ] https://careers.hellofresh.com/global/en/job/8097807?gh_jid=8097807 | HelloFresh | Senior Automation Engineer
+- [ ] https://sumup.com/careers/positions/8686837002?gh_jid=8686837002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8370147002?gh_jid=8370147002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.ashbyhq.com/faculty/188ecaba-2f9c-4a15-a86b-dc2f369f03bd | Faculty | Research Scientist - AI Safety
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6143271004 | Hightouch | Solutions Engineer, Mid-Market West (Pre-Sales)
+- [ ] https://jobs.lever.co/spotify/c73be71c-1a63-4906-9925-95f2115d1f1d | Spotify | Senior Software Engineer - Enterprise AI
+
 ## Procesadas
