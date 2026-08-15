@@ -2297,4 +2297,22 @@
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6143271004 | Hightouch | Solutions Engineer, Mid-Market West (Pre-Sales)
 - [ ] https://jobs.lever.co/spotify/c73be71c-1a63-4906-9925-95f2115d1f1d | Spotify | Senior Software Engineer - Enterprise AI
 
+- [ ] https://jobs.ashbyhq.com/deepgram/8fd3acd1-31c0-4dad-a249-a8d3d5d79cc9 | Deepgram | Enterprise AI Strategist, Deepgram for Restaurants
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391151008 | Anthropic | AI Operations Engineer, Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391995008 | Anthropic | Enterprise Integrated Campaign Manager
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5367417008 | Anthropic | Pre-training Distributed Systems Tech Lead / Manager
+- [ ] https://jobs.ashbyhq.com/cohere/2dc8b505-128a-4bc8-b8c1-7084e7d26530 | Cohere | Government Affairs Lead - Middle East (UAE or Saudi Arabia based)
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8130260 | GetYourGuide | Senior Data Analyst (Sales & RevOps) 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7853245003?gh_jid=7853245003 | Celonis | Senior Training Specialist
+- [ ] https://sumup.com/careers/positions/8645067002?gh_jid=8645067002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8699740002?gh_jid=8699740002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8537345002?gh_jid=8537345002 | SumUp | Head of AML and CTF (PCF 52)
+- [ ] https://sumup.com/careers/positions/8705983002?gh_jid=8705983002 | SumUp | KYC Operations Agent with English
+- [ ] https://sumup.com/careers/positions/8705989002?gh_jid=8705989002 | SumUp | KYC Operations Agent with Spanish
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6144041004 | Isomorphic Labs | Integration Engineer (Third Party Systems), London
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8702742002 | Wayve | Product Manager, AI Driver
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8700934002 | Wayve | Programme Manager, Supply Chain
+- [ ] https://jobs.ashbyhq.com/lovable/725b8529-5c3e-4b23-867e-8e2766bc9629 | Lovable | Product Manager (Identity & Access Management)
+- [ ] https://jobs.ashbyhq.com/claylabs/5e07db20-d96a-4dff-b7d3-3bf1cdde6fc1 | Clay Labs | Software Engineer, Applied AI
+
 ## Procesadas
