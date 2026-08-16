@@ -2315,4 +2315,11 @@
 - [ ] https://jobs.ashbyhq.com/lovable/725b8529-5c3e-4b23-867e-8e2766bc9629 | Lovable | Product Manager (Identity & Access Management)
 - [ ] https://jobs.ashbyhq.com/claylabs/5e07db20-d96a-4dff-b7d3-3bf1cdde6fc1 | Clay Labs | Software Engineer, Applied AI
 
+- [ ] https://traderepublic.com/en-de/about?jobId=7871261003&gh_jid=7871261003 | Trade Republic | Front Desk Agent
+- [ ] https://sumup.com/careers/positions/8644775002?gh_jid=8644775002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8370115002?gh_jid=8370115002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.ashbyhq.com/photoroom/e51e28e4-b740-44d6-922a-8a7b00a245a8 | Photoroom | Staff Product Manager, Agentic & AI Platform
+- [ ] https://jobs.ashbyhq.com/photoroom/4886fd85-2b2c-4dca-bf48-1dbc370629bc | Photoroom | Product Manager, Editing Foundations
+- [ ] https://jobs.ashbyhq.com/photoroom/1073f2ae-906a-42ae-bb5f-96981a2555cf | Photoroom | Product ML Engineer
+
 ## Procesadas
