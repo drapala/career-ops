@@ -2322,4 +2322,7 @@
 - [ ] https://jobs.ashbyhq.com/photoroom/4886fd85-2b2c-4dca-bf48-1dbc370629bc | Photoroom | Product Manager, Editing Foundations
 - [ ] https://jobs.ashbyhq.com/photoroom/1073f2ae-906a-42ae-bb5f-96981a2555cf | Photoroom | Product ML Engineer
 
+- [ ] https://sumup.com/careers/positions/8645080002?gh_jid=8645080002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8370141002?gh_jid=8370141002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+
 ## Procesadas
