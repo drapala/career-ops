@@ -2325,4 +2325,26 @@
 - [ ] https://sumup.com/careers/positions/8645080002?gh_jid=8645080002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
 - [ ] https://sumup.com/careers/positions/8370141002?gh_jid=8370141002 | SumUp | Commercial Terrain - Indépendant (Freelance)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390778008 | Anthropic | Applied AI Architect, Industries 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390787008 | Anthropic | Applied AI Architect, Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5382274008 | Anthropic | External Affairs, US Federal 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391021008 | Anthropic | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5250426008 | Anthropic | Head of Treasury Strategy & Transformation
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390742008 | Anthropic | Solutions Architect, Applied AI
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/5298461 | Intercom | Engineering Manager - AI Helpdesk
+- [ ] https://jobs.ashbyhq.com/elevenlabs/b1b4fa6b-ad36-4b0d-be89-32f35fcb420a | ElevenLabs | Forward Deployed Engineer - Software Engineer - Germany
+- [ ] https://jobs.ashbyhq.com/elevenlabs/16ed3af9-e4a7-4b59-8767-7771604d9165 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Denmark
+- [ ] https://jobs.ashbyhq.com/elevenlabs/c8216d65-13c9-4f8c-9b57-e14fd02738b0 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Saudi Arabia
+- [ ] https://jobs.ashbyhq.com/elevenlabs/8e3de98e-0c2e-4999-90ae-3036ee47df05 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Switzerland
+- [ ] https://jobs.ashbyhq.com/elevenlabs/fa4fc307-a0fb-47aa-9336-f202f2265440 | ElevenLabs | Forward Deployed Software Engineer - UAE
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8093952 | GetYourGuide | Senior Paid Search Marketing Manager
+- [ ] https://careers.hellofresh.com/global/en/job/8136524?gh_jid=8136524 | HelloFresh | Maintenance Planner/Scheduler 
+- [ ] https://careers.hellofresh.com/global/en/job/8130018?gh_jid=8130018 | HelloFresh | Multi Skilled Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8131220?gh_jid=8131220 | HelloFresh | Video Editor & AI Integration
+- [ ] https://sumup.com/careers/positions/8644746002?gh_jid=8644746002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8370150002?gh_jid=8370150002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.ashbyhq.com/synthesia/85e7b0df-f603-416b-a7bd-3331b6576186 | Synthesia | Product Manager (Senior/Staff-level)
+- [ ] https://jobs.lever.co/spotify/eba7e621-6236-42ee-acad-aaa5df6929c3 | Spotify | Senior Accountant, Paid Revenue
+- [ ] https://jobs.lever.co/spotify/17a75d93-835d-40ce-b31e-0c381b49f40a | Spotify | Senior Product Quality Analyst - AI Voice
+
 ## Procesadas
