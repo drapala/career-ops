@@ -2347,4 +2347,24 @@
 - [ ] https://jobs.lever.co/spotify/eba7e621-6236-42ee-acad-aaa5df6929c3 | Spotify | Senior Accountant, Paid Revenue
 - [ ] https://jobs.lever.co/spotify/17a75d93-835d-40ce-b31e-0c381b49f40a | Spotify | Senior Product Quality Analyst - AI Voice
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8140302 | Intercom | Senior AI Deployment Consultant
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390877008 | Anthropic | Applied AI Architect, Public Sector (National Security)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391016008 | Anthropic | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4712434005 | Glean | Software Engineer, Agents Governance
+- [ ] https://jobs.ashbyhq.com/elevenlabs/29aed1f3-26f8-4d3b-8cc4-7ca7d9342eeb | ElevenLabs | Forward Deployed Engineer - Software Engineer - Poland
+- [ ] https://jobs.ashbyhq.com/elevenlabs/49233713-725b-4501-8360-6006b673fd2b | ElevenLabs | Enterprise Solutions Engineer - Poland
+- [ ] https://jobs.ashbyhq.com/langchain/98fcaa18-d323-49cd-b231-b2d4b905419d | LangChain | Solutions Engineer (Chicago)
+- [ ] https://jobs.ashbyhq.com/cohere/14a286d9-e415-4198-8d3b-8e0a7882a5b6 | Cohere | Senior Director, Solutions Architecture, APAC
+- [ ] https://helsing.ai/jobs/4953562101?gh_jid=4953562101 | Helsing | Machine Learning Engineer, Detection and Tracking
+- [ ] https://helsing.ai/jobs/4953565101?gh_jid=4953565101 | Helsing | Software Engineer, Platform Engineering
+- [ ] https://careers.hellofresh.com/global/en/job/8138653?gh_jid=8138653 | HelloFresh | Second Line Support Agent (f/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/8125293?gh_jid=8125293 | HelloFresh | Senior Backend Developer, SCM Tech Fulfillment
+- [ ] https://careers.hellofresh.com/global/en/job/8135972?gh_jid=8135972 | HelloFresh | Supply Chain Coordinator
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7885808003?gh_jid=7885808003 | Celonis | AI Engineer - Quality
+- [ ] https://sumup.com/careers/positions/8645083002?gh_jid=8645083002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8467370002?gh_jid=8467370002 | SumUp | Commercial(e) Terrain Indépendant(e) 
+- [ ] https://sumup.com/careers/positions/8370149002?gh_jid=8370149002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.lever.co/spotify/c3f6ea23-97d0-4a9a-a9ad-04f1e745d916 | Spotify | Senior Product Quality Analyst - AI Voice
+- [ ] https://jobs.lever.co/pigment/abde6aa1-a569-4700-998b-152187e2721b | Pigment | Optimisation AI Scientist
+
 ## Procesadas
