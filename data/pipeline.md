@@ -2367,4 +2367,29 @@
 - [ ] https://jobs.lever.co/spotify/c3f6ea23-97d0-4a9a-a9ad-04f1e745d916 | Spotify | Senior Product Quality Analyst - AI Voice
 - [ ] https://jobs.lever.co/pigment/abde6aa1-a569-4700-998b-152187e2721b | Pigment | Optimisation AI Scientist
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390765008 | Anthropic | Applied AI Architect, Industries
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5387827008 | Anthropic | Applied AI Architect, Startups
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390795008 | Anthropic | Applied AI Engineer, Enterprise
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5394958008 | Anthropic | Business Systems Analyst
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5392856008 | Anthropic | DevOps / AgentOps Engineer, GTM Systems
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5318977008 | Anthropic | Director, Infrastructure Supply Chain Accounting
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390746008 | Anthropic | [India] Solutions Architect, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390750008 | Anthropic | Partner Solutions Architect,Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391012008 | Anthropic | Pre-Sales Program Lead, Forward Deployed Engineering
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390799008 | Anthropic | Product Engineer, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5393452008 | Anthropic | Product Manager, Public Sector
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5247989008 | Anthropic | Solution Architect, Applied AI
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8128393 | Intercom | Senior AI Deployment Consultant
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8143139 | Intercom | Senior Solutions Architect- LATAM
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4695585005 | Glean | Enterprise Account Executive - Mountain View
+- [ ] https://jobs.ashbyhq.com/elevenlabs/22d14f69-1a8c-4fc0-aa4d-8b10c62ee806 | ElevenLabs | Enterprise Solutions Engineer - Switzerland
+- [ ] https://jobs.ashbyhq.com/elevenlabs/62bd5d49-6122-421a-8f18-3aa65dbdbd1d | ElevenLabs | Enterprise Solutions Engineer - Saudi Arabia
+- [ ] https://jobs.ashbyhq.com/cohere/f154a1cb-b7c1-4f74-ac50-04ef9dcfc9e0 | Cohere | Solutions Architect - UAE
+- [ ] https://jobs.ashbyhq.com/cohere/41cb2a12-e33a-4368-a9f8-0ae0d19c023e | Cohere | Technical Program Manager, AI Delivery
+- [ ] https://jobs.ashbyhq.com/cohere/24cdb030-3913-4c38-a7db-8f31c3c91ee6 | Cohere | Forward Deployed Engineer, Infrastructure Specialist (France)
+- [ ] https://helsing.ai/jobs/4813822101?gh_jid=4813822101 | Helsing | Systems Engineer V&V - Air
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7905008003?gh_jid=7905008003 | Celonis | Senior Solutions Architect
+- [ ] https://sumup.com/careers/positions/8644753002?gh_jid=8644753002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8675692002?gh_jid=8675692002 | SumUp | Collections Agent - Lending
+
 ## Procesadas
