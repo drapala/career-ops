@@ -2392,4 +2392,28 @@
 - [ ] https://sumup.com/careers/positions/8644753002?gh_jid=8644753002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
 - [ ] https://sumup.com/careers/positions/8675692002?gh_jid=8675692002 | SumUp | Collections Agent - Lending
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8122199 | Intercom | Senior Solutions Architect - LATAM
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8144743 | Intercom | Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390754008 | Anthropic | Applied AI Engineer, Enterprise
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390894008 | Anthropic | Manager Applied AI Architecture, Financial Services
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390890008 | Anthropic | Manager Applied AI Architecture, Healthcare & Life Sciences
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390865008 | Anthropic | Manager of Applied AI Architecture, Commercial
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5393526008 | Anthropic | Product Manager, Cyber Security 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390735008 | Anthropic | Solutions Architect, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5395767008 | Anthropic | Staff+ Software Engineer, Claude Managed Agents
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6147956004 | Vercel | Product Manager, Observability
+- [ ] https://jobs.ashbyhq.com/langchain/886be84d-b56a-4260-a8dc-87992640293d | LangChain | Business Systems Analyst, GTM Systems
+- [ ] https://jobs.ashbyhq.com/decagon/5433ff3a-9a7c-406b-9dd8-23094141b907 | Decagon | Agent Data Scientist
+- [ ] https://jobs.ashbyhq.com/DeepL/71385f28-2d13-42e9-a8cc-f1af8c59b952 | DeepL | Commercial Account Executive | Italy or Spain (based in London)
+- [ ] https://jobs.ashbyhq.com/DeepL/8ddd3267-e4a1-4319-bffe-d894c39b7b6d | DeepL | Senior Integrated Campaign Manager
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7831220003?gh_jid=7831220003 | Celonis | Senior Applied Value Engineer – CPG & Retail
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=8143595 | Scandit | Working Student - Use-case Validation Assistant
+- [ ] https://sumup.com/careers/positions/8644804002?gh_jid=8644804002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8732398002?gh_jid=8732398002 | SumUp | Senior Data Scientist/ML Engineer - Financial Crime
+- [ ] https://careers.hellofresh.com/global/en/job/8143859?gh_jid=8143859 | HelloFresh | Maintenance Technician I
+- [ ] https://careers.hellofresh.com/global/en/job/8137980?gh_jid=8137980 | HelloFresh | Operations Manager, Fulfillment
+- [ ] https://careers.hellofresh.com/global/en/job/8143462?gh_jid=8143462 | HelloFresh | Supply Chain Planner (f/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/8144081?gh_jid=8144081 | HelloFresh | [TECH] GenAI Literacy Lead [INTELIGENT PLATFORMS]
+- [ ] https://careers.hellofresh.com/global/en/job/8144546?gh_jid=8144546 | HelloFresh | [US-DC] Fulfillment Lead
+
 ## Procesadas
