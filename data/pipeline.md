@@ -2416,4 +2416,24 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8144081?gh_jid=8144081 | HelloFresh | [TECH] GenAI Literacy Lead [INTELIGENT PLATFORMS]
 - [ ] https://careers.hellofresh.com/global/en/job/8144546?gh_jid=8144546 | HelloFresh | [US-DC] Fulfillment Lead
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8123007 | Intercom | Solutions Engineer
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4771502101 | Parloa | Working Student Finance/Accounting
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5398753008 | Anthropic | Business Systems Analyst
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5397741008 | Anthropic | Product Manager, Business Technology
+- [ ] https://jobs.ashbyhq.com/deepgram/8a9bcce3-858f-4cc0-8459-2fe552b6aaa5 | Deepgram | Senior Pre-Sales Solutions Engineer (Australia)
+- [ ] https://jobs.ashbyhq.com/deepgram/d28f0a61-4a59-4817-b101-3457077b01b7 | Deepgram | Senior Pre-Sales Solutions Engineer (Singapore)
+- [ ] https://jobs.ashbyhq.com/deepgram/6e3344f4-48c7-4127-871c-3f1dada45323 | Deepgram | Director of Research, Text to Speech
+- [ ] https://jobs.ashbyhq.com/deepgram/4bfadd29-fa58-4e06-bbf0-7b5dbc41a621 | Deepgram | Forward-Deployed Engineer (FDE), Strategic Accounts
+- [ ] https://jobs.ashbyhq.com/langchain/1b125fc4-be24-422f-a180-30b7431fc6cf | LangChain | Senior Frontend Platform Engineer, Design Systems
+- [ ] https://helsing.ai/jobs/4953387101?gh_jid=4953387101 | Helsing | AI Research Engineer - GPU Simulation
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7928952003?gh_jid=7928952003 | Celonis | Lead Deployment Architect - AI
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7926567003?gh_jid=7926567003 | Celonis | Lead / Principal Consultant - Data and AI
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7800448003?gh_jid=7800448003 | Celonis | Senior Applied Value Engineer - UKI Energy, Oil & Gas
+- [ ] https://sumup.com/careers/positions/8648846002?gh_jid=8648846002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://n26.com/en-eu/careers/positions/8147446?gh_jid=8147446 | N26 | Data Engineer - Platform Engineering
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8737235002 | Wayve | Global Head of Training
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8735092002 | Wayve | Technical Product Manager - Development Vehicles
+- [ ] https://jobs.ashbyhq.com/supabase/9773ea1b-e25b-437c-bdbd-3fce0c69101e | Supabase | Product Manager - Branching
+- [ ] https://jobs.ashbyhq.com/supabase/68a397e7-8a1a-4566-ae41-e8c61dd6ed93 | Supabase | Product Manager - Strategic Partner Integrations (Bay Area based)
+
 ## Procesadas
