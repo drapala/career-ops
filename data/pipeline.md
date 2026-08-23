@@ -2436,4 +2436,9 @@
 - [ ] https://jobs.ashbyhq.com/supabase/9773ea1b-e25b-437c-bdbd-3fce0c69101e | Supabase | Product Manager - Branching
 - [ ] https://jobs.ashbyhq.com/supabase/68a397e7-8a1a-4566-ae41-e8c61dd6ed93 | Supabase | Product Manager - Strategic Partner Integrations (Bay Area based)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5397737008 | Anthropic | Product Manager, Business Technology
+- [ ] https://jobs.ashbyhq.com/deepgram/e3c33ed8-c80f-4af6-a904-7da6c413b074 | Deepgram | Solutions Architect - MENA
+- [ ] https://sumup.com/careers/positions/8648848002?gh_jid=8648848002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://n26.com/en-eu/careers/positions/8138777?gh_jid=8138777 | N26 | Data Engineer - Platform Engineering
+
 ## Procesadas
