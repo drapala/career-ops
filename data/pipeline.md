@@ -2441,4 +2441,8 @@
 - [ ] https://sumup.com/careers/positions/8648848002?gh_jid=8648848002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
 - [ ] https://n26.com/en-eu/careers/positions/8138777?gh_jid=8138777 | N26 | Data Engineer - Platform Engineering
 
+- [ ] https://jobs.ashbyhq.com/cohere/a0f174cf-4407-4334-b812-45a767092fca | Cohere | Forward Deployed Engineer, Infrastructure Specialist (UK Public Sector)
+- [ ] https://jobs.ashbyhq.com/cohere/691982e3-9357-42e4-b4c3-a65cae906935 | Cohere | Forward Deployed Engineer, Agentic Platform (UK Public Sector)
+- [ ] https://sumup.com/careers/positions/8646824002?gh_jid=8646824002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+
 ## Procesadas
