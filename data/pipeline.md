@@ -2445,4 +2445,24 @@
 - [ ] https://jobs.ashbyhq.com/cohere/691982e3-9357-42e4-b4c3-a65cae906935 | Cohere | Forward Deployed Engineer, Agentic Platform (UK Public Sector)
 - [ ] https://sumup.com/careers/positions/8646824002?gh_jid=8646824002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
 
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4959301101 | Parloa | Manager, Forward Deployed Engineering
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4959298101 | Parloa | Senior Forward Deployed Engineer (France)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5021015008 | Anthropic | Applied AI Engineer, Beneficial Deployments (Life Sciences)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5398360008 | Anthropic | IP Counsel, Trademarks & Domains
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5396384008 | Anthropic | IT Systems Engineer, Mobile Client Platform Engineer 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391237008 | Anthropic | Partner Account Manager - Spain, Italy & MEA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5399160008 | Anthropic | Repairs Program Lead - Data Center Operations
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4724189005 | Glean | AI Data Analyst
+- [ ] https://jobs.ashbyhq.com/langchain/6eecbcda-d94f-4700-b8c7-ce54cb212290 | LangChain | Deployed Engineer (Federal)
+- [ ] https://jobs.ashbyhq.com/sierra/c66b30fc-9588-4699-85c1-2166b23b8778 | Sierra | Software Engineer, Agent - Public Sector
+- [ ] https://jobs.ashbyhq.com/sierra/bb9153b1-ea92-44bd-b286-59675a043850 | Sierra | Strategist, Agent Development - Public Sector
+- [ ] https://jobs.ashbyhq.com/sierra/cb841dfe-5d21-44ae-8496-fca6b5587ae6 | Sierra | Product Manager, Agent Development - Public Sector
+- [ ] https://n26.com/en-eu/careers/positions/8141767?gh_jid=8141767 | N26 | Banking Operations - OCC FR Specialist (Part-time)
+- [ ] https://careers.hellofresh.com/global/en/job/8154672?gh_jid=8154672 | HelloFresh | Manager, Growth Mail
+- [ ] https://sumup.com/careers/positions/8645096002?gh_jid=8645096002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8210441002?gh_jid=8210441002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8737803002 | Wayve | Director AI Integration and Applications
+- [ ] https://jobs.ashbyhq.com/legora/c2def7d8-f236-4a78-bdb9-5616900dd746 | Legora | AI Enablement Manager
+- [ ] https://jobs.ashbyhq.com/supabase/624d48cc-8d34-4607-bace-e6d045df70b8 | Supabase | Pre-Sales Solutions Architect (SA) Leader
+
 ## Procesadas
