@@ -2465,4 +2465,27 @@
 - [ ] https://jobs.ashbyhq.com/legora/c2def7d8-f236-4a78-bdb9-5616900dd746 | Legora | AI Enablement Manager
 - [ ] https://jobs.ashbyhq.com/supabase/624d48cc-8d34-4607-bace-e6d045df70b8 | Supabase | Pre-Sales Solutions Architect (SA) Leader
 
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4959144101 | Parloa | Manager, Agent Architecture
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390966008 | Anthropic | AI Engineer, GTM Claudification 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391336008 | Anthropic | Enterprise Account Executive - Retail/CPG
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5387754008 | Anthropic | Manager, Applied AI Architect, Enterprise Tech
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5399225008 | Anthropic | Supply Chain Delivery Manager, Data Center Power & Cooling OFE
+- [ ] https://jobs.ashbyhq.com/vapi/0d4f1420-2590-4a38-aac4-3efda12eadb0 | Vapi | Member of Technical Staff, Agentic Developer Experience
+- [ ] https://jobs.ashbyhq.com/elevenlabs/f00cd4ae-3429-43a9-9e78-247ca3e4c404 | ElevenLabs | Strategic Account Executive - Switzerland - Consumer & Retail
+- [ ] https://jobs.ashbyhq.com/sierra/3cdeb98c-a25c-4f3b-a704-1418556454bc | Sierra | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/sierra/575cf637-3a7a-4d9c-883c-8b0265811984 | Sierra | Agent Strategist
+- [ ] https://careers.hellofresh.com/global/en/job/8152752?gh_jid=8152752 | HelloFresh | Editorial Product Manager [Maternity Cover]  - All Genders
+- [ ] https://careers.hellofresh.com/global/en/job/8157975?gh_jid=8157975 | HelloFresh | Maintenance Technician I 
+- [ ] https://careers.hellofresh.com/global/en/job/8158004?gh_jid=8158004 | HelloFresh | Maintenance Technician III 
+- [ ] https://n26.com/en-eu/careers/positions/8138757?gh_jid=8138757 | N26 | IT Solutions Engineer - Google Cloud
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8747268002 | Wayve | Fleet Service and Maintenance Technician
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4960268101 | PhysicsX | Forward Deployed Software Engineer
+- [ ] https://sumup.com/careers/positions/8644759002?gh_jid=8644759002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8729790002?gh_jid=8729790002 | SumUp | Employment Counsel Spain
+- [ ] https://jobs.ashbyhq.com/legora/42e89f02-54d8-4df8-bda8-4107bbb7bab5 | Legora | Solutions Engineer - Paris
+- [ ] https://jobs.ashbyhq.com/legora/33abe455-786f-4054-b315-140b16f33c1e | Legora | Solutions Engineer - Munich
+- [ ] https://jobs.ashbyhq.com/legora/898c9e9f-74e2-4bb1-8ff2-ef23b8ab9452 | Legora | Solutions Engineer - Madrid
+- [ ] https://jobs.ashbyhq.com/legora/5a51ffc6-f780-4c55-b130-5fc9ad51c31f | Legora | Solutions Engineer - Milan
+- [ ] https://jobs.ashbyhq.com/perplexity/0a74edd7-830a-4825-946c-28801a057127 | Perplexity | Member of Technical Staff (Software Engineer, Agent Harness)
+
 ## Procesadas
