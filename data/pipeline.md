@@ -2488,4 +2488,32 @@
 - [ ] https://jobs.ashbyhq.com/legora/5a51ffc6-f780-4c55-b130-5fc9ad51c31f | Legora | Solutions Engineer - Milan
 - [ ] https://jobs.ashbyhq.com/perplexity/0a74edd7-830a-4825-946c-28801a057127 | Perplexity | Member of Technical Staff (Software Engineer, Agent Harness)
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8155204 | Intercom | Senior Manager, Solutions Engineering
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8144761 | Intercom | Senior Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5227672008 | Anthropic | Applied AI Architect
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390770008 | Anthropic | Applied AI Architect, Industries 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390791008 | Anthropic | Applied AI Strategist, EMEA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5406106008 | Anthropic | Product Manager, Growth
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4726336005 | Glean | Product Manager
+- [ ] https://jobs.ashbyhq.com/decagon/2e561f25-77bd-4199-b5c4-3618f1743a0d | Decagon | Senior Agent Product Manager
+- [ ] https://jobs.ashbyhq.com/cohere/8a7b1381-bd0b-444e-8605-faca526d4700 | Cohere | People Systems and Automation Manager
+- [ ] https://jobs.ashbyhq.com/cohere/a42976d7-0ae5-4892-b3ba-bf5510c6cecd | Cohere | Solutions Architect - Nordics
+- [ ] https://helsing.ai/jobs/4880212101?gh_jid=4880212101 | Helsing | Senior Commercial Manager - Air
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7972958003?gh_jid=7972958003 | Celonis | Enterprise AI Consultant
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7827510003?gh_jid=7827510003 | Celonis | Transformation Engineer - Oracle
+- [ ] https://jobs.ashbyhq.com/langchain/47ad420c-9302-4a4f-a35f-7dd29e1d9d28 | LangChain | AI Engineer, Enablement 
+- [ ] https://careers.hellofresh.com/global/en/job/8148485?gh_jid=8148485 | HelloFresh |  Associate Maintenance Manager
+- [ ] https://careers.hellofresh.com/global/en/job/8159151?gh_jid=8159151 | HelloFresh | Automation Technician 
+- [ ] https://careers.hellofresh.com/global/en/job/8159938?gh_jid=8159938 | HelloFresh | Fulfillment Associate
+- [ ] https://careers.hellofresh.com/global/en/job/8140615?gh_jid=8140615 | HelloFresh | Kitchen Associate
+- [ ] https://sumup.com/careers/positions/8648849002?gh_jid=8648849002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8749656002?gh_jid=8749656002 | SumUp | Senior Software Engineer (Golang) – Pricing Domain
+- [ ] https://jobs.ashbyhq.com/DeepL/c30ae59e-14c6-4534-b5d3-6d8a4c37972c | DeepL | Staff Platform Engineer
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6134265004 | Isomorphic Labs | Software Engineer (LLM Engineering), London
+- [ ] https://jobs.ashbyhq.com/perplexity/50a2def5-adeb-4f13-99c1-88c32482b772 | Perplexity | Member of Technical Staff (AI Software Engineer, Agents)
+- [ ] https://jobs.ashbyhq.com/perplexity/4fba58de-a168-4948-9d82-a7d4b38f45f2 | Perplexity | Forward Deployed Engineer, Perplexity Computer
+- [ ] https://jobs.ashbyhq.com/legora/b8e0c421-cf43-42f8-99f8-b55ab0b06b54 | Legora | Head of Legal Engineering, Spain
+- [ ] https://jobs.lever.co/spotify/9d90d15c-541b-4360-bdaf-c6a5e9479e8a | Spotify | Automation (Programmatic) Lead - London
+- [ ] https://jobs.lever.co/spotify/1961fa91-bdba-450a-bfb6-fc8d8d5c9e9c | Spotify | State and Local Government Affairs Manager
+
 ## Procesadas
