@@ -2516,4 +2516,29 @@
 - [ ] https://jobs.lever.co/spotify/9d90d15c-541b-4360-bdaf-c6a5e9479e8a | Spotify | Automation (Programmatic) Lead - London
 - [ ] https://jobs.lever.co/spotify/1961fa91-bdba-450a-bfb6-fc8d8d5c9e9c | Spotify | State and Local Government Affairs Manager
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5409008008 | Anthropic | Applied AI Architect, Strategic Enterprise Tech
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5407337008 | Anthropic | Product Manager, Beneficial Deployments (Labs)
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8145718 | Intercom | Manager, Solutions Engineering
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8122767 | Intercom | Senior Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/langchain/c450c07a-196e-4ad4-9938-f368eb0ba65d | LangChain | Deployed Engineer, Professional Services (San Francisco)
+- [ ] https://jobs.ashbyhq.com/langchain/329c0b62-0ca0-4311-a827-50a5a3333861 | LangChain | Deployed Engineer, Professional Services (NYC)
+- [ ] https://jobs.ashbyhq.com/langchain/d1dc8b4d-5f7f-46b3-bfd9-dfcb375a614b | LangChain | Deployed Engineer, Professional Services
+- [ ] https://jobs.ashbyhq.com/attio/792c4476-49aa-46eb-a77a-01e821531806 | Attio | Senior Platform Engineer 
+- [ ] https://helsing.ai/jobs/4961375101?gh_jid=4961375101 | Helsing | Liaison Manager – US Desk Officer
+- [ ] https://n26.com/en-eu/careers/positions/8161394?gh_jid=8161394 | N26 | Complaints Compliance & Prevention Manager
+- [ ] https://n26.com/en-eu/careers/positions/8161390?gh_jid=8161390 | N26 | Compliance and Prevention Associate (Complaints Management)
+- [ ] https://n26.com/en-eu/careers/positions/8153081?gh_jid=8153081 | N26 | Lead Product Manager - Customer Due Diligence
+- [ ] https://careers.hellofresh.com/global/en/job/8162817?gh_jid=8162817 | HelloFresh | Maintenance Technician I 
+- [ ] https://careers.hellofresh.com/global/en/job/8162893?gh_jid=8162893 | HelloFresh | Maintenance Technician II 
+- [ ] https://careers.hellofresh.com/global/en/job/8162122?gh_jid=8162122 | HelloFresh | Teamleitung Logistik (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8162118?gh_jid=8162118 | HelloFresh | Teamleitung Produktion (all genders)
+- [ ] https://sumup.com/careers/positions/8644793002?gh_jid=8644793002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8737288002?gh_jid=8737288002 | SumUp | People Operations & Payroll (Working Student)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8756135002 | Wayve | Fleet Service and Maintenance Technician
+- [ ] https://jobs.ashbyhq.com/lovable/ac86ab57-ff2e-4a49-83f8-51dd6bbc2cbf | Lovable | AI Ops Engineer (FBOS)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7885824003?gh_jid=7885824003 | Celonis | Associate (AI) Solution Consultant (UK) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7979056003?gh_jid=7979056003 | Celonis | Associate Applied (AI) Value Engineer (UK) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7885761003?gh_jid=7885761003 | Celonis | Senior Application Product Manager - Oracle & AI
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7978327003?gh_jid=7978327003 | Celonis | Transformation Engineer - Oracle
+
 ## Procesadas
