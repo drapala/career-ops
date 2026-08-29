@@ -2541,4 +2541,23 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7885761003?gh_jid=7885761003 | Celonis | Senior Application Product Manager - Oracle & AI
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7978327003?gh_jid=7978327003 | Celonis | Transformation Engineer - Oracle
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5406982008 | Anthropic | Applied AI Architect, Startups
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5219967008 | Anthropic | Enterprise Account Executive - Retail / CPG / Trading
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5407938008 | Anthropic | Partnership Manager, AI for Science
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5409934008 | Anthropic | Product Manager, Multi-Cloud Trust & Safety
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5409299008 | Anthropic | Regulatory Counsel, AI Regulation, US
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5895013004 | Vercel | Staff Data Platform Engineer - Finance
+- [ ] https://jobs.ashbyhq.com/attio/47b583e0-9d7c-4451-9c58-4fce60821d7a | Attio | Senior Platform Engineer 
+- [ ] https://traderepublic.com/en-de/about?jobId=7980551003&gh_jid=7980551003 | Trade Republic | Process Operations Working Student (f/d/m)
+- [ ] https://sumup.com/careers/positions/8644822002?gh_jid=8644822002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8750435002?gh_jid=8750435002 | SumUp | Senior Product Manager- Hardware
+- [ ] https://n26.com/en-eu/careers/positions/8141402?gh_jid=8141402 | N26 | Lead Product Manager - Customer Due Diligence
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5837883004 | Isomorphic Labs | Data Platform Engineer, London
+- [ ] https://jobs.ashbyhq.com/lovable/3944f55e-910f-4248-ba28-2c1e6143eb28 | Lovable | AI Scaled Customer Success Programs
+- [ ] https://jobs.ashbyhq.com/causaly/b197dd4a-dded-4f35-ab09-3bf757b64d2a | Causaly | Senior Software Engineer - Agentic Workflows
+- [ ] https://jobs.ashbyhq.com/causaly/99f31334-aef3-4e52-a969-1a2a08368016 | Causaly | Staff Software Engineer - Agentic Workflows
+- [ ] https://jobs.lever.co/pigment/fc3989dd-2ee1-48af-bf1b-8975a82693e4 | Pigment | Solution Consultant - Supply Chain
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6174215004 | Hightouch | Software Engineer, Applied AI Research
+- [ ] https://careers.hellofresh.com/global/en/job/8164137?gh_jid=8164137 | HelloFresh | Contrôleur Qualité Agroalimentaire - (H/F/N)
+
 ## Procesadas
