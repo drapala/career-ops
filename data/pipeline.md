@@ -2560,4 +2560,7 @@
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6174215004 | Hightouch | Software Engineer, Applied AI Research
 - [ ] https://careers.hellofresh.com/global/en/job/8164137?gh_jid=8164137 | HelloFresh | Contrôleur Qualité Agroalimentaire - (H/F/N)
 
+- [ ] https://sumup.com/careers/positions/8645066002?gh_jid=8645066002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8756182002 | Wayve | Triage Automation Engineer
+
 ## Procesadas
