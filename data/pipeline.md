@@ -2560,4 +2560,13 @@
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6174215004 | Hightouch | Software Engineer, Applied AI Research
 - [ ] https://careers.hellofresh.com/global/en/job/8164137?gh_jid=8164137 | HelloFresh | Contrôleur Qualité Agroalimentaire - (H/F/N)
 
+- [ ] https://sumup.com/careers/positions/8645066002?gh_jid=8645066002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8756182002 | Wayve | Triage Automation Engineer
+
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4963789101 | Parloa | Sr Agent Architect (Germany)
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4963773101 | Parloa | Sr Agent Architect (Italy)
+- [ ] https://jobs.ashbyhq.com/sierra/bc98b50a-d6ea-42b8-b1c6-f55099d1bb1c | Sierra | Product Manager, Agent Development - Financial Services
+- [ ] https://sumup.com/careers/positions/8645070002?gh_jid=8645070002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8682187002 | Wayve | Technical Product Manager - Robotaxi   
+
 ## Procesadas
