@@ -2569,4 +2569,23 @@
 - [ ] https://sumup.com/careers/positions/8645070002?gh_jid=8645070002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8682187002 | Wayve | Technical Product Manager - Robotaxi   
 
+- [ ] https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00 | Sierra | Software Engineer, Agent (New Grad 2027)
+- [ ] https://jobs.ashbyhq.com/sierra/1d5cf6f0-feba-46a6-98bc-70a1627a76d0 | Sierra | Software Engineer, Agent (Spanish speaking)
+- [ ] https://jobs.ashbyhq.com/deepgram/1645ceac-3ef9-45ba-8386-49c7c43b14f0 | Deepgram | Senior Forward Deployed Engineer, Strategic Accounts
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8158765 | GetYourGuide | Inside Sales - Thai Speaking
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7885985003?gh_jid=7885985003 | Celonis | Associate (AI) Solution Consultant (France) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7981557003?gh_jid=7981557003 | Celonis | Associate (AI) Solution Consultant (Nordics) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7981565003?gh_jid=7981565003 | Celonis | Associate Applied (AI) Value Engineer (France) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7885913003?gh_jid=7885913003 | Celonis | Associate Applied (AI) Value Engineer (Nordics) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5129961008 | Anthropic | Applied AI Research (Capabilities)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5394887008 | Anthropic | Product Manager, Claude Science
+- [ ] https://sumup.com/careers/positions/8646823002?gh_jid=8646823002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://jobs.ashbyhq.com/lovable/2bad82d6-3fd0-42a2-afbf-f1e9511057d4 | Lovable | Forward Deployed Engineering Lead
+- [ ] https://jobs.ashbyhq.com/claylabs/546b27c1-8808-4808-bd98-5c6cad88d88c | Clay Labs | GTM Engineer Manager - Seller Efficiency
+- [ ] https://jobs.lever.co/qonto/3f0f1c9d-92ef-4d73-aa4f-0be61f7e1fe5 | Qonto | AML Analyst - French Market
+- [ ] https://jobs.lever.co/palantir/cadc0eb2-2703-43e4-8e4f-41edf5b071c6 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - UK Government
+- [ ] https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government
+- [ ] https://careers.hellofresh.com/global/en/job/8142223?gh_jid=8142223 | HelloFresh | Operations Trainer
+- [ ] https://careers.hellofresh.com/global/en/job/8052045?gh_jid=8052045 | HelloFresh | [US DC] Associate Director, Maintenance and Reliability Engineering
+
 ## Procesadas
