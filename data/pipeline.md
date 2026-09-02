@@ -2588,4 +2588,23 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8142223?gh_jid=8142223 | HelloFresh | Operations Trainer
 - [ ] https://careers.hellofresh.com/global/en/job/8052045?gh_jid=8052045 | HelloFresh | [US DC] Associate Director, Maintenance and Reliability Engineering
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5041290008 | Anthropic | Strategic Account Executive, Investment Banking & Capital Markets
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5041299008 | Anthropic | Strategic Account Executive, Retail & Commercial Banking
+- [ ] https://jobs.ashbyhq.com/elevenlabs/cf173c80-b9b9-4e27-85fa-a26c68693ea9 | ElevenLabs | Production Manager (Arabic speaking) 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/507e390a-eaeb-4000-936e-83e3e498c760 | ElevenLabs | Data Scientist - AI Safety
+- [ ] https://jobs.ashbyhq.com/n8n/98d8bc2f-ee58-4732-8977-61a761aac8b0 | n8n | Senior Product Manager - Core Experience
+- [ ] https://jobs.ashbyhq.com/decagon/c7e99d26-0b12-4379-a36e-194e282f86d4 | Decagon | Business Development, EMEA (German Speaking)
+- [ ] https://jobs.ashbyhq.com/decagon/40107edb-55f2-4153-914e-de78e092cd5f | Decagon | Business Systems Manager
+- [ ] https://jobs.ashbyhq.com/decagon/c68de30e-1293-48bd-8f8e-dbbbb7d204b9 | Decagon | AI Acceleration Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/e0ed6769-e357-41e9-88f8-6c8ba84390bb | Decagon | Growth Marketing Manager, Paid Social
+- [ ] https://jobs.ashbyhq.com/sierra/5230b7d7-f813-4942-96ca-a7de154c4b50 | Sierra |  Executive Assistant, Product & Agent Development
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7815041003?gh_jid=7815041003 | Celonis | Lead AI Consultant (Field)
+- [ ] https://sumup.com/careers/positions/8645084002?gh_jid=8645084002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8712765002?gh_jid=8712765002 | SumUp | KYC EDD Operations Agent (English)
+- [ ] https://sumup.com/careers/positions/8712769002?gh_jid=8712769002 | SumUp | KYC EDD Operations Agent (German)
+- [ ] http://stability.ai/careers?gh_jid=4966000101 | Stability AI | Forward Deployed Engineer 
+- [ ] https://jobs.ashbyhq.com/perplexity/f4d81f6b-958c-4bc0-a9aa-9850c3508ca9 | Perplexity | Strategic Finance Lead - AI
+- [ ] https://careers.hellofresh.com/global/en/job/8165507?gh_jid=8165507 | HelloFresh | Analyst, Supply Chain Planning
+- [ ] https://careers.hellofresh.com/global/en/job/8171079?gh_jid=8171079 | HelloFresh | Senior Associate, Claims & Risk Management
+
 ## Procesadas
