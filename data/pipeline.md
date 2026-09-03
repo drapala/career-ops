@@ -2607,4 +2607,28 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8165507?gh_jid=8165507 | HelloFresh | Analyst, Supply Chain Planning
 - [ ] https://careers.hellofresh.com/global/en/job/8171079?gh_jid=8171079 | HelloFresh | Senior Associate, Claims & Risk Management
 
+- [ ] https://jobs.ashbyhq.com/vapi/250ac759-97a6-46b8-ad7c-9bb4f223dd26 | Vapi | Member of Technical Staff, Agentic Release Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5387733008 | Anthropic | Applied AI Architect, Cyber
+- [ ] https://jobs.ashbyhq.com/elevenlabs/3db51b70-d22b-46f7-8888-763f4d73029a | ElevenLabs | Customer Success - EMEA (German speaking)
+- [ ] https://jobs.ashbyhq.com/elevenlabs/1bd5957c-6799-4b0d-b33d-1d8f7fc56c09 | ElevenLabs | Customer Success (Polish Speaking)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4729652005 | Glean | Solutions Engineer, UK
+- [ ] https://jobs.ashbyhq.com/sierra/d8baf20a-4c20-496d-9f0c-bc47a25fddb8 | Sierra | GTM Operations, Agent Development (London)
+- [ ] https://jobs.ashbyhq.com/sierra/a4afb8ff-0477-4fa6-a787-0cec5f28e23f | Sierra | Strategist, Agent Development - Tech, Media & Telecom
+- [ ] https://careers.hellofresh.com/global/en/job/8175297?gh_jid=8175297 | HelloFresh | Ops Trainer
+- [ ] https://careers.hellofresh.com/global/en/job/8168972?gh_jid=8168972 | HelloFresh | Team Lead Supply Chain Planning
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7984219003?gh_jid=7984219003 | Celonis | Finance & Cash Collection Specialist (German-Speaking)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7885800003?gh_jid=7885800003 | Celonis | Senior Application Product Manager - Supply Chain - Procurement 
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8173479 | GetYourGuide | Account Executive Greece (Greek Speaking)
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8173255 | GetYourGuide | Account Executive Turkey (Turkish Speaking)
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/7906547 | GetYourGuide | Staff Data Analyst, Marketing Analytics (Paid Search)
+- [ ] https://n26.com/en-eu/careers/positions/8023311?gh_jid=8023311 | N26 | Associate Product Manager - Investments
+- [ ] https://jobs.ashbyhq.com/perplexity/3c9c051f-e6ca-4a70-9abf-1f640e154ee1 | Perplexity | Product Manager, Mobile Apps
+- [ ] https://jobs.ashbyhq.com/perplexity/6f3c5131-2efa-400c-8248-44203a4dbfbb | Perplexity | Product Manager, Core Experience
+- [ ] https://jobs.ashbyhq.com/perplexity/7f880194-7276-4b46-8a50-58b48da8882e | Perplexity | Product Manager, AI Capabilities
+- [ ] https://jobs.ashbyhq.com/perplexity/fa088d92-b08b-43f7-9232-275b0ae08827 | Perplexity | Product Manager, Growth
+- [ ] https://jobs.ashbyhq.com/perplexity/182ab2ec-6fb1-409b-a2dc-63c7832b0a13 | Perplexity | Product Manager, SMB Growth
+- [ ] https://jobs.ashbyhq.com/supabase/4eb14408-51e6-4c58-812a-3782d5c0b045 | Supabase | Platform Engineer - Compute Capacity
+- [ ] https://jobs.lever.co/spotify/7f0a8faa-f4f5-4db9-9f51-4101d6a29b34 | Spotify | Product Manager - Customer Service Platform
+- [ ] https://jobs.lever.co/spotify/7ca182dc-9171-4184-bc5b-481c71892210 | Spotify | Social Media Manager, Campaigns & Platform Strategy
+
 ## Procesadas
