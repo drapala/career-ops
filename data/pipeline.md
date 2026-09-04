@@ -2631,4 +2631,15 @@
 - [ ] https://jobs.lever.co/spotify/7f0a8faa-f4f5-4db9-9f51-4101d6a29b34 | Spotify | Product Manager - Customer Service Platform
 - [ ] https://jobs.lever.co/spotify/7ca182dc-9171-4184-bc5b-481c71892210 | Spotify | Social Media Manager, Campaigns & Platform Strategy
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4973067008 | Anthropic | Data Infrastructure Engineer, Pre-training
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5416016008 | Anthropic | Head of Compute Supply Chain
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5415461008 | Anthropic | Scale Growth Account Executive, AI Native
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7817391003?gh_jid=7817391003 | Celonis | Client Value Partner (Supply Chain  & Manufacturing)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7822051003?gh_jid=7822051003 | Celonis | Lead - Cloud & AI Partnerships Business Development
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7984249003?gh_jid=7984249003 | Celonis | Senior Application Product Manager - Supply Chain - Procurement 
+- [ ] https://sumup.com/careers/positions/8781315002?gh_jid=8781315002 | SumUp | Sales Trainer (Field)
+- [ ] https://sumup.com/careers/positions/8183477002?gh_jid=8183477002 | SumUp | Zelfstandig B2B Sales Agent 
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8609932002 | Wayve | Vice President, AI Data 
+- [ ] https://jobs.lever.co/palantir/a8eb96f4-e39b-4c0f-b42e-610165b88f34 | Palantir | Forward Deployed Software Engineer
+
 ## Procesadas
