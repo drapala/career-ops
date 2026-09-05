@@ -2642,4 +2642,23 @@
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8609932002 | Wayve | Vice President, AI Data 
 - [ ] https://jobs.lever.co/palantir/a8eb96f4-e39b-4c0f-b42e-610165b88f34 | Palantir | Forward Deployed Software Engineer
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390811008 | Anthropic | Applied AI, Research Engineer 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5415529008 | Anthropic | Head of Technical Training
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5416709008 | Anthropic | Staff+ Site Reliability Engineer, Safeguards ML Infra
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4950400101 | Speechmatics | ML Data & Platform Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4729343005 | Glean | Partner Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4731372005 | Glean | Product Manager, API Platform
+- [ ] https://jobs.ashbyhq.com/decagon/69fd28a8-0de2-45a5-9b98-33725515add4 | Decagon | Research Engineer, Audio and Speech
+- [ ] https://jobs.ashbyhq.com/langchain/e67d79a1-cbeb-4dd2-8c81-00eb0969f911 | LangChain | Lead Applied AI Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8128254?gh_jid=8128254 | HelloFresh | Senior Data Platform Engineer, Intelligent Platforms (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8167337?gh_jid=8167337 | HelloFresh | Senior Product Manager II, Consumer (all genders) 
+- [ ] https://sumup.com/careers/positions/8783868002?gh_jid=8783868002 | SumUp | Agente de Suporte I
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7784394003?gh_jid=7784394003 | Celonis | Associate (AI) Solution Consultant
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8781505002 | Wayve | Lead Technical Program Manager, AI Platform
+- [ ] https://jobs.ashbyhq.com/faculty/fe2e6e43-c60f-4d4d-8951-aca07ba42aba | Faculty | Platform Engineer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6182461004 | Hightouch | Solutions Engineer, Enterprise, EMEA
+- [ ] https://jobs.lever.co/qonto/0e318026-6cb0-475f-a479-9c559b9e0d69 | Qonto | Staff Product Manager [Accounting expertise] 🇩🇪
+- [ ] https://jobs.lever.co/spotify/0d82639f-54c4-4e44-984e-4c9de7e8fffe | Spotify | Senior Machine Learning Engineer - Artist-First AI Music Lab
+- [ ] https://jobs.lever.co/spotify/e7b01c1e-4246-4f31-83ea-9219c8b22c83 | Spotify | Senior Product Manager - Audiobooks Format Foundations
+
 ## Procesadas
