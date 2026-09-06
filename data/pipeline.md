@@ -2661,4 +2661,6 @@
 - [ ] https://jobs.lever.co/spotify/0d82639f-54c4-4e44-984e-4c9de7e8fffe | Spotify | Senior Machine Learning Engineer - Artist-First AI Music Lab
 - [ ] https://jobs.lever.co/spotify/e7b01c1e-4246-4f31-83ea-9219c8b22c83 | Spotify | Senior Product Manager - Audiobooks Format Foundations
 
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4950383101 | Speechmatics | ML Data & Platform Engineer
+
 ## Procesadas
