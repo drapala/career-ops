@@ -2663,4 +2663,11 @@
 
 - [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4950383101 | Speechmatics | ML Data & Platform Engineer
 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4731388005 | Glean | Product Manager, API Platform
+- [ ] https://jobs.ashbyhq.com/sierra/9d54f016-7919-457b-a298-17a536ab8c5c | Sierra | Strategist, Agent Development (Flemish speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce | Sierra | Software Engineer, Agent (New Grad 2027)
+- [ ] https://jobs.ashbyhq.com/sierra/dcd50512-6575-46e5-8c28-b2bcd6acf81f | Sierra | Strategist, Agent Development (Swedish speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/837a134f-6ab3-485f-9cf7-a957cc1b8992 | Sierra | Strategist, Agent Development (Norwegian speaking)
+- [ ] https://jobs.ashbyhq.com/langchain/eadd2a71-47fc-483b-948f-4b2384f7f93f | LangChain | Agent Reliability Engineer, GTM
+
 ## Procesadas
