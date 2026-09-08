@@ -2670,4 +2670,14 @@
 - [ ] https://jobs.ashbyhq.com/sierra/837a134f-6ab3-485f-9cf7-a957cc1b8992 | Sierra | Strategist, Agent Development (Norwegian speaking)
 - [ ] https://jobs.ashbyhq.com/langchain/eadd2a71-47fc-483b-948f-4b2384f7f93f | LangChain | Agent Reliability Engineer, GTM
 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7988112003?gh_jid=7988112003 | Celonis | Senior Digital Transformation & Process Optimisation Consultant - CPG/Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7988113003?gh_jid=7988113003 | Celonis | Senior Management & Technology Consultant - CPG/Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7988114003?gh_jid=7988114003 | Celonis | Senior Process Intelligence & Supply Chain Transformation Consultant - CPG/Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7988115003?gh_jid=7988115003 | Celonis | Senior Value Engineer - CPG/Retail
+- [ ] https://n26.com/en-eu/careers/positions/8172838?gh_jid=8172838 | N26 | Product Manager
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8749904002 | Wayve | Applied Scientist/Machine Learning Engineer Gaia
+- [ ] https://careers.hellofresh.com/global/en/job/8168957?gh_jid=8168957 | HelloFresh | Paid Search Lead (Experimentation & Measurement)
+- [ ] https://careers.hellofresh.com/global/en/job/8185045?gh_jid=8185045 | HelloFresh | Senior Analyst - CX Automation Intelligence & Insights
+- [ ] https://careers.hellofresh.com/global/en/job/8176698?gh_jid=8176698 | HelloFresh | [TECH] Senior GenAI Engineer [INTELIGENT PLATFORMS]
+
 ## Procesadas
