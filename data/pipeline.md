@@ -2680,4 +2680,24 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8185045?gh_jid=8185045 | HelloFresh | Senior Analyst - CX Automation Intelligence & Insights
 - [ ] https://careers.hellofresh.com/global/en/job/8176698?gh_jid=8176698 | HelloFresh | [TECH] Senior GenAI Engineer [INTELIGENT PLATFORMS]
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5117589008 | Anthropic | Applied AI Architect
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5416829008 | Anthropic | Business Systems Analyst, New Product Introduction
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390935008 | Anthropic | Strategic Pursuits Lead, RevOps
+- [ ] https://jobs.ashbyhq.com/deepgram/85ec0b9c-f675-4191-85e4-7e70d61c4d89 | Deepgram | AI Data Readiness Lead
+- [ ] https://jobs.ashbyhq.com/decagon/7b1120a8-7973-4966-adb8-ea138a5d8062 | Decagon | Director of Solutions Engineering, Enterprise East
+- [ ] https://jobs.ashbyhq.com/sierra/66165ead-ae40-420a-93ff-aa6a5864462a | Sierra | Strategist, Agent Development (Brazilian Portuguese speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/32f98c30-916c-41c2-9e10-a7095a81e3b5 | Sierra | Strategist, Agent Development (Spanish speaking)
+- [ ] https://n26.com/en-eu/careers/positions/8184770?gh_jid=8184770 | N26 | Product Manager
+- [ ] https://sumup.com/careers/positions/8699311002?gh_jid=8699311002 | SumUp | Commercial(e) Terrain
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=8185874 | Scandit | Order Management Operations & Transformation Lead (12-month contract)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8746298002 | Wayve | Software Engineer, AI Libraries
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6184829004 | Isomorphic Labs | Research Engineer (LLM Performance), London
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6185678004 | Hightouch | Product Manager, Marketing Orchestration
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6185521004 | Hightouch | Product Manager, Real Time
+- [ ] https://jobs.lever.co/spotify/a57db22d-dc0d-4f36-9a2e-34acdf1ec046 | Spotify | Senior Product Manager - Subscriptions
+- [ ] https://careers.hellofresh.com/global/en/job/8136005?gh_jid=8136005 | HelloFresh | Kitchen Area Manager (All genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8186401?gh_jid=8186401 | HelloFresh | Kitchen Lead
+- [ ] https://careers.hellofresh.com/global/en/job/8141849?gh_jid=8141849 | HelloFresh | Senior Analyst - CX Automation Intelligence & Insights
+- [ ] https://careers.hellofresh.com/global/en/job/8185403?gh_jid=8185403 | HelloFresh | Supply Chain Planner (f/m/x)
+
 ## Procesadas
