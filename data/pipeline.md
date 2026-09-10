@@ -2700,4 +2700,21 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8141849?gh_jid=8141849 | HelloFresh | Senior Analyst - CX Automation Intelligence & Insights
 - [ ] https://careers.hellofresh.com/global/en/job/8185403?gh_jid=8185403 | HelloFresh | Supply Chain Planner (f/m/x)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5413642008 | Anthropic | Applied AI Architect, Beneficial Deployments (Life Sciences)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5419869008 | Anthropic | Staff+ Software Engineer, ML Inference Path
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5419868008 | Anthropic | Staff+ Software Engineer, ML Sampling Path
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/7422312 | GetYourGuide | Senior Engineering Manager, AI Platform
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7885977003?gh_jid=7885977003 | Celonis | Associate (AI) Solution Consultant (Benelux) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7990158003?gh_jid=7990158003 | Celonis | Associate Applied (AI) Value Engineer (Benelux) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7786762003?gh_jid=7786762003 | Celonis | Associate Applied (AI) Value Engineer (Japan) - Orbit Program
+- [ ] https://n26.com/en-eu/careers/positions/8188077?gh_jid=8188077 | N26 | Complaints Compliance & Prevention Manager - (Relocation to Madrid)
+- [ ] https://n26.com/en-eu/careers/positions/8188078?gh_jid=8188078 | N26 | Compliance and Prevention Associate (Complaints Management) - (Relocation to Madrid)
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=8053083 | Scandit | Order Management Operations & Transformation Lead (12-month contract)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8785464002 | Wayve | Platform Engineer, AI Enablement 
+- [ ] https://jobs.ashbyhq.com/synthesia/637a0f3b-fd23-409a-b66b-917d1411d56e | Synthesia | Machine Learning Engineer / ML Engineer - Roleplay Sessions
+- [ ] https://jobs.ashbyhq.com/synthesia/8b09d868-85ad-4b3e-9203-da0c15caf793 | Synthesia | Solutions Engineering Manager 
+- [ ] https://jobs.ashbyhq.com/synthesia/6126bc6b-23c6-4700-aba5-5399eba3681b | Synthesia | Solutions Engineering Manager
+- [ ] https://jobs.ashbyhq.com/lovable/c366a748-218f-4038-8965-6b28adc36e14 | Lovable | Transformation Lead
+- [ ] https://careers.hellofresh.com/global/en/job/8185356?gh_jid=8185356 | HelloFresh | Supply Chain Planner (f/m/x)
+
 ## Procesadas
