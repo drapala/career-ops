@@ -2717,4 +2717,15 @@
 - [ ] https://jobs.ashbyhq.com/lovable/c366a748-218f-4038-8965-6b28adc36e14 | Lovable | Transformation Lead
 - [ ] https://careers.hellofresh.com/global/en/job/8185356?gh_jid=8185356 | HelloFresh | Supply Chain Planner (f/m/x)
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8152224 | Intercom | Senior AI Deployment Consultant
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7111007 | Intercom | Senior Forward Deployed Product Manager 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4731850005 | Glean | Principal Product Marketing Manager (Glean Agents)
+- [ ] https://jobs.ashbyhq.com/langchain/f0396971-39fa-4d40-9af8-60e529bb6c86 | LangChain | Software Engineering Manager, AI Observability & Evals Platform
+- [ ] https://jobs.ashbyhq.com/cohere/291e5dee-dcda-49e6-a1b6-dae0d48f80af | Cohere | Forward Deployed Engineer, Infrastructure Specialist (Middle East)
+- [ ] https://sumup.com/careers/positions/8727427002?gh_jid=8727427002 | SumUp | Performance Marketing Working Student – Talent Acquisition 
+- [ ] https://jobs.ashbyhq.com/synthesia/d3d0cf52-97b5-46e6-aa27-2d8b752bee3b | Synthesia | Solutions Engineering Manager 
+- [ ] https://n26.com/en-eu/careers/positions/7913103?gh_jid=7913103 | N26 | Strategy & Operations Manager - Core Banking
+- [ ] https://jobs.ashbyhq.com/perplexity/5c561bd0-c180-4ee1-b079-647f3c20bdc0 | Perplexity | Member of Technical Staff (Applied AI Engineer, Agent Capabilities)
+- [ ] https://careers.hellofresh.com/global/en/job/8172859?gh_jid=8172859 | HelloFresh | Menu Planner Working Student (all genders)
+
 ## Procesadas
