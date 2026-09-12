@@ -2728,4 +2728,22 @@
 - [ ] https://jobs.ashbyhq.com/perplexity/5c561bd0-c180-4ee1-b079-647f3c20bdc0 | Perplexity | Member of Technical Staff (Applied AI Engineer, Agent Capabilities)
 - [ ] https://careers.hellofresh.com/global/en/job/8172859?gh_jid=8172859 | HelloFresh | Menu Planner Working Student (all genders)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5398438008 | Anthropic | AI Deployment Specialist, Beneficial Deployments
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5417967008 | Anthropic | External Affairs, South Korea
+- [ ] https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316 | Deepgram | People AI & Automation Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4732997005 | Glean | Principal Product Marketing Manager (Glean Agents)
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4974062101 | Speechmatics | Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/8197036 | Contentful | Enterprise Account Executive - French Speaking (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/8197219 | Contentful | Enterprise Account Executive - German Speaking (f/m/d)
+- [ ] https://careers.hellofresh.com/global/en/job/8195632?gh_jid=8195632 | HelloFresh | Supply Chain Planner - Packaging (f/m/x)
+- [ ] https://n26.com/en-eu/careers/positions/8158787?gh_jid=8158787 | N26 | Senior Product Manager - Conversational Banking
+- [ ] https://n26.com/en-eu/careers/positions/8028183?gh_jid=8028183 | N26 | Senior Technical Product Manager — GenAI & Agentic Systems
+- [ ] https://n26.com/en-eu/careers/positions/8190710?gh_jid=8190710 | N26 | Strategy & Operations Manager - Core Banking
+- [ ] https://n26.com/en-eu/careers/positions/8196295?gh_jid=8196295 | N26 | Technical Product Manager - Applied Machine Learning
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8194650 | GetYourGuide | Lead Product Manager, Landing Pages 
+- [ ] https://sumup.com/careers/positions/8706533002?gh_jid=8706533002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://jobs.ashbyhq.com/lovable/a0ff5040-7acb-4c3e-b32a-191dee540617 | Lovable | Corporate Communications & Public Affairs (Europe)
+- [ ] https://jobs.ashbyhq.com/legora/f76a3939-895d-4203-9322-927bae45f533 | Legora | Senior Forward Deployed Engineer
+- [ ] https://jobs.lever.co/pigment/9aae74f6-96df-4e17-a100-5ed76c1ce8d5 | Pigment | GTM Engineer
+
 ## Procesadas
