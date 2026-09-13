@@ -2746,4 +2746,9 @@
 - [ ] https://jobs.ashbyhq.com/legora/f76a3939-895d-4203-9322-927bae45f533 | Legora | Senior Forward Deployed Engineer
 - [ ] https://jobs.lever.co/pigment/9aae74f6-96df-4e17-a100-5ed76c1ce8d5 | Pigment | GTM Engineer
 
+- [ ] https://jobs.ashbyhq.com/langchain/b23ea9af-c6dc-40fa-86ce-75042b905173 | LangChain | Senior Backend Software Engineer, AI Observability & Evals Platform (LangSmith)
+- [ ] https://jobs.ashbyhq.com/langchain/e6d2bc1e-e0b9-4076-be01-ef8681863c01 | LangChain | Senior Fullstack Engineer,  AI Observability & Evals Platform 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7885897003?gh_jid=7885897003 | Celonis | Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program
+- [ ] https://n26.com/en-eu/careers/positions/8196495?gh_jid=8196495 | N26 | Senior Technical Product Manager — GenAI & Agentic Systems
+
 ## Procesadas
