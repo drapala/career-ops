@@ -2751,4 +2751,7 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7885897003?gh_jid=7885897003 | Celonis | Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program
 - [ ] https://n26.com/en-eu/careers/positions/8196495?gh_jid=8196495 | N26 | Senior Technical Product Manager — GenAI & Agentic Systems
 
+- [ ] https://jobs.ashbyhq.com/perplexity/656b4b2e-5670-411c-9091-f355983a92a0 | Perplexity | Engineering Manager (TLM, Agents)
+- [ ] https://jobs.ashbyhq.com/perplexity/a172ada5-1a6e-4646-8e0d-26747422af24 | Perplexity | Member of Technical Staff (AI Software Engineer, Agents)
+
 ## Procesadas
