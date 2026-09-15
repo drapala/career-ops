@@ -2754,4 +2754,26 @@
 - [ ] https://jobs.ashbyhq.com/perplexity/656b4b2e-5670-411c-9091-f355983a92a0 | Perplexity | Engineering Manager (TLM, Agents)
 - [ ] https://jobs.ashbyhq.com/perplexity/a172ada5-1a6e-4646-8e0d-26747422af24 | Perplexity | Member of Technical Staff (AI Software Engineer, Agents)
 
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4975772101 | Parloa | Staff/Principal Product Manager
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8185627 | Intercom | Forward Deployed Data Scientist
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8201208 | Intercom | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5423029008 | Anthropic | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/900c16c2-57b4-483c-9ec3-e2fab77f897a | Decagon | Senior Agent Product Manager - Spanish Speaking
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6111005004 | Vercel | Director, Solutions Architects
+- [ ] https://jobs.ashbyhq.com/langchain/0ee73994-b8a3-4a75-9675-da536abd3e10 | LangChain | Deployed Engineer, Professional Services (APAC)
+- [ ] https://jobs.ashbyhq.com/cohere/1b909aeb-1221-476f-88fe-8300a2065975 | Cohere | Software Engineer, Security Agents
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/8202959 | Contentful | Mid Market Account Executive - German Speaking (f/m/d)
+- [ ] https://careers.hellofresh.com/global/en/job/8095957?gh_jid=8095957 | HelloFresh | Senior Product Manager, Intelligent Platforms
+- [ ] https://n26.com/en-eu/careers/positions/8200510?gh_jid=8200510 | N26 | Senior Legal Counsel Banking Law
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7784391003?gh_jid=7784391003 | Celonis | Associate (AI) Solution Consultant - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7993837003?gh_jid=7993837003 | Celonis | Senior AI Transformation & Innovation Consultant
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7825688003?gh_jid=7825688003 | Celonis | Senior Applied AI Solution Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7993836003?gh_jid=7993836003 | Celonis | Senior Strategic Solutions Consultant (AI)
+- [ ] https://sumup.com/careers/positions/8806179002?gh_jid=8806179002 | SumUp | Agente II de Relacionamento
+- [ ] https://sumup.com/careers/positions/7988614002?gh_jid=7988614002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8799311002 | Wayve | Release Manager — AI Models
+- [ ] https://jobs.ashbyhq.com/legora/5b2b44f6-c330-439a-8a96-1b5865e28f5a | Legora | IT Automation Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/6c9de03c-e289-4612-9045-492985d0274b | Supabase | Platform Engineer, Edge & Networking
+- [ ] https://jobs.lever.co/qonto/ccebc25a-cc07-458e-bf9b-d36c33de441c | Qonto | Senior Product Manager - Due Diligence
+
 ## Procesadas
