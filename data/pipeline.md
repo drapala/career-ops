@@ -2776,4 +2776,19 @@
 - [ ] https://jobs.ashbyhq.com/supabase/6c9de03c-e289-4612-9045-492985d0274b | Supabase | Platform Engineer, Edge & Networking
 - [ ] https://jobs.lever.co/qonto/ccebc25a-cc07-458e-bf9b-d36c33de441c | Qonto | Senior Product Manager - Due Diligence
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390902008 | Anthropic | Applied AI Architect, Partnerships
+- [ ] https://jobs.ashbyhq.com/n8n/98dc8c86-b135-4803-8044-1d6f6a631aa8 | n8n | Forward Deployed Engineer - US East Coast
+- [ ] https://helsing.ai/jobs/4835300101?gh_jid=4835300101 | Helsing | Front Office Coordinator / Guest Service Agent
+- [ ] https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656 | HelloFresh | Senior AI Content Creator (x/f/m)
+- [ ] https://n26.com/en-eu/careers/positions/8203686?gh_jid=8203686 | N26 | Data Analyst - Everyday Banking 
+- [ ] https://n26.com/en-eu/careers/positions/8187984?gh_jid=8187984 | N26 | Data Analyst - Ops Automation & Enablement
+- [ ] https://n26.com/en-eu/careers/positions/8184791?gh_jid=8184791 | N26 | Senior Legal Counsel Banking Law
+- [ ] https://sumup.com/careers/positions/7988641002?gh_jid=7988641002 | SumUp | Commercial(e) Terrain Indépendant(e) 
+- [ ] https://sumup.com/careers/positions/8354985002?gh_jid=8354985002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8805659002 | Wayve | Platform Engineer
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8809540002 | Wayve | Staff ML Engineer Gaia
+- [ ] https://jobs.ashbyhq.com/legora/e97abb73-204d-4f34-b4d1-7f2690b5a030 | Legora | Legal Engineer - Applied AI Knowledge 
+- [ ] https://jobs.lever.co/pigment/25e5ad5f-e647-4878-8079-004d30fd38f4 | Pigment | Solution Consultant, Supply Chain - Germany
+- [ ] https://jobs.lever.co/pigment/31476caf-6df2-4d17-8d33-62d548650bec | Pigment | Solution Consultant, Supply Chain - London
+
 ## Procesadas
