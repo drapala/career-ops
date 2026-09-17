@@ -2791,4 +2791,17 @@
 - [ ] https://jobs.lever.co/pigment/25e5ad5f-e647-4878-8079-004d30fd38f4 | Pigment | Solution Consultant, Supply Chain - Germany
 - [ ] https://jobs.lever.co/pigment/31476caf-6df2-4d17-8d33-62d548650bec | Pigment | Solution Consultant, Supply Chain - London
 
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4978967101 | Parloa | Sr Partner Agent Architect (UK)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5425724008 | Anthropic | Associate Solutions Architect
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7856976003?gh_jid=7856976003 | Celonis | Senior Design Engineer, Design Operations: AI-Powered Design Platform
+- [ ] https://careers.hellofresh.com/global/en/job/8096241?gh_jid=8096241 | HelloFresh | Operational Excellence & Transformation Manager
+- [ ] https://sumup.com/careers/positions/8750629002?gh_jid=8750629002 | SumUp | Data analyst - AML
+- [ ] https://sumup.com/careers/positions/8769011002?gh_jid=8769011002 | SumUp | KYC EDD Operations Agent (German)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8815458002 | Wayve | Fleet Service and Maintenance Technician
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8815521002 | Wayve | Trainer
+- [ ] https://jobs.ashbyhq.com/legora/f835b884-d93b-473c-bf12-e754166f854d | Legora | Staff Platform Engineer - Platform Team
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6138709004 | Hightouch | Enterprise Account Executive, Dubai
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6195151004 | Hightouch | Forward Deployed Creative Designer, Email 
+- [ ] https://jobs.lever.co/spotify/080868dd-fc8c-4648-b6ab-6780d8ca3d63 | Spotify | Principal Product Manager - Audio and Media Playback
+
 ## Procesadas
