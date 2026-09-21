@@ -2804,4 +2804,33 @@
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6195151004 | Hightouch | Forward Deployed Creative Designer, Email 
 - [ ] https://jobs.lever.co/spotify/080868dd-fc8c-4648-b6ab-6780d8ca3d63 | Spotify | Principal Product Manager - Audio and Media Playback
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5426933008 | Anthropic | Applied AI Architect, Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5428032008 | Anthropic | Enterprise Account Executive, Banking 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5428898008 | Anthropic | Product Manager, Safe Access
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6199608004 | Vercel | Software Engineer, Agentic Infrastructure
+- [ ] https://jobs.ashbyhq.com/deepgram/a0678103-1b9c-44a4-92c0-f705850a8fa1 | Deepgram | Director, Text-to-Speech Synthesis Research
+- [ ] https://jobs.ashbyhq.com/deepgram/821b1ba2-02fe-47cb-907a-39214e0f2fe0 | Deepgram | Staff Product Designer, Conversational AI
+- [ ] https://jobs.ashbyhq.com/decagon/c9d15c3c-e5e8-4b5b-8b28-dbeb6d5da2c0 | Decagon | Solutions Architect, Voice - London
+- [ ] https://jobs.ashbyhq.com/decagon/30b94a32-66bb-49cb-8879-03c9d00240f0 | Decagon | Agent Deployment Engineer
+- [ ] https://jobs.ashbyhq.com/sierra/4572d713-6df1-432a-9cce-67bdbbabf43b | Sierra | Strategist, Agent Development (Brazilian Portuguese speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/15f81581-ad9c-4b03-8ed7-097fbbce0469 | Sierra | Strategist, Agent Development - Flagship Deployment
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8090626 | GetYourGuide | Working Student, Security Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7856979003?gh_jid=7856979003 | Celonis | Senior Design Engineer, Design Operations: AI-Powered Design Platform
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8822292002 | Wayve | Fleet Operations Training Lead - US & Japan
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8817423002 | Wayve | Global Head of Training
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8790002002 | Wayve | Platform Engineer (SDO)
+- [ ] https://sumup.com/careers/positions/8118615002?gh_jid=8118615002 | SumUp | Commercial Terrain- Nouvelle Aquitaine Bordeaux
+- [ ] https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409 | Perplexity | Member of Technical Staff, AI Products (Early Career - Industry)
+- [ ] https://jobs.ashbyhq.com/legora/74892394-e21c-4107-8591-f45fd8d5c2d1 | Legora | GTM Director - Dubai
+- [ ] https://jobs.lever.co/qonto/a6014712-8e9e-4f6d-868e-0bc6bfa298cc | Qonto | Data Platform Engineer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5597121004 | Hightouch | Manager, Strategy Consultants (Agentic Customer Data Platform)
+- [ ] https://jobs.lever.co/pigment/1f020645-be14-4227-be2c-8e37ac60da8a | Pigment | Senior GenAI Engineer (UK)
+- [ ] https://careers.hellofresh.com/global/en/job/8104381?gh_jid=8104381 | HelloFresh | Area Manager I, Fulfillment
+- [ ] https://careers.hellofresh.com/global/en/job/8167184?gh_jid=8167184 | HelloFresh | Associate Manager, Supply Chain Enablement
+- [ ] https://careers.hellofresh.com/global/en/job/8213380?gh_jid=8213380 | HelloFresh | Lead Maintenance Technician 
+- [ ] https://careers.hellofresh.com/global/en/job/8211976?gh_jid=8211976 | HelloFresh | Maintenance Technician II
+- [ ] https://careers.hellofresh.com/global/en/job/8186086?gh_jid=8186086 | HelloFresh | Senior Product Manager II, Logistics (all genders) 
+- [ ] https://careers.hellofresh.com/global/en/job/8105156?gh_jid=8105156 | HelloFresh | Staff Backend Product Engineer, Shopping AI & Search squad
+- [ ] https://careers.hellofresh.com/global/en/job/8210450?gh_jid=8210450 | HelloFresh | Staff Product Manager, Growth Alliance (all genders)
+
 ## Procesadas
