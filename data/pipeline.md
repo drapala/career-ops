@@ -2833,4 +2833,17 @@
 - [ ] https://careers.hellofresh.com/global/en/job/8105156?gh_jid=8105156 | HelloFresh | Staff Backend Product Engineer, Shopping AI & Search squad
 - [ ] https://careers.hellofresh.com/global/en/job/8210450?gh_jid=8210450 | HelloFresh | Staff Product Manager, Growth Alliance (all genders)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5424310008 | Anthropic | Applied AI Architect
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5413576008 | Anthropic | Product Manager, Safeguards (Account Integrity & Abuse) 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5400720008 | Anthropic | Product Manager, Safeguards (Generalist) 
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6128122004 | Arize AI | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4723754005 | Glean | Technical Program Manager, AI & Cloud Efficiency
+- [ ] https://helsing.ai/jobs/4981320101?gh_jid=4981320101 | Helsing | Careers Fair - Schwieberdingen
+- [ ] https://careers.hellofresh.com/global/en/job/8213141?gh_jid=8213141 | HelloFresh | Coordinateur Supply Chain - (H/F/N)
+- [ ] https://careers.hellofresh.com/global/en/job/8190649?gh_jid=8190649 | HelloFresh | Multi Skilled Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8186084?gh_jid=8186084 | HelloFresh | Senior Product Manager II, Logistics
+- [ ] https://sumup.com/careers/positions/8827033002?gh_jid=8827033002 | SumUp | Sales Trainer
+- [ ] https://jobs.ashbyhq.com/legora/85f05d60-c3a0-4a14-b344-150856d88cd2 | Legora | Director of Legal Engineering, Dubai
+- [ ] https://jobs.ashbyhq.com/legora/fdecebdd-ae00-4408-9fa2-88909bdb364d | Legora | Legal Engineer, Law Firms and In-House, Dubai
+
 ## Procesadas
