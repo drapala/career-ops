@@ -2846,4 +2846,21 @@
 - [ ] https://jobs.ashbyhq.com/legora/85f05d60-c3a0-4a14-b344-150856d88cd2 | Legora | Director of Legal Engineering, Dubai
 - [ ] https://jobs.ashbyhq.com/legora/fdecebdd-ae00-4408-9fa2-88909bdb364d | Legora | Legal Engineer, Law Firms and In-House, Dubai
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5432000008 | Anthropic | Commercial Legal Specialist, Technical AI Implementation
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5430422008 | Anthropic | External Affairs, Brussels
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5428790008 | Anthropic | GTM Enablement Trainer, Claude Products
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5430869008 | Anthropic | Manager, Applied AI Architect
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8213502 | Intercom | Account Executive, Small Business (French Speaking)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6201179004 | Vercel | Partner Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/attio/ffbf99c7-21b5-4df7-ac39-aa4a9ea845f6 | Attio | Solutions Engineering Manager
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8002490003?gh_jid=8002490003 | Celonis | AI Product Engineer (Demo)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7989839003?gh_jid=7989839003 | Celonis | AI Product Manager (Demo)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7995509003?gh_jid=7995509003 | Celonis | Associate Applied (AI) Value Engineer (APAC) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8002256003?gh_jid=8002256003 | Celonis | Field Marketing (DACH Region) Working Student
+- [ ] https://careers.hellofresh.com/global/en/job/8187861?gh_jid=8187861 | HelloFresh | Maintenance Fitter
+- [ ] https://careers.hellofresh.com/global/en/job/8223323?gh_jid=8223323 | HelloFresh | Teamleiter Lagerlogistik (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8213552?gh_jid=8213552 | HelloFresh | [US-DC] Director, Fulfillment
+- [ ] https://sumup.com/careers/positions/8811363002?gh_jid=8811363002 | SumUp | Head of Regional Field Sales - Spain and Portugal
+- [ ] https://jobs.lever.co/spotify/e74bfb24-55de-4d93-b228-ae38b8fdfbea | Spotify | Principal Product Manager - Personalization
+
 ## Procesadas
