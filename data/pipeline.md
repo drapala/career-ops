@@ -2863,4 +2863,27 @@
 - [ ] https://sumup.com/careers/positions/8811363002?gh_jid=8811363002 | SumUp | Head of Regional Field Sales - Spain and Portugal
 - [ ] https://jobs.lever.co/spotify/e74bfb24-55de-4d93-b228-ae38b8fdfbea | Spotify | Principal Product Manager - Personalization
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5382518008 | Anthropic | Applied AI Architect, Public Sector 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5432573008 | Anthropic | Applied AI Architect, Startups
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5432575008 | Anthropic | Applied AI Engineer, Startups
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5429202008 | Anthropic | [DH] Engineering Manager, AI Observability
+- [ ] https://jobs.ashbyhq.com/sierra/f3308520-6d7d-45ac-b96d-3f5a5012e6c9 | Sierra | Software Engineer, Agent - Healthcare
+- [ ] https://jobs.ashbyhq.com/sierra/01988f90-2d70-48ee-9c01-92e69c37706b | Sierra | Strategist, Agent Development - Retail
+- [ ] https://jobs.ashbyhq.com/sierra/33dbd62f-8212-4ea8-9b59-74370c1f2803 | Sierra | Software Engineer, Agent - Financial Services
+- [ ] https://jobs.ashbyhq.com/sierra/7dae2e7c-6556-438c-bf60-509931d8188c | Sierra | Software Engineer, Agent - Public Sector
+- [ ] https://jobs.ashbyhq.com/sierra/c729c633-0376-436e-8f2b-1501088b85b0 | Sierra | Software Engineer, Agent - Retail
+- [ ] https://jobs.ashbyhq.com/sierra/d0055259-9801-4767-b659-39e967a88b50 | Sierra | Strategist, Agent Development - Financial Services
+- [ ] https://jobs.ashbyhq.com/sierra/d2dc9baf-30d4-4708-9227-62a946b4b37e | Sierra | Software Engineer, Agent - Travel & Hospitality
+- [ ] https://jobs.ashbyhq.com/sierra/a2e49318-5967-4509-a592-56f089647b32 | Sierra | Strategist, Agent Development - Healthcare
+- [ ] https://jobs.ashbyhq.com/sierra/078f8499-1099-4675-b3df-47cf201e7427 | Sierra | Strategist, Agent Development - Public Sector
+- [ ] https://jobs.ashbyhq.com/sierra/b9b9b5e0-7304-4265-aa71-d71d80d29402 | Sierra | Software Engineer, Agent - Insurance
+- [ ] https://jobs.ashbyhq.com/sierra/2c5928df-28ec-468f-99f3-42b7e73cbf93 | Sierra | Strategist, Agent Development - Tech, Media & Telecom
+- [ ] https://jobs.ashbyhq.com/sierra/fd5df98a-e2c8-4d47-a803-daee5cccb36f | Sierra | Software Engineer, Agent - Tech, Media & Telecom
+- [ ] https://jobs.ashbyhq.com/attio/81be221c-70fe-4534-b21d-a49322b6d5af | Attio | Solutions Engineering Manager
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8003215003?gh_jid=8003215003 | Celonis | Director, Value Engineering (DACH) - CPG/Retail
+- [ ] https://careers.hellofresh.com/global/en/job/8210829?gh_jid=8210829 | HelloFresh | Culinary Operations Working Student (all genders)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6206426004 | Hightouch | Deployment Architect - Email & SMS / Messaging
+- [ ] https://jobs.ashbyhq.com/supabase/ab8d1463-bc97-417f-97b1-bfc1fe619b3e | Supabase | Database Support Engineer (Japanese Speaking)
+- [ ] https://jobs.lever.co/spotify/ee45924c-894c-4ea0-9c93-c5221894063f | Spotify | Senior Product Manager - User Platform
+
 ## Procesadas
