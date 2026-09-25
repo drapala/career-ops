@@ -2886,4 +2886,17 @@
 - [ ] https://jobs.ashbyhq.com/supabase/ab8d1463-bc97-417f-97b1-bfc1fe619b3e | Supabase | Database Support Engineer (Japanese Speaking)
 - [ ] https://jobs.lever.co/spotify/ee45924c-894c-4ea0-9c93-c5221894063f | Spotify | Senior Product Manager - User Platform
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5432845008 | Anthropic | Digital Campaigns Strategist, Policy
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6205772004 | Vercel | Product Manager, Dashboard
+- [ ] https://careers.hellofresh.com/global/en/job/8231625?gh_jid=8231625 | HelloFresh | Maintenance Technician II
+- [ ] https://careers.hellofresh.com/global/en/job/8210452?gh_jid=8210452 | HelloFresh | Staff Product Manager, Growth Alliance (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8230924?gh_jid=8230924 | HelloFresh | Supply Chain Planning Working Student (all genders)
+- [ ] https://sumup.com/careers/positions/8118576002?gh_jid=8118576002 | SumUp | Commercial(e) Terrain Nantes
+- [ ] https://sumup.com/careers/positions/8118535002?gh_jid=8118535002 | SumUp | Commercial(e) Terrain Rennes
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8842721002 | Wayve | Platform Engineer, SDO
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8842513002 | Wayve | Principal Machine Learning Engineer GAIA
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6207542004 | Hightouch | Forward Deployed Architect
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6207539004 | Hightouch | Forward Deployed Engineer
+- [ ] https://jobs.lever.co/palantir/a2e9ab0f-4dd1-4744-92b9-edc7ae393c58 | Palantir | Forward Deployed Software Engineer - US Government
+
 ## Procesadas
