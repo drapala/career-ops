@@ -2899,4 +2899,17 @@
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6207539004 | Hightouch | Forward Deployed Engineer
 - [ ] https://jobs.lever.co/palantir/a2e9ab0f-4dd1-4744-92b9-edc7ae393c58 | Palantir | Forward Deployed Software Engineer - US Government
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5198255008 | Anthropic | Research Engineer, Post-Training Model Evaluations
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4988028101 | Parloa | Senior Partner Agent Architect (UK)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6119765004 | Vercel | Senior Integrated Campaigns Manager
+- [ ] https://jobs.ashbyhq.com/n8n/1af7a193-334d-4d5c-b45d-250122d9c3f1 | n8n | Agentic Engineering Platform Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8005144003?gh_jid=8005144003 | Celonis | Working Student External Communications
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/8233486 | Contentful | Software Engineer, Applied AI Solutions
+- [ ] https://careers.hellofresh.com/global/en/job/8204371?gh_jid=8204371 | HelloFresh | Product Manager (12 month FTC)
+- [ ] https://careers.hellofresh.com/global/en/job/8141850?gh_jid=8141850 | HelloFresh | Senior Analyst - CX Automation Intelligence & Insights
+- [ ] https://sumup.com/careers/positions/8821322002?gh_jid=8821322002 | SumUp | Senior Product Manager - Consumer Lifecycle 
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8845525002 | Wayve | Product Feature Owner, Parking
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6208612004 | Hightouch | AI Strategy Consultant 
+- [ ] https://jobs.ashbyhq.com/legora/a4ef48af-644d-4d6e-b2eb-74e2bb12c19e | Legora | AI Engineer
+
 ## Procesadas
