@@ -2899,4 +2899,48 @@
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/6207539004 | Hightouch | Forward Deployed Engineer
 - [ ] https://jobs.lever.co/palantir/a2e9ab0f-4dd1-4744-92b9-edc7ae393c58 | Palantir | Forward Deployed Software Engineer - US Government
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5198255008 | Anthropic | Research Engineer, Post-Training Model Evaluations
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4988028101 | Parloa | Senior Partner Agent Architect (UK)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6119765004 | Vercel | Senior Integrated Campaigns Manager
+- [ ] https://jobs.ashbyhq.com/n8n/1af7a193-334d-4d5c-b45d-250122d9c3f1 | n8n | Agentic Engineering Platform Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8005144003?gh_jid=8005144003 | Celonis | Working Student External Communications
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/8233486 | Contentful | Software Engineer, Applied AI Solutions
+- [ ] https://careers.hellofresh.com/global/en/job/8204371?gh_jid=8204371 | HelloFresh | Product Manager (12 month FTC)
+- [ ] https://careers.hellofresh.com/global/en/job/8141850?gh_jid=8141850 | HelloFresh | Senior Analyst - CX Automation Intelligence & Insights
+- [ ] https://sumup.com/careers/positions/8821322002?gh_jid=8821322002 | SumUp | Senior Product Manager - Consumer Lifecycle 
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8845525002 | Wayve | Product Feature Owner, Parking
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6208612004 | Hightouch | AI Strategy Consultant 
+- [ ] https://jobs.ashbyhq.com/legora/a4ef48af-644d-4d6e-b2eb-74e2bb12c19e | Legora | AI Engineer
+
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4941193101 | Parloa | Senior Content Creator, AI & Social
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5432554008 | Anthropic | Applied AI Architects, Partner
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5437172008 | Anthropic | Applied AI Engineer, Beneficial Deployments (Life Sciences)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5435282008 | Anthropic | Applied AI Engineer, DNB
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5354765008 | Anthropic | Applied AI Engineer, Enterprise
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5436196008 | Anthropic | Business Systems Analyst, GTM Systems
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5439369008 | Anthropic | Data Center Global Repairs Program Support
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5432583008 | Anthropic | [London] Applied AI Architect, Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5435343008 | Anthropic | State and Local Affairs Lead, Midwest 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5436615008 | Anthropic | State and Local Affairs Lead, West
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6209001004 | Vercel | Product Manager, Compute
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6209044004 | Vercel | Product Manager, Networking + CDN
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6210353004 | Vercel | Product Manager, Software Factory
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4633420005 | Glean | Manager, AI Success
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4989838101 | Speechmatics | Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/508a6226-4ee4-4cfa-8a9c-04d48bef81a8 | Decagon | Staff Software Engineer, Agent Product
+- [ ] https://jobs.ashbyhq.com/cohere/d1ab4fbd-3271-4057-8b20-dfaad4270fa8 | Cohere | Solutions Architect
+- [ ] https://helsing.ai/jobs/4972249101?gh_jid=4972249101 | Helsing | Senior Systems Security Engineer – Combat Aircraft
+- [ ] https://helsing.ai/jobs/4989382101?gh_jid=4989382101 | Helsing | Supply Chain and Procurement Manager
+- [ ] https://n26.com/en-eu/careers/positions/8237187?gh_jid=8237187 | N26 | Banking Operations Associate – Claims
+- [ ] https://careers.hellofresh.com/global/en/job/8239304?gh_jid=8239304 | HelloFresh | Automation Technician 
+- [ ] https://careers.hellofresh.com/global/en/job/8238338?gh_jid=8238338 | HelloFresh | Production Lead (Kitchen)
+- [ ] https://careers.hellofresh.com/global/en/job/8202774?gh_jid=8202774 | HelloFresh | [US DC] Senior Automation Engineer
+- [ ] https://jobs.ashbyhq.com/photoroom/022b6f5b-bb46-45b7-801a-8a5f3b92a968 | Photoroom | Senior Product Manager, SMB e-commerce Growth
+- [ ] https://jobs.ashbyhq.com/photoroom/7c34d35a-c405-4d19-bd6a-38f8dd2081a7 | Photoroom | Staff Product Manager, Agentic & AI Platform
+- [ ] https://jobs.ashbyhq.com/photoroom/d075be71-4a2d-489a-9879-18e43363094e | Photoroom | Senior Product Manager, Core Product
+- [ ] https://jobs.ashbyhq.com/synthesia/3f2fb58f-cb15-4915-af72-4789eb9ce128 | Synthesia | Senior Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/synthesia/83052182-d2b9-40d5-bd87-d400e7786a9a | Synthesia | (Senior or Staff) Backend Engineer, AI tooling 
+- [ ] https://jobs.ashbyhq.com/synthesia/4c6dedb3-2dbf-46b7-9336-a2b19b55dfd7 | Synthesia | Senior Engineering Manager, Agents Platform
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6209670004 | Isomorphic Labs | Associate Director, Clinical Supply Chain, Cambridge, MA
+
 ## Procesadas
