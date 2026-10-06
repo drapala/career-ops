@@ -2943,4 +2943,50 @@
 - [ ] https://jobs.ashbyhq.com/synthesia/4c6dedb3-2dbf-46b7-9336-a2b19b55dfd7 | Synthesia | Senior Engineering Manager, Agents Platform
 - [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6209670004 | Isomorphic Labs | Associate Director, Clinical Supply Chain, Cambridge, MA
 
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4995071101 | Parloa | Lead Solutions Engineer - US
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5439499008 | Anthropic | Applied AI Architects, Partner 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5383714008 | Anthropic | AV Engineer, Platform & Automation
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5437262008 | Anthropic | Corporate Finance & Strategy, Public Benefit & Global Affairs
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5442934008 | Anthropic | Manager, Applied AI Engineering (Megas) 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5439804008 | Anthropic | Network Deployment and Maintenance Lead - Data Center Operations
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5443871008 | Anthropic | Security Risk & Compliance, Agent Security
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5444766008 | Anthropic | Software Engineer, Staff: Applied AI, Science & Engineering
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5442680008 | Anthropic | Staff Research Engineer, Multi-Agent Scaling
+- [ ] https://jobs.ashbyhq.com/elevenlabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6 | ElevenLabs | Forward Deployed Engineer - Software Engineer - United Kingdom
+- [ ] https://jobs.ashbyhq.com/elevenlabs/1f7a2786-46d3-46c9-81f3-c3849b412988 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Argentina
+- [ ] https://jobs.ashbyhq.com/elevenlabs/d05779a0-51da-417f-9921-39be5271402a | ElevenLabs | Enterprise Solutions Engineer - Greece
+- [ ] https://jobs.ashbyhq.com/elevenlabs/73ba8a21-bf66-4f37-8e94-05143a481fb8 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Turkey
+- [ ] https://jobs.ashbyhq.com/elevenlabs/ec04799b-6567-4032-8d6c-3c27261618e1 | ElevenLabs | Enterprise Solutions Engineer - Colombia
+- [ ] https://jobs.ashbyhq.com/elevenlabs/8a587dcd-f3ff-4768-82d4-5f5e952edf6b | ElevenLabs | Enterprise Solutions Engineer - Mexico
+- [ ] https://jobs.ashbyhq.com/elevenlabs/8a573932-b1fb-4df7-9023-e13a6cecbbbb | ElevenLabs | Forward Deployed Engineer - Software Engineer - Mexico
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8245700 | Intercom | Senior Forward Deployed Data Scientist
+- [ ] https://jobs.ashbyhq.com/decagon/56ca2731-eb4b-44cc-9f3f-c677a6ccb9df | Decagon | Agent UX Designer
+- [ ] https://jobs.ashbyhq.com/sierra/1e40515a-c2d9-4657-8a44-a99d6d49b15b | Sierra | Strategist, Agent Development - Travel, Transportation and Hospitality
+- [ ] https://jobs.ashbyhq.com/cohere/4f191f3a-d5fc-4e1b-9988-cdac68ce3134 | Cohere | Solutions Architect - DACH
+- [ ] https://jobs.ashbyhq.com/cohere/f139eefb-cf4a-44fd-a70a-b8c0ee7cff16 | Cohere |  Solutions Architect, Defence, DACH
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7885881003?gh_jid=7885881003 | Celonis | Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8007989003?gh_jid=8007989003 | Celonis | Senior/ Lead AI Deployment Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8242736?gh_jid=8242736 | HelloFresh | Associate Maintenance Manager
+- [ ] https://careers.hellofresh.com/global/en/job/8205222?gh_jid=8205222 | HelloFresh | Automation Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8242769?gh_jid=8242769 | HelloFresh | Lead Maintenance Technician 
+- [ ] https://careers.hellofresh.com/global/en/job/8243032?gh_jid=8243032 | HelloFresh | Maintenance Technician I 
+- [ ] https://careers.hellofresh.com/global/en/job/8242779?gh_jid=8242779 | HelloFresh | Maintenance Technician II
+- [ ] https://careers.hellofresh.com/global/en/job/8242783?gh_jid=8242783 | HelloFresh | Maintenance Technician III 
+- [ ] https://careers.hellofresh.com/global/en/job/8236558?gh_jid=8236558 | HelloFresh | Teamleitung Food Safety and Quality Assurance (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8136031?gh_jid=8136031 | HelloFresh | Teamleitung Warehouse (all genders)
+- [ ] https://sumup.com/careers/positions/8660828002?gh_jid=8660828002 | SumUp | AML Coordinator
+- [ ] https://sumup.com/careers/positions/8827064002?gh_jid=8827064002 | SumUp | Customer Support Agent - HU
+- [ ] https://sumup.com/careers/positions/8858198002?gh_jid=8858198002 | SumUp | Enablement and Training Assistant Analyst - LATAM
+- [ ] https://sumup.com/careers/positions/8858958002?gh_jid=8858958002 | SumUp | Executivo(a) de Vendas Externas | Caucaia
+- [ ] https://sumup.com/careers/positions/8862944002?gh_jid=8862944002 | SumUp | Sales Trainer - Inside Sales & Account Management (Fixed term)
+- [ ] https://sumup.com/careers/positions/8855506002?gh_jid=8855506002 | SumUp | Senior AML Investigator (Maternity Cover)
+- [ ] https://jobs.ashbyhq.com/lovable/ef383f78-4d6b-4226-8902-8d4dab2f6a47 | Lovable | Performance Marketer, Paid Search
+- [ ] https://jobs.ashbyhq.com/lovable/5757fd07-a192-4986-8cdc-1cded652d49d | Lovable | AI Ops Engineer (Marketing)
+- [ ] https://jobs.ashbyhq.com/perplexity/a8c79425-eb48-40e0-8557-93460fa67097 | Perplexity | Product Manager, Platform
+- [ ] https://jobs.ashbyhq.com/legora/eac71565-6fd2-40e6-a50c-7c4ea009e286 | Legora | Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/legora/bb686dcd-08ab-42cb-957f-d77e6ec9dc60 | Legora | Solutions Engineer, Denver 
+- [ ] https://jobs.ashbyhq.com/supabase/9c04bc60-78a1-4529-950d-4704ab475764 | Supabase | Head of AI Native Operations
+- [ ] https://jobs.lever.co/qonto/6bcd0b5b-768b-49ff-8a89-3e630dbcc4a3 | Qonto | Senior Product Manager - Client Communication
+- [ ] https://jobs.lever.co/pigment/19514b98-dd8c-4823-a98f-f81dccf8396b | Pigment | Solutions Architect Conso - Paris
+
 ## Procesadas
