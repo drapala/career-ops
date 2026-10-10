@@ -2989,4 +2989,71 @@
 - [ ] https://jobs.lever.co/qonto/6bcd0b5b-768b-49ff-8a89-3e630dbcc4a3 | Qonto | Senior Product Manager - Client Communication
 - [ ] https://jobs.lever.co/pigment/19514b98-dd8c-4823-a98f-f81dccf8396b | Pigment | Solutions Architect Conso - Paris
 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/934dbe9d-1c1f-4939-944a-6671469009db | ElevenLabs | Enterprise Product Manager - ElevenCreative
+- [ ] https://jobs.ashbyhq.com/elevenlabs/35813150-a851-4821-b732-a037b4e6c4fe | ElevenLabs | Full-Stack Engineer (Backend Leaning) - Creative Agents 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/0b3a97d4-193c-4b47-9888-7ef5803ed945 | ElevenLabs | Full-stack Engineer - Creative Agents
+- [ ] https://jobs.ashbyhq.com/deepgram/9762d2a1-3d07-4e65-a0bb-6ed8162ca7d5 | Deepgram | Staff Product Manager, AI Applications
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5082455008 | Anthropic | AI Outcomes Manager
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5443882008 | Anthropic | Applied AI Architect
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5446657008 | Anthropic | Applied AI Architect,  Beneficial Deployments (Life Sciences Community & Enablement)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445410008 | Anthropic | Applied AI Engineer, Public Sector 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445625008 | Anthropic | IT Systems Engineer, Client Platform Engineer, macOS
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5444482008 | Anthropic | Manager, Applied AI Architecture, Enterprise Tech
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5446029008 | Anthropic | Manager of Applied AI Architecture, Startups
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5434361008 | Anthropic | Product Manager, Billing
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5448167008 | Anthropic | Product Manager, Claude
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5434369008 | Anthropic | Product Manager, Enterprise Privacy
+- [ ] https://jobs.ashbyhq.com/n8n/0b21fdb3-006f-4cd3-98b1-68c33f5286fa | n8n | Senior Customer Success Manager - German Speaking (Remote)
+- [ ] https://jobs.ashbyhq.com/n8n/163162f1-9873-45b4-932e-aff27beea78a | n8n | Senior Product Manager (Licensing & Billing)
+- [ ] https://jobs.ashbyhq.com/sierra/6c3fa1ef-5eea-4afc-967e-2d3bb920ad96 | Sierra | Strategist, Agent Development (MBA Grad 2027)
+- [ ] https://jobs.ashbyhq.com/sierra/9d59c96e-e7f7-43cc-8069-bcdf3798fe2b | Sierra | Software Engineer, Agent (Spanish speaking)
+- [ ] https://jobs.ashbyhq.com/langchain/14727440-65bd-4cce-bed1-27d0c863eab3 | LangChain | Senior Frontend Engineer, AI Observabilty Platform
+- [ ] https://jobs.ashbyhq.com/langchain/20189c9d-f1af-4385-ae06-c3a6c7681ff0 | LangChain | Senior Backend Software Engineer, AI Observability & Evals Platform (NYC)  
+- [ ] https://jobs.ashbyhq.com/langchain/4beade3b-0bf2-4720-b553-0309880e22b4 | LangChain | Senior Fullstack Software Engineer, AI Observability & Evals Platform (NY)
+- [ ] https://helsing.ai/jobs/4998730101?gh_jid=4998730101 | Helsing | Front Office Coordinator / Guest Service Agent (m/w/d)
+- [ ] https://helsing.ai/jobs/4999686101?gh_jid=4999686101 | Helsing | Product Manager – Perception & Sensor Fusion
+- [ ] https://helsing.ai/jobs/5000522101?gh_jid=5000522101 | Helsing | Programme Manager - Air Domain
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8260797 | GetYourGuide | Working Student - Group Reporting
+- [ ] https://careers.hellofresh.com/global/en/job/8248995?gh_jid=8248995 | HelloFresh | Associate Director, Paid Strategy (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8259243?gh_jid=8259243 | HelloFresh | Maintenance Tech I 
+- [ ] https://careers.hellofresh.com/global/en/job/8258282?gh_jid=8258282 | HelloFresh | Maintenance Technician
+- [ ] https://careers.hellofresh.com/global/en/job/8259161?gh_jid=8259161 | HelloFresh | Maintenance Technician I (PM Shift)
+- [ ] https://careers.hellofresh.com/global/en/job/8242732?gh_jid=8242732 | HelloFresh | [Refrigeration Compliance & Maintenance Specialist
+- [ ] https://careers.hellofresh.com/global/en/job/8258137?gh_jid=8258137 | HelloFresh | Senior CRM Manager - Transformation (all genders)
+- [ ] https://n26.com/en-eu/careers/positions/8267143?gh_jid=8267143 | N26 | Lead Technical Product Manager — Machine Learning Platform
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7986348003?gh_jid=7986348003 | Celonis | Analytics Engineer — Data Analytics & Transformation (DAT)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8014300003?gh_jid=8014300003 | Celonis | Associate (AI) Solution Consultant (Scale EMEA/German-Speaking) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7885993003?gh_jid=7885993003 | Celonis | Associate Applied (AI) Value Engineer (Scale EMEA/German-Speaking) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7885816003?gh_jid=7885816003 | Celonis | Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8014940003?gh_jid=8014940003 | Celonis | Director, Business Transformation and Value Consulting (DACH) - CPG/Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8015818003?gh_jid=8015818003 | Celonis | Director, Business Transformation & Process Intelligence Consulting - Nordics
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8015588003?gh_jid=8015588003 | Celonis | Director, Management & Technology (DACH) - CPG/Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8003211003?gh_jid=8003211003 | Celonis | Director, Value Engineering (DACH) - CPG/Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8015653003?gh_jid=8015653003 | Celonis | Senior Business Transformation & Process Optimisation Consultant - Aviation/Logistics
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8016417003?gh_jid=8016417003 | Celonis | Senior Digital Transformation & Process Optimisation Consultant - CPG/Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8007977003?gh_jid=8007977003 | Celonis | Senior/ Lead AI Deployment Engineer - Supply Chain
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8016657003?gh_jid=8016657003 | Celonis | 	Senior Management & Technology Consultant - CPG/Retail - CPG/Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8015655003?gh_jid=8015655003 | Celonis | Senior Process Intelligence & Supply Chain Transformation Consultant - Aviation/Logistics
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8016658003?gh_jid=8016658003 | Celonis | Senior Process Intelligence & Supply Chain Transformation Consultant - CPG/Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8016659003?gh_jid=8016659003 | Celonis | Senior Value Engineer - CPG/Retail
+- [ ] https://sumup.com/careers/positions/8370114002?gh_jid=8370114002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8874512002?gh_jid=8874512002 | SumUp | Conseiller(ère) commercial(e) terrain expérimenté
+- [ ] https://sumup.com/careers/positions/7871974002?gh_jid=7871974002 | SumUp | Conseiller(ère) commercial(e) terrain expérimenté(e) 
+- [ ] https://sumup.com/careers/positions/8874495002?gh_jid=8874495002 | SumUp | Iskusni terenski prodajni savjetnik
+- [ ] https://sumup.com/careers/positions/8881395002?gh_jid=8881395002 | SumUp | Working Student - Executive Talent Sourcing
+- [ ] https://jobs.ashbyhq.com/lovable/f8590c0f-5374-4753-839b-e5c7315a71c2 | Lovable | Forward Deployed Engineering Lead
+- [ ] https://jobs.ashbyhq.com/lovable/3636e123-2f93-4605-adce-a89af78ed4fd | Lovable | Performance Marketer, Paid Social
+- [ ] https://jobs.ashbyhq.com/perplexity/9cec9b33-06f2-4ba1-8c9e-20a598361ca2 | Perplexity | Member of Technical Staff (Machine Learning Engineer, Search & Agents)
+- [ ] https://jobs.lever.co/qonto/1e94f0a4-2e70-40c5-9564-4b31c837f177 | Qonto | Lead Banking Operations - Cards
+- [ ] https://jobs.lever.co/qonto/a40b1280-6a09-48bd-aa35-6a5f11002f57 | Qonto | Senior Product Manager - Public APIs
+- [ ] https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5 | Supabase | Platform Engineer, Managed Postgres
+- [ ] https://jobs.ashbyhq.com/supabase/5d09daeb-2d7e-42de-9151-81a1341195c4 | Supabase | Cloud Platform Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/bd5ce178-84c9-469e-89f4-493c21b50622 | Supabase | Product Manager - Realtime
+- [ ] https://jobs.ashbyhq.com/supabase/9a4c9984-07c7-4b47-982f-371de3f6ff50 | Supabase | Product Manager - Auth
+- [ ] https://jobs.ashbyhq.com/resend/a9fc1d02-cace-4be9-8d3d-16f4fb137b39 | Resend | Platform Engineer
+- [ ] https://jobs.lever.co/spotify/2517cbbf-5640-4467-a3ae-08577e76bead | Spotify | Client Partner - Emerging & Scaled (German Speaking)
+- [ ] https://jobs.lever.co/spotify/ef3985d1-522e-4950-ba6e-af57dd93c788 | Spotify | Principal Product Manager - Format Foundations
+- [ ] https://jobs.lever.co/spotify/4852ad53-b028-4161-b53b-24c62759257f | Spotify | Staff Product Designer - Agentic Experiences
+- [ ] https://jobs.lever.co/pigment/538dade3-4581-4280-96bd-6e9e1de4dd4b | Pigment | Senior Platform Engineer
+
 ## Procesadas
