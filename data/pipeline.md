@@ -3064,4 +3064,20 @@
 - [ ] https://sumup.com/careers/positions/8355673002?gh_jid=8355673002 | SumUp | Conseiller(ère) commercial(e) terrain expérimenté(e) 
 - [ ] https://jobs.ashbyhq.com/resend/76dcf582-cf8b-49dd-899b-d453d6af430e | Resend | Platform Engineer
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8264267 | Intercom | SeniorProduct Manager (Service Agent Team) 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5426602008 | Anthropic | Enterprise Account Executive, Banking
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5443331008 | Anthropic | Manager, Applied AI Architect
+- [ ] https://jobs.ashbyhq.com/elevenlabs/8f79181f-192d-45d9-a8c3-ce3f533b7d7a | ElevenLabs | Growth Marketer- Reception.ai
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4742953005 | Glean | Software Engineer, Agentic Runtime 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4742957005 | Glean | Tech Lead Manager, AI Evaluations
+- [ ] https://careers.hellofresh.com/global/en/job/8275203?gh_jid=8275203 | HelloFresh | Maintenance Technician II 
+- [ ] https://careers.hellofresh.com/global/en/job/8275170?gh_jid=8275170 | HelloFresh | Maintenance Technician III
+- [ ] https://careers.hellofresh.com/global/en/job/8242900?gh_jid=8242900 | HelloFresh | Senior Service Designer, Food Systems & Fulfillment 
+- [ ] https://careers.hellofresh.com/global/en/job/8242893?gh_jid=8242893 | HelloFresh | Senior Service Designer, Food Systems & Fulfillment (f/m/x)
+- [ ] https://sumup.com/careers/positions/8883422002?gh_jid=8883422002 | SumUp | Conseiller(ère) commercial(e) terrain expérimenté(e)
+- [ ] https://sumup.com/careers/positions/8859748002?gh_jid=8859748002 | SumUp | KYC Operations Agent with German
+- [ ] https://jobs.ashbyhq.com/synthesia/6046e277-1cb2-407b-ac47-3f64c0125b90 | Synthesia | Solutions Engineer - French Speaker 
+- [ ] https://jobs.ashbyhq.com/claylabs/9f8067d1-61cf-42cd-aad7-0ac54de8b345 | Clay Labs | GTM Engineer - Marketing
+- [ ] https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf | Palantir | Forward Deployed Software Engineer - US Government
+
 ## Procesadas
