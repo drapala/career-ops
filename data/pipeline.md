@@ -3080,4 +3080,20 @@
 - [ ] https://jobs.ashbyhq.com/claylabs/9f8067d1-61cf-42cd-aad7-0ac54de8b345 | Clay Labs | GTM Engineer - Marketing
 - [ ] https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf | Palantir | Forward Deployed Software Engineer - US Government
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5440821008 | Anthropic | Applied AI Engineer, Beneficial Deployments (Lab Automation)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5451081008 | Anthropic | Policy Development, Technical AI Governance
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4739203005 | Glean | AI Data Analyst
+- [ ] https://jobs.ashbyhq.com/elevenlabs/b8a111fa-9fd5-44d0-97ed-8fd1280be4ef | ElevenLabs | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8030594003?gh_jid=8030594003 | Celonis | Senior AI Engineer - Process Intelligence 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8016353003?gh_jid=8016353003 | Celonis | Senior Solutions Engineer - Process Intelligence (Retail/Manufacturing)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8016429003?gh_jid=8016429003 | Celonis | Senior Value Engineer - Supply Chain
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8004218003?gh_jid=8004218003 | Celonis | Strategic Account Executive - Retail / CPG
+- [ ] https://careers.hellofresh.com/global/en/job/8274999?gh_jid=8274999 | HelloFresh | Associate Maintenance Manager
+- [ ] https://careers.hellofresh.com/global/en/job/8256072?gh_jid=8256072 | HelloFresh | Teamlead Growth Optimisation
+- [ ] https://jobs.ashbyhq.com/synthesia/1d23d3ca-50a1-4663-a7dd-f02fd035fa1a | Synthesia | Senior Solutions Engineer - French Speaker 
+- [ ] https://jobs.ashbyhq.com/supabase/6b314e83-6617-49fc-8c73-021ebae9a757 | Supabase | Platform Engineer - Compute
+- [ ] https://jobs.ashbyhq.com/claylabs/ddc46515-89d2-4f98-a383-437dfd38b123 | Clay Labs | Solutions Engineer
+- [ ] https://jobs.lever.co/spotify/c5c82f59-504f-47f4-961e-a2d50a248357 | Spotify | Senior Product Manager, Consumer - Audiobooks
+- [ ] https://jobs.lever.co/palantir/29630180-0f10-4826-801f-12e226d3c7f1 | Palantir | Forward Deployed Software Engineer - US Government
+
 ## Procesadas
