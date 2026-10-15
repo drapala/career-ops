@@ -3096,4 +3096,20 @@
 - [ ] https://jobs.lever.co/spotify/c5c82f59-504f-47f4-961e-a2d50a248357 | Spotify | Senior Product Manager, Consumer - Audiobooks
 - [ ] https://jobs.lever.co/palantir/29630180-0f10-4826-801f-12e226d3c7f1 | Palantir | Forward Deployed Software Engineer - US Government
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8280726 | Intercom | Account Executive, MidMarket - German Speaking
+- [ ] https://jobs.ashbyhq.com/elevenlabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0 | ElevenLabs | Full-Stack Engineer (Backend Leaning) - Platform Engineering
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5452909008 | Anthropic | Partner Account Manager, AI-Native/Boutique SI Partners
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5449229008 | Anthropic | Staff Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/AlephAlpha/fce0b58f-e95a-45bc-9ca5-b47b1c3cbabd | Aleph Alpha | Senior AI Researcher: LLM post-training for hallucination reduction (f/m/d)
+- [ ] https://jobs.ashbyhq.com/decagon/6caa1b9e-2bc7-4a79-8674-cef4eb58b754 | Decagon | Agent Strategy Manager 
+- [ ] https://jobs.ashbyhq.com/cohere/8a73f59d-41b7-42ed-8cc8-99afa0a2ba5f | Cohere | Member of Technical Staff - Post-Training (Reinforcement Learning & Generalization)
+- [ ] https://jobs.ashbyhq.com/cohere/eef82766-7e31-430f-a102-bc33a5022597 | Cohere | Member of Technical Staff - Post-training (Data Infrastructure)
+- [ ] https://careers.hellofresh.com/global/en/job/8281103?gh_jid=8281103 | HelloFresh | CDD - Brand Campaign Manager - (M/F/X)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7852910003?gh_jid=7852910003 | Celonis | Client Value Partner - Retail + CPG
+- [ ] https://sumup.com/careers/positions/8887224002?gh_jid=8887224002 | SumUp | Conseiller(ère) commercial(e) terrain expérimenté(e) - Indépendant 
+- [ ] https://jobs.ashbyhq.com/synthesia/5843a647-a6a7-403a-87e7-53eddb00f84c | Synthesia | Senior Solutions Engineer - German Speaker
+- [ ] https://jobs.ashbyhq.com/synthesia/5e0c7cf2-c47b-49bb-85fb-1a85068853c1 | Synthesia | Solutions Engineer - German Speaker
+- [ ] https://jobs.lever.co/qonto/be48a406-a580-468a-805f-7e97d6edaaf4 | Qonto | Customer Care Agent Netherlands
+- [ ] https://jobs.lever.co/spotify/ddc10181-6ecc-4dfc-9d02-2c5ce820cfdd | Spotify | Senior Product Manager, Consumer - Audiobooks
+
 ## Procesadas
