@@ -3112,4 +3112,31 @@
 - [ ] https://jobs.lever.co/qonto/be48a406-a580-468a-805f-7e97d6edaaf4 | Qonto | Customer Care Agent Netherlands
 - [ ] https://jobs.lever.co/spotify/ddc10181-6ecc-4dfc-9d02-2c5ce820cfdd | Spotify | Senior Product Manager, Consumer - Audiobooks
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5447368008 | Anthropic | Applied AI Architect, Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445806008 | Anthropic | Applied AI Architect, Security Specialist 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445760008 | Anthropic | Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454650008 | Anthropic | Applied AI Engineer, Startups (Life Sciences)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454673008 | Anthropic | Applied AI Engineer, Startups (Physical AI)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5424305008 | Anthropic | Manager, Applied AI Architects - Digital Natives, EMEA
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/5008844101 | Parloa | Manager, Agent Architecture US
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/5009506101 | Parloa | Manager, Forward Deployed Engineering
+- [ ] https://jobs.ashbyhq.com/elevenlabs/7389c057-3e25-4e7a-8a03-5e80f40a15a0 | ElevenLabs | Product Manager (ElevenCreative Self-Serve)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4744818005 | Glean | Machine Learning Engineer, Enterprise Brain
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4743056005 | Glean | Solutions Engineering Manager 
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6225825004 | Vercel | GTM Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/63face0d-b26a-4ea7-b03d-2fa842013063 | Decagon | Agent Product Manager
+- [ ] https://jobs.ashbyhq.com/langchain/c4575cc8-ed78-47d7-8b53-637402e77d8d | LangChain | Order Management Operations & Automation
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8032218003?gh_jid=8032218003 | Celonis | Enterprise Account Executive CPG / Retail / Manufacturing
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7742453003?gh_jid=7742453003 | Celonis | Senior Value Engineer (Supply Chain & Manufacturing)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/8284863 | Contentful | Mid Market Account Executive - Italian Speaking (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/8284859 | Contentful | Mid Market Account Executive - Spanish Speaking (f/m/d)
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8264277 | GetYourGuide | Engineering Manager, Agentic Platform
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8284800 | GetYourGuide | Lead Product Manager, User Platform 
+- [ ] https://careers.hellofresh.com/global/en/job/8278570?gh_jid=8278570 | HelloFresh | Team Lead, Paid Search (All Genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8258950?gh_jid=8258950 | HelloFresh | [TECH] Senior Forward Deployed Engineer [INTELLIGENT PLATFORMS]
+- [ ] https://sumup.com/careers/positions/8888622002?gh_jid=8888622002 | SumUp | Content Manager – Retail
+- [ ] https://sumup.com/careers/positions/8891263002?gh_jid=8891263002 | SumUp | Customer Support Agent German - Consumer Team
+- [ ] https://sumup.com/careers/positions/8691015002?gh_jid=8691015002 | SumUp | Sales Trainer - Inside Sales & Account Management
+- [ ] https://jobs.ashbyhq.com/perplexity/f3814af2-55a3-49a5-b0cb-67199a2a45fb | Perplexity | Member of Technical Staff (Software Engineer, Enterprise Agent Evals & Efficiency)
+
 ## Procesadas
