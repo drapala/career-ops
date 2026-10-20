@@ -3139,4 +3139,23 @@
 - [ ] https://sumup.com/careers/positions/8691015002?gh_jid=8691015002 | SumUp | Sales Trainer - Inside Sales & Account Management
 - [ ] https://jobs.ashbyhq.com/perplexity/f3814af2-55a3-49a5-b0cb-67199a2a45fb | Perplexity | Member of Technical Staff (Software Engineer, Enterprise Agent Evals & Efficiency)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5455961008 | Anthropic | Applied AI Demo Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5456018008 | Anthropic | IT Systems Engineer, Client Platform Engineer, ChromeOS
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5456581008 | Anthropic | Manager of Applied AI Architecture, Industries 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5457043008 | Anthropic | Product Manager, Claude Marketplace
+- [ ] https://jobs.ashbyhq.com/deepgram/8e80b2ec-a88d-4b70-8ddd-0f7021f1554b | Deepgram | Research Staff, Applied Voice AI
+- [ ] https://jobs.ashbyhq.com/deepgram/dcea53a5-5650-406d-a154-fad077c4b81b | Deepgram | Research Engineer, Post-Training
+- [ ] https://jobs.ashbyhq.com/deepgram/1140ca2e-0b17-4262-8c1b-a3eb156086dc | Deepgram | Account Executive (German Speaking)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4673995005 | Glean | Strategic Account Executive, Mumbai
+- [ ] https://jobs.ashbyhq.com/cohere/b04cf265-c4f7-48bf-88ec-d4d71f3bdfaa | Cohere | Technical Program Manager, AI Delivery for Public Sector & Defense, Germany
+- [ ] https://jobs.ashbyhq.com/langchain/d6673e5e-30c4-413c-bda8-70d15908ff80 | LangChain | Order Management Operations & Automation
+- [ ] https://n26.com/en-eu/careers/positions/8300509?gh_jid=8300509 | N26 | Data Analyst - Everyday Banking 
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8264281 | GetYourGuide | Senior Software Engineer, Agentic Platform
+- [ ] https://careers.hellofresh.com/global/en/job/8210612?gh_jid=8210612 | HelloFresh | Facilities and Maintenance Manager
+- [ ] https://careers.hellofresh.com/global/en/job/8302193?gh_jid=8302193 | HelloFresh | Maintenance Technician II 
+- [ ] https://careers.hellofresh.com/global/en/job/8292725?gh_jid=8292725 | HelloFresh | Senior Account Executive, Retail Media
+- [ ] https://careers.hellofresh.com/global/en/job/8282410?gh_jid=8282410 | HelloFresh | [US DC] Associate Maintenance Manager
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/8301112 | Contentful | Mid Market Account Executive  - Dutch Speaking (f/m/d)
+- [ ] https://jobs.lever.co/qonto/ae334a18-8cd7-4062-a877-24bccfd88f7a | Qonto | Lead Banking Operations - Debt Collection
+
 ## Procesadas
