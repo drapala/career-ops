@@ -3158,4 +3158,15 @@
 - [ ] https://job-boards.greenhouse.io/contentful/jobs/8301112 | Contentful | Mid Market Account Executive  - Dutch Speaking (f/m/d)
 - [ ] https://jobs.lever.co/qonto/ae334a18-8cd7-4062-a877-24bccfd88f7a | Qonto | Lead Banking Operations - Debt Collection
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454442008 | Anthropic | Manager, Applied AI Cyber Specialists
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7541123 | Intercom | Engineering Manager, AI Group
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6228301004 | Vercel | Product Manager, Storage
+- [ ] https://jobs.ashbyhq.com/deepgram/e8b2cd20-bd98-4977-b9a9-cfa6868cc122 | Deepgram | Director, GTM Engineering
+- [ ] https://jobs.ashbyhq.com/deepgram/4caace1a-beb8-43bc-a69a-4952e6214af7 | Deepgram | Staff Sales Engineer, Voice AI
+- [ ] https://jobs.ashbyhq.com/sierra/0ff928f7-cca0-4d2b-ae64-c07277ff5252 | Sierra | Software Engineer, Agent (New Grad)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7742474003?gh_jid=7742474003 | Celonis | AI and Value Transformation Consultant
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8010181003?gh_jid=8010181003 | Celonis | Applied AI Value Architect
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7995431003?gh_jid=7995431003 | Celonis | Lead Value Engineer - Banking
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8010193003?gh_jid=8010193003 | Celonis | Senior AI Applied Value Architect
+
 ## Procesadas
