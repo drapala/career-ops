@@ -3169,4 +3169,18 @@
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7995431003?gh_jid=7995431003 | Celonis | Lead Value Engineer - Banking
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/8010193003?gh_jid=8010193003 | Celonis | Senior AI Applied Value Architect
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391062008 | Anthropic | AI Outcomes Manager, Financial Services
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5415822008 | Anthropic | Product Manager (Technical), Product Support Experience
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5460216008 | Anthropic | Technical Program Manager, Agent Safety & Security 
+- [ ] https://jobs.ashbyhq.com/pinecone/edf2a2a5-64e2-45b8-9f2e-4f354af350b8 | Pinecone | Applied AI Engineer (Full-Stack)
+- [ ] https://jobs.ashbyhq.com/cohere/529b2dd6-4be3-49db-97cd-781f4897540b | Cohere | Senior Software Engineer, Agent Infrastructure
+- [ ] https://jobs.ashbyhq.com/sierra/0cb4da3e-3c67-4f14-a84d-956042669275 | Sierra | Software Engineer, Agent Runtime
+- [ ] https://jobs.ashbyhq.com/sierra/200df475-2175-45ce-9510-7d04afabd08d | Sierra | Software Engineer, Agent Builder
+- [ ] https://jobs.ashbyhq.com/sierra/be3dd739-0584-4d15-90ff-dea66bfdbc72 | Sierra | Digital Marketing & Campaigns Lead
+- [ ] https://sumup.com/careers/positions/8773686002?gh_jid=8773686002 | SumUp | People Operations Agent 
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/5012037101 | PhysicsX | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4463390009 | PlanetScale | AI Developer Experience Engineer
+- [ ] https://jobs.lever.co/qonto/dd2078ad-9eb8-4a46-870a-2e7dc8a96eaf | Qonto | Staff Product Manager - Loans
+- [ ] https://jobs.lever.co/spotify/73a83f73-2f59-4c82-bac3-7dfc5d3355ad | Spotify | Principal Product Manager - Core Experience Platform
+
 ## Procesadas
