@@ -3183,4 +3183,26 @@
 - [ ] https://jobs.lever.co/qonto/dd2078ad-9eb8-4a46-870a-2e7dc8a96eaf | Qonto | Staff Product Manager - Loans
 - [ ] https://jobs.lever.co/spotify/73a83f73-2f59-4c82-bac3-7dfc5d3355ad | Spotify | Principal Product Manager - Core Experience Platform
 
+- [ ] https://jobs.ashbyhq.com/vapi/0ac869b1-0697-479d-a22b-17a5e160ffe5 | Vapi | Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4986159008 | Anthropic | AI Outcomes Manager, GSI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5455627008 | Anthropic | Applied AI Architect, Public Sector (Federal Civilan)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5460211008 | Anthropic | Applied AI Architect, Public Sector (GovTech)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746908005 | Glean | AI Engineer - Data and Evals
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746915005 | Glean | AI Engineer - Quality and Post-Training
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4579657005 | Glean | Product Manager, Agent Security & Governance
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4525519005 | Glean | Product Manager, AI Quality
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4701913005 | Glean | Product Manager, Enterprise Intelligence
+- [ ] https://jobs.ashbyhq.com/sierra/9eed16e3-9a45-4961-a10b-aea58777fa54 | Sierra | Enterprise Sales Engineer - Strategic, Retail
+- [ ] https://jobs.ashbyhq.com/sierra/b870fc11-f984-4aa8-9f16-26feb0281789 | Sierra | Enterprise Sales Engineer - Majors, Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8016645003?gh_jid=8016645003 | Celonis | Applied AI Value Architect
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8016588003?gh_jid=8016588003 | Celonis | Senior AI Applied Value Architect
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8037540003?gh_jid=8037540003 | Celonis | Solutions Architect
+- [ ] https://careers.hellofresh.com/global/en/job/8280899?gh_jid=8280899 | HelloFresh | Software Engineer - Marketing Automation (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8284429?gh_jid=8284429 | HelloFresh | Supply Chain Planner
+- [ ] https://traderepublic.com/en-de/about?jobId=6246645003&gh_jid=6246645003 | Trade Republic | German Speaking Process Operations Working Student (f/d/m)
+- [ ] https://sumup.com/careers/positions/8907622002?gh_jid=8907622002 | SumUp | Agente de Suporte I
+- [ ] https://jobs.lever.co/qonto/3afa5f7c-a35b-4227-b0fc-5dcbe6345596 | Qonto | Product Designer - Banking
+- [ ] https://jobs.lever.co/qonto/1f945bad-2c45-4ac1-be06-a219dc9e1a93 | Qonto | Staff Product Engineer - AI Core - remote friendly
+- [ ] https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7 | Palantir | Forward Deployed Software Engineer, New Grad - Warp Speed
+
 ## Procesadas
