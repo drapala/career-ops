@@ -3205,4 +3205,18 @@
 - [ ] https://jobs.lever.co/qonto/1f945bad-2c45-4ac1-be06-a219dc9e1a93 | Qonto | Staff Product Engineer - AI Core - remote friendly
 - [ ] https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7 | Palantir | Forward Deployed Software Engineer, New Grad - Warp Speed
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5461873008 | Anthropic | Applied AI Security Architect - Healthcare & Life Sciences
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746508005 | Glean | Solutions Engineer, LATAM
+- [ ] https://jobs.ashbyhq.com/deepgram/9441042f-ff8a-4668-a031-780896112def | Deepgram | Senior Integrated Campaign Manager
+- [ ] https://jobs.ashbyhq.com/sierra/e98b0f55-9665-4aaf-99a6-c61c622bf323 | Sierra | Enterprise Sales Engineer - Majors, Retail
+- [ ] https://jobs.ashbyhq.com/sierra/fcbf5519-6bfc-4250-a171-669e5708b345 | Sierra | Enterprise Sales Engineer - Strategic, Retail
+- [ ] https://jobs.ashbyhq.com/cohere/ada41b39-21a9-467c-a22c-9e907524af40 | Cohere | Manager, Government Affairs & Public Policy - Japan
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8041920003?gh_jid=8041920003 | Celonis | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/perplexity/7e4a95c3-6322-4300-9455-96c511ab2621 | Perplexity | Member of Technical Staff (AI Policy and Strategic Initiatives)
+- [ ] https://jobs.ashbyhq.com/legora/c3c6e7d1-b4e8-488e-9481-d0e1fb996761 | Legora | AI Automation & Enablement Engineer
+- [ ] https://jobs.lever.co/palantir/6940fc9a-b79c-4935-a90f-1c6a02e54fb1 | Palantir | Deployment Strategist - Germany Forward Deployed
+- [ ] https://jobs.lever.co/palantir/7ea66860-ae93-4139-9388-b7284cb33f37 | Palantir | Forward Deployed Software Engineer
+- [ ] https://jobs.lever.co/spotify/22a796f2-2bfd-4f44-aab3-a0a20a7783fc | Spotify | Principal Product Manager - TV & Desktop
+- [ ] https://jobs.lever.co/spotify/8bd60a8c-d8bb-41ba-9ac0-69d0b643d63d | Spotify | Senior Product Manager - Spotify Connect
+
 ## Procesadas
