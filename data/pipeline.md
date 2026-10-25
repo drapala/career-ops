@@ -3219,4 +3219,10 @@
 - [ ] https://jobs.lever.co/spotify/22a796f2-2bfd-4f44-aab3-a0a20a7783fc | Spotify | Principal Product Manager - TV & Desktop
 - [ ] https://jobs.lever.co/spotify/8bd60a8c-d8bb-41ba-9ac0-69d0b643d63d | Spotify | Senior Product Manager - Spotify Connect
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5462893008 | Anthropic | Enforcement Analyst, Agentic Alignment
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5448366008 | Anthropic | Enterprise Account Executive - Manufacturing Industries, Taiwan
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746510005 | Glean | Solutions Engineer, LATAM
+- [ ] https://jobs.ashbyhq.com/perplexity/cc22684f-b419-4ab8-8aa0-b4a393d3beb9 | Perplexity | Member of Technical Staff (AI Software Engineer, Agents)
+- [ ] https://jobs.ashbyhq.com/perplexity/2a5aa5f6-596b-45c3-84db-ac0b96363f93 | Perplexity | Member of Technical Staff (Software Engineer, Training Infrastructure)
+
 ## Procesadas
