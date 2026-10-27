@@ -3225,4 +3225,14 @@
 - [ ] https://jobs.ashbyhq.com/perplexity/cc22684f-b419-4ab8-8aa0-b4a393d3beb9 | Perplexity | Member of Technical Staff (AI Software Engineer, Agents)
 - [ ] https://jobs.ashbyhq.com/perplexity/2a5aa5f6-596b-45c3-84db-ac0b96363f93 | Perplexity | Member of Technical Staff (Software Engineer, Training Infrastructure)
 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8037511003?gh_jid=8037511003 | Celonis | Senior Solutions Architect
+- [ ] https://sumup.com/careers/positions/8053869002?gh_jid=8053869002 | SumUp | Commercial(e) Terrain - CDI
+- [ ] https://jobs.ashbyhq.com/photoroom/9bf0b49f-b54c-40fb-90d4-b568b7482c64 | Photoroom | Staff Product Manager, Agentic & AI Platform
+- [ ] https://jobs.ashbyhq.com/photoroom/f3934b79-3cde-450d-b8bb-548aa7bfd43f | Photoroom | Senior Product Manager, SMB e-commerce Growth
+- [ ] https://jobs.ashbyhq.com/photoroom/a7dbe175-07fc-43c7-8061-4e7e9bfc1d2a | Photoroom | Senior Product Manager, Core Product
+- [ ] https://jobs.ashbyhq.com/photoroom/41ba8841-a50e-49a2-947a-15dff61bbd55 | Photoroom | Product ML Engineer
+- [ ] https://jobs.ashbyhq.com/perplexity/d865c821-9a27-416c-9c6a-14132a86f760 | Perplexity | Member of Technical Staff (AI Software Engineer, Agent Engine)
+- [ ] https://jobs.ashbyhq.com/perplexity/3f0dc0ad-aa9a-4cd8-aa75-245112f3b2de | Perplexity | Engineering Manager (Agent Engine)
+- [ ] https://jobs.ashbyhq.com/supabase/6f7656fc-9983-48be-bbd3-8b40e0e3027a | Supabase | Container Engineer
+
 ## Procesadas
