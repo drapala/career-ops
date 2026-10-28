@@ -3235,4 +3235,22 @@
 - [ ] https://jobs.ashbyhq.com/perplexity/3f0dc0ad-aa9a-4cd8-aa75-245112f3b2de | Perplexity | Engineering Manager (Agent Engine)
 - [ ] https://jobs.ashbyhq.com/supabase/6f7656fc-9983-48be-bbd3-8b40e0e3027a | Supabase | Container Engineer
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7179952 | Intercom | Senior Forward Deployed Product Manager 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5458062008 | Anthropic | Enterprise Account Executive, Retail 
+- [ ] https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db | Sierra | Software Engineer, Agent (New Grad 2027)
+- [ ] https://jobs.ashbyhq.com/sierra/69ca85f1-240b-493e-9fe5-e2b03ffa2dd0 | Sierra | Strategist Lead, Agent Development
+- [ ] https://jobs.ashbyhq.com/sierra/2c61a0f5-b4aa-4c06-86f0-991d6039de17 | Sierra | Executive Assistant, Sales & Agent Development
+- [ ] https://helsing.ai/jobs/5001623101?gh_jid=5001623101 | Helsing | Head of Flight Test Management / Senior Flight Test M​anager - Air
+- [ ] https://helsing.ai/jobs/4929769101?gh_jid=4929769101 | Helsing | Programme Manager - Air
+- [ ] https://helsing.ai/jobs/4913364101?gh_jid=4913364101 | Helsing | Senior Programme Manager - Militarisation - Air
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8037525003?gh_jid=8037525003 | Celonis | Lead Solutions Architect
+- [ ] https://careers.hellofresh.com/global/en/job/8324281?gh_jid=8324281 | HelloFresh | Director, Paid Search (all genders)- maternity leave cover
+- [ ] https://careers.hellofresh.com/global/en/job/8327068?gh_jid=8327068 | HelloFresh | Maintenance Planner/Scheduler 
+- [ ] https://careers.hellofresh.com/global/en/job/8327758?gh_jid=8327758 | HelloFresh | Operations Trainer 
+- [ ] https://sumup.com/careers/positions/8887492002?gh_jid=8887492002 | SumUp | Senior AML Investigator
+- [ ] https://sumup.com/careers/positions/8907452002?gh_jid=8907452002 | SumUp | Senior Product Manager - Customer Directory
+- [ ] https://jobs.ashbyhq.com/synthesia/689f6008-d096-4a2e-90a6-82ca1eaf6d90 | Synthesia | Senior Solutions Engineer 
+- [ ] https://jobs.ashbyhq.com/synthesia/103ca468-012b-4882-b5ab-001e3d55f71b | Synthesia | Solutions Engineer 
+- [ ] https://jobs.ashbyhq.com/lovable/d06e485f-237e-4495-8675-79b7ad420051 | Lovable | Forward Deployed Engineering Lead
+
 ## Procesadas
