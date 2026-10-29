@@ -3253,4 +3253,16 @@
 - [ ] https://jobs.ashbyhq.com/synthesia/103ca468-012b-4882-b5ab-001e3d55f71b | Synthesia | Solutions Engineer 
 - [ ] https://jobs.ashbyhq.com/lovable/d06e485f-237e-4495-8675-79b7ad420051 | Lovable | Forward Deployed Engineering Lead
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8327865 | Intercom | Senior Forward Deployed Product Manager (Dublin)
+- [ ] https://jobs.ashbyhq.com/cohere/8df498e9-aba8-487f-80ba-362b492bad09 | Cohere | Forward Deployed Engineer, Inference 
+- [ ] https://jobs.ashbyhq.com/DeepL/c7054218-328f-4cbd-b3da-58884146f1e6 | DeepL | Senior Integrated Campaign Manager
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/8330490 | Contentful | Enterprise Account Executive UKI (f/m/d)
+- [ ] https://careers.hellofresh.com/global/en/job/8281022?gh_jid=8281022 | HelloFresh | IT Operations Team Lead (Fulfillment Centres)
+- [ ] https://sumup.com/careers/positions/8498275002?gh_jid=8498275002 | SumUp | AI / Machine Learning Engineer II
+- [ ] https://sumup.com/careers/positions/8921908002?gh_jid=8921908002 | SumUp | Executivo(a) de Vendas Externas | Caucaia - CE
+- [ ] https://jobs.ashbyhq.com/synthesia/77cf4090-2f3a-4452-b4d9-a609e742964f | Synthesia | Senior Solutions Engineer 
+- [ ] https://jobs.ashbyhq.com/synthesia/4a884a77-946e-4d4f-8030-d256b961cce8 | Synthesia | Solutions Engineer 
+- [ ] https://jobs.ashbyhq.com/lovable/f16a20b6-d3a2-4507-944c-86becd975766 | Lovable | Staff Forward Deployed Engineer
+- [ ] https://jobs.lever.co/palantir/491a0133-b580-45c3-9fd4-2314faf82fb9 | Palantir | Forward Deployed Software Engineer - Germany Forward Deployed
+
 ## Procesadas
