@@ -3265,4 +3265,12 @@
 - [ ] https://jobs.ashbyhq.com/lovable/f16a20b6-d3a2-4507-944c-86becd975766 | Lovable | Staff Forward Deployed Engineer
 - [ ] https://jobs.lever.co/palantir/491a0133-b580-45c3-9fd4-2314faf82fb9 | Palantir | Forward Deployed Software Engineer - Germany Forward Deployed
 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8067893003?gh_jid=8067893003 | Celonis | Applied Value Engineer - AI and Value Transformation Consultant
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8068099003?gh_jid=8068099003 | Celonis | Lead Applied Value Engineer - AI & Process Intelligence Consultant 
+- [ ] https://careers.hellofresh.com/global/en/job/8331055?gh_jid=8331055 | HelloFresh | Kitting Area Manager - all genders
+- [ ] https://careers.hellofresh.com/global/en/job/8334141?gh_jid=8334141 | HelloFresh | Maintenance Planner/Scheduler 
+- [ ] https://careers.hellofresh.com/global/en/job/8328033?gh_jid=8328033 | HelloFresh | Training Supervisor
+- [ ] https://jobs.ashbyhq.com/legora/a7b0dfe8-9bf7-41fb-a78f-fa3d9b452017 | Legora | Director of Solutions Engineering 
+- [ ] https://jobs.ashbyhq.com/supabase/282d1dfb-b162-4ce4-a938-c4b2173230e0 | Supabase | Partner Solutions Architect , AI Builder 
+
 ## Procesadas
