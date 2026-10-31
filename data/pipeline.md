@@ -3273,4 +3273,14 @@
 - [ ] https://jobs.ashbyhq.com/legora/a7b0dfe8-9bf7-41fb-a78f-fa3d9b452017 | Legora | Director of Solutions Engineering 
 - [ ] https://jobs.ashbyhq.com/supabase/282d1dfb-b162-4ce4-a938-c4b2173230e0 | Supabase | Partner Solutions Architect , AI Builder 
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5468380008 | Anthropic | Data Center Substation, Protection & Automation Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8333690 | Intercom | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8338105 | Intercom | Senior Manager, Solutions Engineering
+- [ ] https://n26.com/en-eu/careers/positions/8336867?gh_jid=8336867 | N26 | Complaints Audit Manager - Fluent German
+- [ ] https://careers.hellofresh.com/global/en/job/8337294?gh_jid=8337294 | HelloFresh | Lead Maintenance Technician 
+- [ ] https://careers.hellofresh.com/global/en/job/8280995?gh_jid=8280995 | HelloFresh | Senior Mobile Engineer (React Native), Shopping AI & Search
+- [ ] https://jobs.ashbyhq.com/legora/8366a3af-2094-45d2-b3fe-fdcdf5dfb8a5 | Legora | AI Enablement Lead
+- [ ] https://jobs.lever.co/pigment/978b4a91-5c8c-4081-aaec-8efa35fe604c | Pigment | Business Transformation Advisory - Paris
+- [ ] https://jobs.lever.co/pigment/c9226493-32ce-4da6-b6a0-378fd148595b | Pigment | Solutions Architect, EPM - Nordics
+
 ## Procesadas
