@@ -3283,4 +3283,10 @@
 - [ ] https://jobs.lever.co/pigment/978b4a91-5c8c-4081-aaec-8efa35fe604c | Pigment | Business Transformation Advisory - Paris
 - [ ] https://jobs.lever.co/pigment/c9226493-32ce-4da6-b6a0-378fd148595b | Pigment | Solutions Architect, EPM - Nordics
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8333679 | Intercom | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/a069c886-1107-408e-88b4-e1aa8d33d4bc | Supabase |  Account Executive DACH (German-Speaking)
+- [ ] https://jobs.ashbyhq.com/supabase/fb0b563a-e541-43fd-8555-9eb6473aaa11 | Supabase | Software Engineer - AI Tooling Infrastructure
+- [ ] https://jobs.ashbyhq.com/supabase/c20228c2-45ff-4b77-ab77-906f39a06ca3 | Supabase | Product Manager -  Administration & Governance
+- [ ] https://jobs.ashbyhq.com/supabase/85f4d148-4602-4139-802a-962705133892 | Supabase | Product Manager - Spark
+
 ## Procesadas
