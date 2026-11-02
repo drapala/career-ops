@@ -3289,4 +3289,7 @@
 - [ ] https://jobs.ashbyhq.com/supabase/c20228c2-45ff-4b77-ab77-906f39a06ca3 | Supabase | Product Manager -  Administration & Governance
 - [ ] https://jobs.ashbyhq.com/supabase/85f4d148-4602-4139-802a-962705133892 | Supabase | Product Manager - Spark
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5468947008 | Anthropic | Research Engineer / Scientist, Pre-training
+- [ ] https://jobs.ashbyhq.com/cohere/ab45a550-14a2-4a74-abfb-83688d4508c1 | Cohere | Technical Program Manager, AI Delivery (Dammam)
+
 ## Procesadas
