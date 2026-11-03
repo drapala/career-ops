@@ -3292,4 +3292,16 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5468947008 | Anthropic | Research Engineer / Scientist, Pre-training
 - [ ] https://jobs.ashbyhq.com/cohere/ab45a550-14a2-4a74-abfb-83688d4508c1 | Cohere | Technical Program Manager, AI Delivery (Dammam)
 
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/5024865101 | PolyAI | Senior Designer, Brand and AI Systems
+- [ ] https://jobs.ashbyhq.com/bland/f0d879a1-5919-4d61-addd-8f0f1867428c | Bland AI | Product Manager, Developer Experience
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5465639008 | Anthropic | AI Outcomes Manager, Strategic Tech (Spanish-speaking)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5450798008 | Anthropic | Applied AI Architect
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4749825005 | Glean | Solutions Engineer, Canada
+- [ ] https://jobs.ashbyhq.com/deepgram/dd71e31d-2b22-4e9b-8f24-bdd221ea13fa | Deepgram | Research Staff, LLMs [EMEA - Remote]
+- [ ] https://jobs.ashbyhq.com/langchain/0c98c423-15aa-4fe7-b1a2-106404b6d0f5 | LangChain | Senior Backend Software Engineer, AI Observability & Evals Platform (NYC)
+- [ ] https://jobs.ashbyhq.com/AlephAlpha/518d3da6-eecc-439f-9e6f-7105b649eaa4 | Aleph Alpha | AI Researcher - Pre-training (f/m/d)
+- [ ] https://n26.com/en-eu/careers/positions/8333692?gh_jid=8333692 | N26 | AFC Manager - SAR Delegate Lead | MLRO France
+- [ ] https://jobs.lever.co/palantir/6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a | Palantir | Software Engineer - Applied AI, Defense Applications
+- [ ] https://jobs.lever.co/pigment/f5630fd7-9d1f-4029-97ad-3b4ee3fc53a8 | Pigment | BDR - South EMEA - Spain & Italy
+
 ## Procesadas
