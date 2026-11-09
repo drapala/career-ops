@@ -3304,4 +3304,199 @@
 - [ ] https://jobs.lever.co/palantir/6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a | Palantir | Software Engineer - Applied AI, Defense Applications
 - [ ] https://jobs.lever.co/pigment/f5630fd7-9d1f-4029-97ad-3b4ee3fc53a8 | Pigment | BDR - South EMEA - Spain & Italy
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7749323 | Intercom | GTM Engineer (Applied AI) 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8350909 | Intercom | Senior Product Manager (Growth)
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/5027447101 | PolyAI | Senior Account Manager (Pacific, Mountain, or Central time zone)
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/5027239101 | PolyAI | Staff Product Manager (Runtime Team) 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5471361008 | Anthropic | Applied AI Architect, Beneficial Deployments (Global & Public Health)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5473198008 | Anthropic | Applied AI Architect, Democratic Partnerships 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5461252008 | Anthropic | Applied AI Architect ( Global Customers)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5472677008 | Anthropic | Applied AI Architect, Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5455618008 | Anthropic | Applied AI Architect, Public Sector (State & Local Government)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5424312008 | Anthropic | Head of ASEAN, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5442048008 | Anthropic | Manager, Forward Deployed Engineering
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5475240008 | Anthropic | Recruiter, Applied AI
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/275f43d0-b62d-401d-830c-7c1ac0e688aa | ElevenLabs | Enterprise Solutions Engineer - USA
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer - USA
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/cb90c8ba-dc35-4e86-9103-9564751ccaf7 | ElevenLabs | Nordics Strategic Account Executive - Retail & Consumer
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/4738893a-de4f-4a06-b104-315c6a4d366c | ElevenLabs | Enterprise Solutions Engineer - Sweden
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/33bb01d0-993c-47fa-ae91-81c0c84f367e | ElevenLabs | Product Marketing - Agents - Government
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0 | ElevenLabs | Full-Stack Engineer (Backend Leaning) - Platform Engineering
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6 | ElevenLabs | Forward Deployed Engineer - Software Engineer - United Kingdom
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/1f7a2786-46d3-46c9-81f3-c3849b412988 | ElevenLabs | Forward Deployed Engineer - Software Engineer - Argentina
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/ec04799b-6567-4032-8d6c-3c27261618e1 | ElevenLabs | Enterprise Solutions Engineer - Colombia
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/8a587dcd-f3ff-4768-82d4-5f5e952edf6b | ElevenLabs | Enterprise Solutions Engineer - Mexico
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/8a573932-b1fb-4df7-9023-e13a6cecbbbb | ElevenLabs | Forward Deployed Engineer - Software Engineer - Mexico
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/7389c057-3e25-4e7a-8a03-5e80f40a15a0 | ElevenLabs | Product Manager (ElevenCreative Self-Serve)
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/35813150-a851-4821-b732-a037b4e6c4fe | ElevenLabs | Full-Stack Engineer (Backend Leaning) - Creative Agents 
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/b8a111fa-9fd5-44d0-97ed-8fd1280be4ef | ElevenLabs | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6242246004 | Vercel | Software Engineer, Agent Auth
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4751170005 | Glean | Forward Deployed Recruiter
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4747460005 | Glean | Solutions Engineer (EMEA Shift) 
+- [ ] https://jobs.ashbyhq.com/Deepgram/7cf277bc-a192-4007-a77a-fafbf8276a5e | Deepgram | Research Staff, Voice AI Foundations
+- [ ] https://jobs.ashbyhq.com/Deepgram/1518fd8f-7e9d-4712-9e6b-a7e10ba25bdd | Deepgram | Research Staff, Voice AI Foundations - Remote
+- [ ] https://jobs.ashbyhq.com/Deepgram/12fd68d7-5034-41f5-a992-022691a25f53 | Deepgram | Research Staff, Voice AI Foundations [UK - Remote]
+- [ ] https://jobs.ashbyhq.com/Deepgram/c7922eab-cca8-46e8-b073-06ad60337edf | Deepgram | Research Staff, Voice AI Foundations [Remote]
+- [ ] https://jobs.ashbyhq.com/Deepgram/39c2b79b-0269-4711-9354-be5ccf747a98 | Deepgram | Research Staff, LLMs
+- [ ] https://jobs.ashbyhq.com/Deepgram/7ac1a5bc-f305-4f2a-a547-394566a549b2 | Deepgram | Senior Pre-Sales Solutions Engineer - Europe
+- [ ] https://jobs.ashbyhq.com/Deepgram/9cb09363-9b68-4957-869a-da70b95ad6bd | Deepgram | Senior Solutions Architect - Europe
+- [ ] https://jobs.ashbyhq.com/Deepgram/68372d7d-b7a9-439e-a0a7-76690576aba4 | Deepgram | Senior Software Engineer - Applied AI
+- [ ] https://jobs.ashbyhq.com/Deepgram/7c7064bb-2bf0-4f64-81cc-14afe79a15c1 | Deepgram | Backend Software Engineer - Engine Team (Voice Agent)
+- [ ] https://jobs.ashbyhq.com/Deepgram/2fc57802-1d2d-4796-aaea-e00586dc6792 | Deepgram | Senior Forward-Deployed Engineer, Federal
+- [ ] https://jobs.ashbyhq.com/Deepgram/b10db691-f77c-4a65-8f7c-ff9574f53f1e | Deepgram | Senior Solutions Engineer, Federal
+- [ ] https://jobs.ashbyhq.com/Deepgram/7ced4c1f-4126-44fe-9cf1-da427a9e4e3e | Deepgram | ML Ops Infrastructure Engineer
+- [ ] https://jobs.ashbyhq.com/Deepgram/94ae2781-a85f-493a-86c1-ff85a9289355 | Deepgram | Applied ML Engineer -  Edge Devices
+- [ ] https://jobs.ashbyhq.com/Deepgram/3a12f539-7734-46fa-9e3b-28e041e56074 | Deepgram | Senior Product Manager, Enterprise
+- [ ] https://jobs.ashbyhq.com/Deepgram/17f95148-fa1c-4c34-82c8-333589bef789 | Deepgram | Staff Product Manager, Agentic Experiences (Former Engineer)
+- [ ] https://jobs.ashbyhq.com/Deepgram/d0660127-6c26-4053-943c-c006990b8edc | Deepgram | Staff Product Manager (Product-Led Growth)
+- [ ] https://jobs.ashbyhq.com/Deepgram/8a9bcce3-858f-4cc0-8459-2fe552b6aaa5 | Deepgram | Senior Pre-Sales Solutions Engineer (Australia)
+- [ ] https://jobs.ashbyhq.com/Deepgram/d28f0a61-4a59-4817-b101-3457077b01b7 | Deepgram | Senior Pre-Sales Solutions Engineer (Singapore)
+- [ ] https://jobs.ashbyhq.com/Deepgram/6e3344f4-48c7-4127-871c-3f1dada45323 | Deepgram | Director of Research, Text-to-Speech
+- [ ] https://jobs.ashbyhq.com/Deepgram/4bfadd29-fa58-4e06-bbf0-7b5dbc41a621 | Deepgram | Forward-Deployed Engineer (FDE), Strategic Accounts
+- [ ] https://jobs.ashbyhq.com/Deepgram/1645ceac-3ef9-45ba-8386-49c7c43b14f0 | Deepgram | Senior Forward Deployed Engineer (FDE), Strategic Accounts
+- [ ] https://jobs.ashbyhq.com/Deepgram/a0678103-1b9c-44a4-92c0-f705850a8fa1 | Deepgram | Director, Text-to-Speech Synthesis Research
+- [ ] https://jobs.ashbyhq.com/Deepgram/9762d2a1-3d07-4e65-a0bb-6ed8162ca7d5 | Deepgram | Staff Product Manager, AI Applications
+- [ ] https://jobs.ashbyhq.com/Deepgram/8e80b2ec-a88d-4b70-8ddd-0f7021f1554b | Deepgram | Research Staff, Applied Voice AI
+- [ ] https://jobs.ashbyhq.com/Deepgram/dcea53a5-5650-406d-a154-fad077c4b81b | Deepgram | Research Engineer, Post-Training
+- [ ] https://jobs.ashbyhq.com/Deepgram/1140ca2e-0b17-4262-8c1b-a3eb156086dc | Deepgram | Account Executive (German Speaking)
+- [ ] https://jobs.ashbyhq.com/Deepgram/e8b2cd20-bd98-4977-b9a9-cfa6868cc122 | Deepgram | Director, GTM Engineering
+- [ ] https://jobs.ashbyhq.com/Deepgram/4caace1a-beb8-43bc-a69a-4952e6214af7 | Deepgram | Staff Sales Engineer, Voice AI
+- [ ] https://jobs.ashbyhq.com/Deepgram/dd71e31d-2b22-4e9b-8f24-bdd221ea13fa | Deepgram | Research Staff, LLMs [EMEA - Remote]
+- [ ] https://jobs.ashbyhq.com/Deepgram/3c9a9729-7ff1-49e3-a388-f108745e4b41 | Deepgram | Software Engineer - Applied AI
+- [ ] https://jobs.ashbyhq.com/n8n/473bcbae-ad3e-4611-8ca3-3499040e5f22 | n8n | Senior Product Manager - AI Gateway
+- [ ] https://jobs.ashbyhq.com/pinecone/a50c376a-0216-40b2-9525-da89d47ef190 | Pinecone | Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/langchain/c4b4b4e2-f434-460a-89a4-355ca53983ac | LangChain | Integrated Campaigns Manager
+- [ ] https://jobs.ashbyhq.com/langchain/6a53f11d-5446-4ca2-baf5-c4b84d4986a7 | LangChain | Performance Marketing Manager, Paid Search & AI Advertising
+- [ ] https://jobs.ashbyhq.com/Sierra/effd7cd2-8a28-4bae-a3b8-40720ba09717 | Sierra | Product Manager, Agent Development
+- [ ] https://jobs.ashbyhq.com/Sierra/b7d1dbcd-ca72-472f-b15e-5b4b0f886be0 | Sierra | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/Sierra/fed8ca9a-0bb7-44ef-a541-0be6a8ae7bba | Sierra | Product Manager, Agent Development (German speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/548eccd8-85c7-4cfa-a145-1c6ba5c17dc2 | Sierra | Strategist, Agent Development
+- [ ] https://jobs.ashbyhq.com/Sierra/38f06024-4ee9-47d6-a36f-f2791ac1e412 | Sierra | Product Manager, Agent Development (French speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/4892f01e-8871-4b32-8963-527f1cf8db5d | Sierra | Product Manager, Agent Development (Spanish speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/9ebc3a79-82bf-478d-bd98-d473d41bdeaf | Sierra | Software Engineer, Agent (German speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/9d9e7d4a-2a27-4f64-9b1f-d79c5d3f129a | Sierra | Software Engineer, Agent (French speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/aadfc0a0-93f6-454b-9767-c24793fa3eff | Sierra | Software Engineer, Agent (Spanish speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/ef109d91-43de-4f96-94e5-fac6f1d8c8e1 | Sierra | Enterprise Sales Director, Spain
+- [ ] https://jobs.ashbyhq.com/Sierra/2dee25a0-a0c1-425e-b67a-9d49fc821369 | Sierra | Engineering Manager, Agent
+- [ ] https://jobs.ashbyhq.com/Sierra/8d46d44c-8294-4807-a6b1-5087f0506a38 | Sierra | Strategist, Agent Development (Spanish speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/b1fc320b-d0d2-4ca5-9ce3-2ce8f51cf70e | Sierra | Strategist, Agent Development (French speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/6207b02d-d334-4000-b84e-2af779171838 | Sierra | Software Engineer, Agent (Italian speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/9dc1651d-43e9-4970-a757-a5223cef1c4d | Sierra | Product Manager, Agent Development (Arabic speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/1045b1db-228b-40df-97d8-a8f9371d35bd | Sierra | Strategist, Agent Development (German speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/034c2c56-357f-4ed2-9da7-f4d36a999385 | Sierra | Strategist, Agent Development (Arabic speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/2e07f536-bbaa-4cc0-957a-774ddf99de64 | Sierra | Product Manager, Agent Development (Italian speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/ce463311-0c6c-43d9-ab79-dd751743104f | Sierra | Software Engineer, Agent (Arabic speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/0e73be8d-e05f-4c47-aa74-416b2984334c | Sierra | Strategist, Agent Development (Italian speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/44120ba5-4cf7-48a1-86af-7981c41c179e | Sierra | Strategist, Agent Development 
+- [ ] https://jobs.ashbyhq.com/Sierra/ab15547e-5c50-48a8-a560-f56c7bdad587 | Sierra | Strategist, Agent Development (Cantonese Speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/1c991675-099f-49dd-9b9b-bd3c9111e65c | Sierra | GTM Engineer
+- [ ] https://jobs.ashbyhq.com/Sierra/bc98b50a-d6ea-42b8-b1c6-f55099d1bb1c | Sierra | Product Manager, Agent Development - Financial Services
+- [ ] https://jobs.ashbyhq.com/Sierra/f3308520-6d7d-45ac-b96d-3f5a5012e6c9 | Sierra | Software Engineer, Agent - Healthcare
+- [ ] https://jobs.ashbyhq.com/Sierra/85e1d0f9-e0d5-4a82-9b30-fa4372e32872 | Sierra | GTM Operations, Agent Development
+- [ ] https://jobs.ashbyhq.com/Sierra/65eb2c63-c936-4e8e-87e7-ea080dcdca73 | Sierra | Product Manager, Agent Development - Healthcare
+- [ ] https://jobs.ashbyhq.com/Sierra/39355227-d7a2-4066-b930-2bf2eeebc20c | Sierra | Enterprise Sales Engineer (Spain)
+- [ ] https://jobs.ashbyhq.com/Sierra/4f0e65ba-b262-4d79-b926-3988f8eb0c00 | Sierra | Product Manager, Agent Development (Brazilian Portuguese speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/ae8840cd-f46e-4c96-87b1-53fedf40f94d | Sierra | Software Engineer, Agent (Dutch speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/611a6f2c-b6f8-4dfd-9ae8-4b0b986ac258 | Sierra | Strategist, Agent Development (Dutch speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/9d54f016-7919-457b-a298-17a536ab8c5c | Sierra | Strategist, Agent Development (Flemish speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/b37a6f9e-53c7-4c47-beb5-1ab4451f3001 | Sierra | Software Engineer, Agent (Mandarin Speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/f51d6c09-d767-4e86-bc62-216b2051e318 | Sierra | Software Engineer, Agent (Brazilian Portuguese speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/63d41476-9621-4566-a6fa-8fde0d643836 | Sierra | Enterprise Sales Director - Majors, Retail
+- [ ] https://jobs.ashbyhq.com/Sierra/675b6dab-6f04-4d9e-a6bd-c001f2784c0b | Sierra | Enterprise Sales Leader, Retail
+- [ ] https://jobs.ashbyhq.com/Sierra/9eed16e3-9a45-4961-a10b-aea58777fa54 | Sierra | Enterprise Sales Engineer - Strategic, Retail
+- [ ] https://jobs.ashbyhq.com/Sierra/7ec62895-e3b6-4a01-8d4b-df3909cbbbb8 | Sierra | Enterprise Sales Director - Strategic, Retail
+- [ ] https://jobs.ashbyhq.com/Sierra/99858356-70b7-4c3a-aefb-87415e3fdbad | Sierra | Enterprise Sales Director, Retail
+- [ ] https://jobs.ashbyhq.com/Sierra/575cf637-3a7a-4d9c-883c-8b0265811984 | Sierra | Agent Strategist
+- [ ] https://jobs.ashbyhq.com/Sierra/adaa6543-00df-4e5f-8e40-e4327ccb764c | Sierra | Enterprise Sales Engineer (Spanish speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/102b597d-876d-458f-bf11-58924df4b73d | Sierra | Enterprise Sales Engineer (Brazilian Portuguese speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00 | Sierra | Software Engineer, Agent (New Grad 2027)
+- [ ] https://jobs.ashbyhq.com/Sierra/cb841dfe-5d21-44ae-8496-fca6b5587ae6 | Sierra | Product Manager, Agent Development - Public Sector
+- [ ] https://jobs.ashbyhq.com/Sierra/dcd50512-6575-46e5-8c28-b2bcd6acf81f | Sierra | Strategist, Agent Development (Swedish speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/837a134f-6ab3-485f-9cf7-a957cc1b8992 | Sierra | Strategist, Agent Development (Norwegian speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/4572d713-6df1-432a-9cce-67bdbbabf43b | Sierra | Strategist, Agent Development (Brazilian Portuguese speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/15f81581-ad9c-4b03-8ed7-097fbbce0469 | Sierra | Strategist, Agent Development - Flagship Deployment
+- [ ] https://jobs.ashbyhq.com/Sierra/0cb4da3e-3c67-4f14-a84d-956042669275 | Sierra | Software Engineer, Agent Runtime
+- [ ] https://jobs.ashbyhq.com/Sierra/200df475-2175-45ce-9510-7d04afabd08d | Sierra | Software Engineer, Agent Builder
+- [ ] https://jobs.ashbyhq.com/Sierra/01988f90-2d70-48ee-9c01-92e69c37706b | Sierra | Strategist, Agent Development - Retail
+- [ ] https://jobs.ashbyhq.com/Sierra/33dbd62f-8212-4ea8-9b59-74370c1f2803 | Sierra | Software Engineer, Agent - Financial Services
+- [ ] https://jobs.ashbyhq.com/Sierra/1e40515a-c2d9-4657-8a44-a99d6d49b15b | Sierra | Strategist, Agent Development - Travel, Transportation and Hospitality
+- [ ] https://jobs.ashbyhq.com/Sierra/7dae2e7c-6556-438c-bf60-509931d8188c | Sierra | Software Engineer, Agent - Public Sector
+- [ ] https://jobs.ashbyhq.com/Sierra/c729c633-0376-436e-8f2b-1501088b85b0 | Sierra | Software Engineer, Agent - Retail
+- [ ] https://jobs.ashbyhq.com/Sierra/d0055259-9801-4767-b659-39e967a88b50 | Sierra | Strategist, Agent Development - Financial Services
+- [ ] https://jobs.ashbyhq.com/Sierra/d2dc9baf-30d4-4708-9227-62a946b4b37e | Sierra | Software Engineer, Agent - Travel , Transportation & Hospitality
+- [ ] https://jobs.ashbyhq.com/Sierra/a2e49318-5967-4509-a592-56f089647b32 | Sierra | Strategist, Agent Development - Healthcare
+- [ ] https://jobs.ashbyhq.com/Sierra/078f8499-1099-4675-b3df-47cf201e7427 | Sierra | Strategist, Agent Development - Public Sector
+- [ ] https://jobs.ashbyhq.com/Sierra/b9b9b5e0-7304-4265-aa71-d71d80d29402 | Sierra | Software Engineer, Agent - Insurance
+- [ ] https://jobs.ashbyhq.com/Sierra/2c5928df-28ec-468f-99f3-42b7e73cbf93 | Sierra | Strategist, Agent Development - Tech, Media & Telecom
+- [ ] https://jobs.ashbyhq.com/Sierra/fd5df98a-e2c8-4d47-a803-daee5cccb36f | Sierra | Software Engineer, Agent - Tech, Media & Telecom
+- [ ] https://jobs.ashbyhq.com/Sierra/6c3fa1ef-5eea-4afc-967e-2d3bb920ad96 | Sierra | Strategist, Agent Development (MBA Grad 2027)
+- [ ] https://jobs.ashbyhq.com/Sierra/b870fc11-f984-4aa8-9f16-26feb0281789 | Sierra | Enterprise Sales Engineer - Majors, Retail
+- [ ] https://jobs.ashbyhq.com/Sierra/be3dd739-0584-4d15-90ff-dea66bfdbc72 | Sierra | Digital Marketing & Campaigns Lead
+- [ ] https://jobs.ashbyhq.com/Sierra/69ca85f1-240b-493e-9fe5-e2b03ffa2dd0 | Sierra | Strategist Lead, Agent Development
+- [ ] https://jobs.ashbyhq.com/Sierra/2c61a0f5-b4aa-4c06-86f0-991d6039de17 | Sierra | Executive Assistant, Sales & Agent Development
+- [ ] https://jobs.ashbyhq.com/cohere/7069b63c-f0cf-4e53-9ad2-3dfa7dc79c80 | Cohere | Head of Sales, Southern Europe (Italy, Spain, Portugal)
+- [ ] https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4 | Cohere | Software Engineer, ML Ops
+- [ ] https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97 | Cohere | Software Engineer, ML Workload Platform
+- [ ] https://jobs.ashbyhq.com/AlephAlpha/47d5c59a-5ec5-481a-820f-f1227d9242d9 | Aleph Alpha | Senior AI R&D Engineer – Model Training  (f/m/d)
+- [ ] https://helsing.ai/jobs/5028719101?gh_jid=5028719101 | Helsing | AI Research Engineer - ML & Signal Processing
+- [ ] https://helsing.ai/jobs/5028731101?gh_jid=5028731101 | Helsing | AI Research Engineer - Reinforcement Learning
+- [ ] https://helsing.ai/jobs/5028848101?gh_jid=5028848101 | Helsing | AI Research Engineer - Robotics
+- [ ] https://helsing.ai/jobs/5028718101?gh_jid=5028718101 | Helsing | Staff AI Research Engineer -  3D Computer Vision
+- [ ] https://helsing.ai/jobs/5028703101?gh_jid=5028703101 | Helsing | Staff AI Research Engineer -  Computer Vision
+- [ ] https://helsing.ai/jobs/5027521101?gh_jid=5027521101 | Helsing | Systems Engineer - Air Defense System - Contra
+- [ ] https://n26.com/en-eu/careers/positions/8349423?gh_jid=8349423 | N26 | Compliance and Prevention Associate (Complaints Management) (Fluent German)
+- [ ] https://n26.com/en-eu/careers/positions/8352134?gh_jid=8352134 | N26 | Senior Manager Complaints Operations & Service Delivery
+- [ ] https://careers.hellofresh.com/global/en/job/8357289?gh_jid=8357289 | HelloFresh | Automation Technician 
+- [ ] https://careers.hellofresh.com/global/en/job/8328011?gh_jid=8328011 | HelloFresh | Director, Paid Search (maternity leave cover)
+- [ ] https://careers.hellofresh.com/global/en/job/8329400?gh_jid=8329400 | HelloFresh | Fulfillment Technology Analyst
+- [ ] https://careers.hellofresh.com/global/en/job/8350925?gh_jid=8350925 | HelloFresh | Maintenance Technician I 
+- [ ] https://careers.hellofresh.com/global/en/job/8352634?gh_jid=8352634 | HelloFresh | Maintenance Technician III
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8173249003?gh_jid=8173249003 | Celonis | Lead Deployment Architect - AI
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8196236003?gh_jid=8196236003 | Celonis | Senior Digital Transformation & Process Optimisation Consultant - Manufacturing/Production
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7683444003?gh_jid=7683444003 | Celonis | Senior/ Lead Data & AI Consultant
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8177273003?gh_jid=8177273003 | Celonis | TUM Project Study – AI-Powered Learning Content Creator
+- [ ] https://sumup.com/careers/positions/7927613002?gh_jid=7927613002 | SumUp | Conseiller(ère) commercial(e) terrain expérimenté(e) - Indépendant
+- [ ] https://sumup.com/careers/positions/8927958002?gh_jid=8927958002 | SumUp | Conseiller(ère) commercial(e) terrain expérimenté(e) - Indépendant 
+- [ ] https://sumup.com/careers/positions/8931631002?gh_jid=8931631002 | SumUp | Sustainability Working Student
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6240415004 | Isomorphic Labs | Operating Partner (AI Research), London
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/5029174101 | PhysicsX | AI Engineer: Post-Training 
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/5025659101 | PhysicsX | Platform Engineer - Self Hosting LLMs
+- [ ] https://jobs.ashbyhq.com/faculty/34a7ebbb-6f37-4ad1-a082-f10cd2a2d4fb | Faculty | Lead Product Manager
+- [ ] https://jobs.ashbyhq.com/faculty/29f2c3cb-97ce-4c0d-ba5c-3e89a48ae1ed | Faculty | MLE/SMLE Template
+- [ ] https://jobs.ashbyhq.com/lovable/129316bb-b02c-4177-8d8a-5184e3de6070 | Lovable | Mid-Market Account Executive, London (German Speaking)
+- [ ] https://jobs.ashbyhq.com/claylabs/7d362dfe-02b5-48a6-bce3-67f9de9724d0 | Clay Labs | GTM Engineer - CX
+- [ ] https://jobs.ashbyhq.com/Perplexity/8a976851-9bef-4b07-8d36-567fa9540aef | Perplexity | Member of Technical Staff (AI Inference Engineer)
+- [ ] https://jobs.ashbyhq.com/Perplexity/8fe61c73-0daf-4432-a47d-44714c1ef764 | Perplexity | Member of Technical Staff (AI Researcher)
+- [ ] https://jobs.ashbyhq.com/Perplexity/3c656963-876a-458d-bca6-916a42a24c1a | Perplexity | Member of Technical Staff (Software Engineer, Applied AI)
+- [ ] https://jobs.ashbyhq.com/Perplexity/60deb376-51b5-46c6-9e17-55377a5ef34e | Perplexity | Member of Technical Staff (AI Infrastructure Engineer)
+- [ ] https://jobs.ashbyhq.com/Perplexity/f25e190e-0508-4707-b575-fcaed358dc13 | Perplexity | Product Manager (Builder)
+- [ ] https://jobs.ashbyhq.com/Perplexity/2a5aa5f6-596b-45c3-84db-ac0b96363f93 | Perplexity | Member of Technical Staff (Software Engineer, Training Infrastructure)
+- [ ] https://jobs.ashbyhq.com/Perplexity/affd3040-91e4-4e0c-bd2f-4b022c613f91 | Perplexity | Member of Technical Staff (ML Engineer, Recommendations & User Modeling)
+- [ ] https://jobs.ashbyhq.com/Perplexity/ef269656-94ef-463a-ae0e-6102ca3a94dd | Perplexity | Technical Recruiter, AI
+- [ ] https://jobs.ashbyhq.com/Perplexity/2c5fdd71-472a-4c62-bc53-deafb66e7941 | Perplexity | Member of Technical Staff (Software Engineer, Enterprise AI Products)
+- [ ] https://jobs.ashbyhq.com/Perplexity/fb1815de-07d9-4933-8746-979dbcb00870 | Perplexity | AI Strategist, Legal
+- [ ] https://jobs.ashbyhq.com/Perplexity/31dfcb60-a0df-4983-b3a4-d653cdc0aa8f | Perplexity | AI Strategist, Financial Services
+- [ ] https://jobs.ashbyhq.com/Perplexity/f3814af2-55a3-49a5-b0cb-67199a2a45fb | Perplexity | Member of Technical Staff (Software Engineer, Enterprise Agent Evals & Efficiency)
+- [ ] https://jobs.ashbyhq.com/Perplexity/19d8bcfd-e493-4b3a-b8fd-11a2a6502da2 | Perplexity | Member of Technical Staff (Machine Learning Engineer, Ranking Quality - Search)
+- [ ] https://jobs.ashbyhq.com/Perplexity/3d7ef710-b1f6-4a80-af57-946f9bccd35b | Perplexity | Technical Sourcer, AI
+- [ ] https://jobs.ashbyhq.com/Perplexity/4fba58de-a168-4948-9d82-a7d4b38f45f2 | Perplexity | Applied AI Architect, Perplexity Computer
+- [ ] https://jobs.ashbyhq.com/Perplexity/f4d81f6b-958c-4bc0-a9aa-9850c3508ca9 | Perplexity | Strategic Finance Lead - AI
+- [ ] https://jobs.ashbyhq.com/Perplexity/3c9c051f-e6ca-4a70-9abf-1f640e154ee1 | Perplexity | Product Manager, Mobile Apps
+- [ ] https://jobs.ashbyhq.com/Perplexity/6f3c5131-2efa-400c-8248-44203a4dbfbb | Perplexity | Product Manager, Core Experience
+- [ ] https://jobs.ashbyhq.com/Perplexity/7f880194-7276-4b46-8a50-58b48da8882e | Perplexity | Product Manager, AI Capabilities
+- [ ] https://jobs.ashbyhq.com/Perplexity/182ab2ec-6fb1-409b-a2dc-63c7832b0a13 | Perplexity | Product Manager, SMB Growth
+- [ ] https://jobs.ashbyhq.com/Perplexity/5c561bd0-c180-4ee1-b079-647f3c20bdc0 | Perplexity | Member of Technical Staff (Applied AI Engineer, Agent Capabilities)
+- [ ] https://jobs.ashbyhq.com/Perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409 | Perplexity | Member of Technical Staff, AI Products (Early Career - Industry)
+- [ ] https://jobs.ashbyhq.com/Perplexity/a8c79425-eb48-40e0-8557-93460fa67097 | Perplexity | Product Manager, Platform
+- [ ] https://jobs.ashbyhq.com/Perplexity/9cec9b33-06f2-4ba1-8c9e-20a598361ca2 | Perplexity | Member of Technical Staff (Machine Learning Engineer, Search Agent RL)
+- [ ] https://jobs.ashbyhq.com/Perplexity/d865c821-9a27-416c-9c6a-14132a86f760 | Perplexity | Member of Technical Staff (AI Software Engineer, Agent Engine)
+- [ ] https://jobs.ashbyhq.com/Perplexity/3f0dc0ad-aa9a-4cd8-aa75-245112f3b2de | Perplexity | Engineering Manager (Agent Engine)
+- [ ] https://jobs.ashbyhq.com/Perplexity/3b523d3a-23bd-4887-8e3c-239d14d66b06 | Perplexity | Member of Technical Staff (GTM Engineer, Growth)
+- [ ] https://jobs.ashbyhq.com/Perplexity/1056951e-8a42-4330-b72c-90162b3cd1c9 | Perplexity | Member of Technical Staff (Software Engineer, AI Policy and Strategic Initiatives)
+- [ ] https://jobs.ashbyhq.com/legora/827d74cd-95a8-49d4-a5d3-27440d024d3b | Legora | People Integrations and AI Architect
+- [ ] https://jobs.ashbyhq.com/legora/3f8ea448-a415-4358-8daa-88fbdeb39a16 | Legora | Legal Engineer - Banking & Financial Services
+- [ ] https://jobs.lever.co/spotify/babebec3-0061-4c39-a4ad-c51a54d23567 | Spotify | Senior Data Scientist, Artist-First AI Music lab
+- [ ] https://jobs.lever.co/spotify/e0ba7aee-1a0a-43ab-a4c0-d8856c6c2ce3 | Spotify | Senior Product Manager - Core Experience
+- [ ] https://jobs.lever.co/palantir/ca222ecd-b659-4e3e-aee5-d85655c7bbc8 | Palantir | Software Engineer - Applied AI, Defense Applications
+
 ## Procesadas
