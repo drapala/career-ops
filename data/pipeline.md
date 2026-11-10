@@ -3499,4 +3499,35 @@
 - [ ] https://jobs.lever.co/spotify/e0ba7aee-1a0a-43ab-a4c0-d8856c6c2ce3 | Spotify | Senior Product Manager - Core Experience
 - [ ] https://jobs.lever.co/palantir/ca222ecd-b659-4e3e-aee5-d85655c7bbc8 | Palantir | Software Engineer - Applied AI, Defense Applications
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454800008 | Anthropic | AI Outcomes Manager, Enterprise Tech
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5476577008 | Anthropic | Applied AI Architect
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5471721008 | Anthropic | Manager, Forward Deployed Engineering
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8352417 | Intercom | Senior Product Manager (Growth)
+- [ ] https://jobs.ashbyhq.com/Sierra/e9f5fdb6-91ee-4c55-9230-41ec8865650e | Sierra | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/Sierra/b4b762e6-8ce7-4ea7-b9b3-40c04f62135a | Sierra | Product Manager, Agent Development
+- [ ] https://jobs.ashbyhq.com/Sierra/c25ca18c-dbe6-439d-9a40-ce23b40c323c | Sierra | Strategist, Agent Development
+- [ ] https://jobs.ashbyhq.com/Sierra/3437596e-e545-42a9-af82-9947fabf828c | Sierra | Strategist, Agent Development (Spanish speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/ed38b1c1-2862-4e40-9894-3c6f20f7a785 | Sierra | Strategist, Agent Development (French speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/1a0a0334-41f8-4c15-9ed8-615336855e5e | Sierra | Engineering Manager, Agent
+- [ ] https://jobs.ashbyhq.com/Sierra/82d714bd-4908-4648-b72e-3322ad4211b6 | Sierra | Enterprise Sales Director - Majors, Retail
+- [ ] https://jobs.ashbyhq.com/Sierra/9b94e279-5869-4a33-b50f-9aa01ff61a22 | Sierra | Product Manager, Agent Development (Spanish speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/e17cc0d2-9eee-476f-8fe2-b7b7ba8faa85 | Sierra | Enterprise Sales Director - Strategic, Retail
+- [ ] https://jobs.ashbyhq.com/Sierra/ae852ea8-a4fb-40b2-a390-e06f34622d9e | Sierra | Enterprise Sales Director, Retail
+- [ ] https://jobs.ashbyhq.com/Sierra/79953d72-60d4-43e0-8c8c-6eccda422dce | Sierra | Software Engineer, Agent (New Grad 2027)
+- [ ] https://jobs.ashbyhq.com/Sierra/9d59c96e-e7f7-43cc-8069-bcdf3798fe2b | Sierra | Software Engineer, Agent (Spanish speaking)
+- [ ] https://jobs.ashbyhq.com/Sierra/e98b0f55-9665-4aaf-99a6-c61c622bf323 | Sierra | Enterprise Sales Engineer - Majors, Retail
+- [ ] https://jobs.ashbyhq.com/Sierra/fcbf5519-6bfc-4250-a171-669e5708b345 | Sierra | Enterprise Sales Engineer - Strategic, Retail
+- [ ] https://jobs.ashbyhq.com/cohere/39cab400-c976-41d9-9002-880ac6985b64 | Cohere | Staff Software Engineer, Agentic Analytics
+- [ ] https://jobs.ashbyhq.com/cohere/dc881634-ca66-46e5-90ff-43ad83080de2 | Cohere | Adoption Specialist - Infrastructure & Agentic 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8199108003?gh_jid=8199108003 | Celonis | Associate (AI) Solution Consultant - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8199112003?gh_jid=8199112003 | Celonis | Associate Applied (AI) Value Engineer (DACH) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8198943003?gh_jid=8198943003 | Celonis | Forward Deployed Engineer - CPG/Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8198853003?gh_jid=8198853003 | Celonis | Senior Presales and Solution Consultant - CPG/Retail
+- [ ] https://careers.hellofresh.com/global/en/job/8352791?gh_jid=8352791 | HelloFresh | Automation Technician 
+- [ ] https://n26.com/en-eu/careers/positions/8364763?gh_jid=8364763 | N26 | Complaints Audit Manager
+- [ ] https://sumup.com/careers/positions/8390702002?gh_jid=8390702002 | SumUp | Commercial(e) Terrain
+- [ ] https://sumup.com/careers/positions/8390725002?gh_jid=8390725002 | SumUp | Commercial(e) Terrain 
+- [ ] https://jobs.ashbyhq.com/Perplexity/e4777627-ff8f-4257-8612-3a016bb58592 | Perplexity | Member of Technical Staff (AI Inference Engineer)
+- [ ] https://jobs.ashbyhq.com/supabase/a9ad80ae-4514-41c0-8062-35963d33748e | Supabase | Product Manager - Postgres
+
 ## Procesadas
