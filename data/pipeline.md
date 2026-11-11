@@ -3530,4 +3530,30 @@
 - [ ] https://jobs.ashbyhq.com/Perplexity/e4777627-ff8f-4257-8612-3a016bb58592 | Perplexity | Member of Technical Staff (AI Inference Engineer)
 - [ ] https://jobs.ashbyhq.com/supabase/a9ad80ae-4514-41c0-8062-35963d33748e | Supabase | Product Manager - Postgres
 
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/5032627101 | PolyAI | Forward Deployed Engineer, Agentic AI
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8375211 | Intercom | Director, Solutions Engineering
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8315186 | Intercom | Principal, Integrated Campaigns Strategist
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5394611008 | Anthropic | Engineering Manager, Agent Security Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5477601008 | Anthropic | Product Manager, Seller Experience 
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6254817004 | Arize AI | Senior AI Product Manager, Evals & Annotations
+- [ ] https://jobs.ashbyhq.com/n8n/24ad7d68-fac9-476c-b9fa-3410d73a6d7d | n8n | Staff Platform Engineer, Agentic Engineering
+- [ ] https://jobs.ashbyhq.com/Sierra/43e6eda7-6e46-43e8-82a5-6e5035f063bb | Sierra | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/Sierra/99e82c10-977f-4b42-a737-2d9812ce614d | Sierra | Strategist, Agent Development
+- [ ] https://jobs.ashbyhq.com/Sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db | Sierra | Software Engineer, Agent (New Grad 2027)
+- [ ] https://jobs.ashbyhq.com/Sierra/32f98c30-916c-41c2-9e10-a7095a81e3b5 | Sierra | Strategist, Agent Development (Spanish speaking)
+- [ ] https://jobs.ashbyhq.com/langchain/0ce4562c-3a98-408f-8945-15d8d4af6cb6 | LangChain | Deployed Engineering Manager, Northern Europe & DACH
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7986218003?gh_jid=7986218003 | Celonis | Associate Applied (AI) Value Engineer (DACH) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8200179003?gh_jid=8200179003 | Celonis | Associate Deployment Engineer - Galaxy Graduate Program (Spanish/Portuguese speaking)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8200162003?gh_jid=8200162003 | Celonis | Senior Digital Transformation & Process Optimisation Consultant
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8200166003?gh_jid=8200166003 | Celonis | Senior Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8200163003?gh_jid=8200163003 | Celonis | Senior Management & Technology Consultant - Supply Chain
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8200164003?gh_jid=8200164003 | Celonis | Senior Process Intelligence and Supply Chain Transformation Consultant
+- [ ] https://careers.hellofresh.com/global/en/job/8370988?gh_jid=8370988 | HelloFresh | Team Lead Maintenance Technician - all genders
+- [ ] https://sumup.com/careers/positions/8118881002?gh_jid=8118881002 | SumUp | Commercial(e) Terrain
+- [ ] https://jobs.ashbyhq.com/faculty/e1df8d31-461f-43b4-81ed-dbf8cd9fbedf | Faculty | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/supabase/0055f731-cffa-4c74-9c00-8abfa579873d | Supabase | Software Engineer - AI Tooling
+- [ ] https://jobs.ashbyhq.com/legora/9ef312d9-defd-42a2-9cfb-6f1cbc507ea9 | Legora | Principal Solutions Architect, NYC
+- [ ] https://jobs.lever.co/spotify/3f78e5c3-95c2-4d32-8ad5-54a215ccee0f | Spotify | Client Partner - Emerging & Scaled (French Speaking)
+- [ ] https://jobs.lever.co/spotify/94a10740-8d2c-430a-8ef3-2d988142541a | Spotify | Senior Product Manager — Subscriptions (Freemium)
+
 ## Procesadas
