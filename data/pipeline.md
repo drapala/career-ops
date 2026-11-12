@@ -3556,4 +3556,18 @@
 - [ ] https://jobs.lever.co/spotify/3f78e5c3-95c2-4d32-8ad5-54a215ccee0f | Spotify | Client Partner - Emerging & Scaled (French Speaking)
 - [ ] https://jobs.lever.co/spotify/94a10740-8d2c-430a-8ef3-2d988142541a | Spotify | Senior Product Manager — Subscriptions (Freemium)
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8375230 | Intercom | Director, Solutions Engineering
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8375076 | Intercom | Senior Solutions Architect
+- [ ] https://jobs.ashbyhq.com/n8n/fb5e4f97-a769-4b87-95f4-bdc5e4c3b031 | n8n | Lead Forward Deployed Engineer - EMEA
+- [ ] https://jobs.ashbyhq.com/Sierra/df431e56-56f5-42ed-bc62-7d6f7041bd27 | Sierra | Software Engineer, Agent
+- [ ] https://helsing.ai/jobs/5034019101?gh_jid=5034019101 | Helsing | Product Manager - Autonomy 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8201662003?gh_jid=8201662003 | Celonis | Lead Process Intelligence & Supply Chain Transformation Consultant - Life Sciences
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8201377003?gh_jid=8201377003 | Celonis | Senior Value Engineer - AI & Process Optimization (Copenhagen)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7885753003?gh_jid=7885753003 | Celonis | Senior Value Engineer (Pharma) - AI & Process Optimization
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8201403003?gh_jid=8201403003 | Celonis | Senior Value Engineer (Pharma) - AI & Process Optimization (Copenhagen)
+- [ ] https://careers.hellofresh.com/global/en/job/8377521?gh_jid=8377521 | HelloFresh | Jr. Supply Chain Coordinator (f/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/8378790?gh_jid=8378790 | HelloFresh | Senior Supply Chain Operations Manager- Factor Europe (all genders)
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/5033535101 | PhysicsX | Forward Deployed Executive 
+- [ ] https://jobs.ashbyhq.com/Perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a | Perplexity | Product Manager, Legal
+
 ## Procesadas
