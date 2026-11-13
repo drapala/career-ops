@@ -3570,4 +3570,21 @@
 - [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/5033535101 | PhysicsX | Forward Deployed Executive 
 - [ ] https://jobs.ashbyhq.com/Perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a | Perplexity | Product Manager, Legal
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5479890008 | Anthropic | External Affairs, Southeast Asia
+- [ ] https://jobs.ashbyhq.com/decagon/8b96f2d9-8478-4954-8bff-05331755a9ba | Decagon | Agent Strategy Manager - Spanish Speaking
+- [ ] https://jobs.ashbyhq.com/Sierra/b89816c1-80b2-449b-b69e-2c261b8e9e23 | Sierra | Software Engineer, Agent
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8201989003?gh_jid=8201989003 | Celonis | Lead AI & Value Transformation Consultant - CPG
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8201887003?gh_jid=8201887003 | Celonis | Principal Enterprise Architect (Germany), German speaking
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8202451003?gh_jid=8202451003 | Celonis | Senior Business Transformation Consultant - Automotive & Manufacturing
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8202426003?gh_jid=8202426003 | Celonis | Senior Business Transformation Consultant Iberia & Latam
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8202459003?gh_jid=8202459003 | Celonis | Senior Transformation Consultant - FSI
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8201374003?gh_jid=8201374003 | Celonis | Senior Value Engineer - AI & Process Optimization (Copenhagen)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8201390003?gh_jid=8201390003 | Celonis | Senior Value Engineer (Pharma) - AI & Process Optimization (Copenhagen)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7813096003?gh_jid=7813096003 | Celonis | Working Student Legal Operations and Technology
+- [ ] https://careers.hellofresh.com/global/en/job/8384057?gh_jid=8384057 | HelloFresh | Global Head of Creative Strategy, Paid Social
+- [ ] https://sumup.com/careers/positions/8939023002?gh_jid=8939023002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://jobs.ashbyhq.com/Perplexity/e916f0c8-5a31-4bb6-b4e3-7c4a64b95fda | Perplexity | Growth GTM Engineer, Revenue Operations
+- [ ] https://jobs.ashbyhq.com/legora/1b2e302c-2f65-4d7a-8070-46d241f108cd | Legora | Applied AI Specialist, Legal Engineering
+- [ ] https://jobs.ashbyhq.com/legora/e8a73972-c09a-40a3-b453-4905d9e0e7fd | Legora | Engineering Manager - Forward Deployed Engineering
+
 ## Procesadas
