@@ -3587,4 +3587,21 @@
 - [ ] https://jobs.ashbyhq.com/legora/1b2e302c-2f65-4d7a-8070-46d241f108cd | Legora | Applied AI Specialist, Legal Engineering
 - [ ] https://jobs.ashbyhq.com/legora/e8a73972-c09a-40a3-b453-4905d9e0e7fd | Legora | Engineering Manager - Forward Deployed Engineering
 
+- [ ] https://jobs.ashbyhq.com/Deepgram/1395ef4d-883a-4006-85a1-4e7d44623431 | Deepgram | Senior Pre-Sales Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/Deepgram/844ec2d9-4256-4be0-a6c6-78ebf1391a78 | Deepgram | Senior Solutions Architect
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/709b53e4-9db5-47ae-9c4b-a6fb9f33044c | ElevenLabs | Application Security Engineer - Agents platform
+- [ ] https://jobs.ashbyhq.com/Sierra/8646493c-93a6-482e-a810-4a0aa6e3438f | Sierra | Software Engineer, Agent
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8200231003?gh_jid=8200231003 | Celonis | Senior Applied Value Engineer - AI Process Optimisation & Pre-Sales
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8201411003?gh_jid=8201411003 | Celonis | Senior Value Engineer - AI & Process Optimization
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8201382003?gh_jid=8201382003 | Celonis | Senior Value Engineer (Pharma) - AI & Process Optimization
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7991058003?gh_jid=7991058003 | Celonis | Solutions Architect
+- [ ] https://careers.hellofresh.com/global/en/job/8346394?gh_jid=8346394 | HelloFresh | CRM Campaign Manager, Growth (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8386792?gh_jid=8386792 | HelloFresh | Maintenance Planner/Scheduler 
+- [ ] https://sumup.com/careers/positions/8938988002?gh_jid=8938988002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8940950002?gh_jid=8940950002 | SumUp | Data analyst - AML
+- [ ] https://sumup.com/careers/positions/8508101002?gh_jid=8508101002 | SumUp | Sales Development Representative - Dutch Speaking
+- [ ] https://jobs.ashbyhq.com/photoroom/866bdfdb-a1d8-4d68-b9d1-66219f5f2d59 | Photoroom | Product ML Engineer
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/5035958101 | PhysicsX | AI Engineer: Evals
+- [ ] https://jobs.ashbyhq.com/Perplexity/10a51134-6741-40ec-8cca-a8ac1534673b | Perplexity | Member of Technical Staff (AI Software Engineer, Agent Engine)
+
 ## Procesadas
