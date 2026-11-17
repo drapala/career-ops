@@ -3604,4 +3604,16 @@
 - [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/5035958101 | PhysicsX | AI Engineer: Evals
 - [ ] https://jobs.ashbyhq.com/Perplexity/10a51134-6741-40ec-8cca-a8ac1534673b | Perplexity | Member of Technical Staff (AI Software Engineer, Agent Engine)
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5484035008 | Anthropic | Applied AI Architect, Beneficial Deployments (Non-Profits)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5477416008 | Anthropic | Research Engineer, AI Monitoring
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/6de4d812-1c2e-4e3e-942a-54d20e5f6cc6 | ElevenLabs | Account Executive - Enterprise - Media and Entertainment
+- [ ] https://jobs.ashbyhq.com/Sierra/631848ec-1a74-4067-8b9f-cd04a71aab6d | Sierra | Software Engineer, Agent
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8203723003?gh_jid=8203723003 | Celonis | Senior AI Transformation & Innovation Consultant
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8204700003?gh_jid=8204700003 | Celonis | Senior Applied AI Solution Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8204701003?gh_jid=8204701003 | Celonis | Senior Strategic Presales and Solutions Consultant (AI)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8201379003?gh_jid=8201379003 | Celonis | Senior Value Engineer - AI & Process Optimization
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8201393003?gh_jid=8201393003 | Celonis | Senior Value Engineer (Pharma) - AI & Process Optimization
+- [ ] https://sumup.com/careers/positions/8938990002?gh_jid=8938990002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://jobs.ashbyhq.com/Perplexity/5149f625-1c76-4ca1-b076-7b81ed23c758 | Perplexity | Member of Technical Staff (Cybersecurity Solutions Architect)
+
 ## Procesadas
