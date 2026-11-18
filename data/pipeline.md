@@ -3616,4 +3616,14 @@
 - [ ] https://sumup.com/careers/positions/8938990002?gh_jid=8938990002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
 - [ ] https://jobs.ashbyhq.com/Perplexity/5149f625-1c76-4ca1-b076-7b81ed23c758 | Perplexity | Member of Technical Staff (Cybersecurity Solutions Architect)
 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4709327005 | Glean | Software Engineer, Cloud Infrastructure & Automation
+- [ ] https://jobs.ashbyhq.com/zapier/04838dc8-0efa-4fe5-b705-c99f6b3f17c6 | Zapier | Legal Counsel, AI & Legal Engineering
+- [ ] https://jobs.ashbyhq.com/Sierra/787c1efd-2327-46e7-9335-59a20ad4be18 | Sierra | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/langchain/86ba410e-2625-41e4-b430-3f0d7c7477a5 | LangChain | Product Manager, Monetization 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8201375003?gh_jid=8201375003 | Celonis | Senior Value Engineer - AI & Process Optimization
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8201389003?gh_jid=8201389003 | Celonis | Senior Value Engineer (Pharma) - AI & Process Optimization
+- [ ] https://sumup.com/careers/positions/8938987002?gh_jid=8938987002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8947077002?gh_jid=8947077002 | SumUp | Conseiller(ère) commercial(e) terrain expérimenté(e) - Indépendant 
+- [ ] https://jobs.lever.co/pigment/7646bb37-af86-4052-a5ac-8932633f1e07 | Pigment | Delivery Quality Specialist – AI
+
 ## Procesadas
