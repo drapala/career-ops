@@ -3626,4 +3626,48 @@
 - [ ] https://sumup.com/careers/positions/8947077002?gh_jid=8947077002 | SumUp | Conseiller(ère) commercial(e) terrain expérimenté(e) - Indépendant 
 - [ ] https://jobs.lever.co/pigment/7646bb37-af86-4052-a5ac-8932633f1e07 | Pigment | Delivery Quality Specialist – AI
 
+- [ ] https://jobs.ashbyhq.com/Deepgram/19954a4c-7f3f-4231-8480-c7ec628e61a4 | Deepgram | Senior Product Manager, Enterprise
+- [ ] https://jobs.ashbyhq.com/Deepgram/dbf72159-6a8f-4825-ae7c-124cfda76de4 | Deepgram | People AI Operations Specialist
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8405770 | Intercom | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8403398 | Intercom | Senior Forward Deployed Data Scientist
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5068570008 | Anthropic | AI Outcomes Manager, Industries
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5486780008 | Anthropic | Applied AI Architect, Beneficial Deployment
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5483945008 | Anthropic | Applied AI Engineer, Commercial
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5482967008 | Anthropic | [Paris] Applied AI Architect, Industries
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4753321005 | Glean | Enterprise Account Executive, UKI
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4755859005 | Glean | Enterprise Solutions Engineer, East
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4755877005 | Glean | Enterprise Solutions Engineer, Texas
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4755916005 | Glean |  Enterprise Solutions Engineer, West
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4757440005 | Glean | Strategic Solutions Engineer, West
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6264524004 | Vercel | Software Engineer, Vercel Agent
+- [ ] https://jobs.ashbyhq.com/decagon/5069134e-6af9-4274-9b81-c8e394bd7b6f | Decagon | Agent Deployment Engineer - Spanish & Portuguese Speaking
+- [ ] https://jobs.ashbyhq.com/n8n/c24e144d-f675-4ede-aeb8-ca804953a5a6 | n8n | Solutions Engineer Manager  (US)
+- [ ] https://jobs.ashbyhq.com/Sierra/3cdeb98c-a25c-4f3b-a704-1418556454bc | Sierra | Software Engineer, Agent
+- [ ] https://helsing.ai/jobs/5027572101?gh_jid=5027572101 | Helsing | Systems Architect - Safe Autonomy, Air Defence
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8209081003?gh_jid=8209081003 | Celonis | Associate AI and Data Consultant - Galaxy Graduate Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8209085003?gh_jid=8209085003 | Celonis | Associate Technology Consultant - Galaxy Graduate Program (German/French Speaking)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8209122003?gh_jid=8209122003 | Celonis | Lead Project Manager - Supply Chain
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8201885003?gh_jid=8201885003 | Celonis | Principal Enterprise Architect - AI & Cloud Integration
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8210402003?gh_jid=8210402003 | Celonis | Principal Enterprise Architect - AI & Cloud Integrations
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8201407003?gh_jid=8201407003 | Celonis | Senior Value Engineer - AI & Process Optimization
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8201398003?gh_jid=8201398003 | Celonis | Senior Value Engineer (Pharma) - AI & Process Optimization
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8046316003?gh_jid=8046316003 | Celonis | Strategy & Operations Working Student
+- [ ] https://careers.hellofresh.com/global/en/job/8399850?gh_jid=8399850 | HelloFresh | Maintenance Lead
+- [ ] https://careers.hellofresh.com/global/en/job/8406433?gh_jid=8406433 | HelloFresh | Maintenance Technician II 
+- [ ] https://careers.hellofresh.com/global/en/job/8314133?gh_jid=8314133 | HelloFresh | Test Kitchen Assistant (All Genders)
+- [ ] https://traderepublic.com/en-de/about?jobId=8014652003&gh_jid=8014652003 | Trade Republic | Talent Acquisition Working Student
+- [ ] https://sumup.com/careers/positions/8946806002?gh_jid=8946806002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8949592002?gh_jid=8949592002 | SumUp | Conseiller(ère) commercial(e) terrain expérimenté(e) - Indépendant 
+- [ ] https://sumup.com/careers/positions/8956597002?gh_jid=8956597002 | SumUp | Conseiller(ère) commercial(e) terrain expérimenté(e)  indépendant
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=8405367 | Scandit | Associate, Product Engineer (working student)
+- [ ] https://jobs.ashbyhq.com/Perplexity/ea87532c-69a0-497d-9cf3-04cc2a6c6410 | Perplexity | Member of Technical Staff (Software Engineer, Agent Verticals)
+- [ ] https://jobs.ashbyhq.com/Perplexity/d291c382-7252-45e5-8b47-ecec5d6be157 | Perplexity | Engineering Manager (Agent Verticals)
+- [ ] https://jobs.ashbyhq.com/causaly/bde799b5-97ce-485c-a224-a535c7894f4b | Causaly | Senior Agent Harness Engineer
+- [ ] https://jobs.ashbyhq.com/legora/ade7af3c-d343-4b76-a24c-6caae817eb57 | Legora | Legal Engineer - Law Firms (Polish-speaking) - Stockholm
+- [ ] https://jobs.ashbyhq.com/supabase/463d8cd7-3092-44eb-b80e-8d21008e569e | Supabase | Storage Platform Engineer
+- [ ] https://jobs.lever.co/spotify/e86c76f2-b652-4953-919c-77e56e742f29 | Spotify | Senior Engineering Manager - Agentic Products
+- [ ] https://jobs.lever.co/spotify/5ddb2fa1-4494-48a9-84c0-b646da91edb8 | Spotify | Senior Product Manager - Free and Premium Conversion
+- [ ] https://jobs.lever.co/palantir/26c63e91-64bb-4a9d-8b24-f51754bffb83 | Palantir | Supply Chain Security Analyst
+- [ ] https://jobs.lever.co/pigment/0c94c748-1f6e-46f5-81bd-b9286a0706f3 | Pigment | Senior Platform Engineer
+
 ## Procesadas
