@@ -3670,4 +3670,13 @@
 - [ ] https://jobs.lever.co/palantir/26c63e91-64bb-4a9d-8b24-f51754bffb83 | Palantir | Supply Chain Security Analyst
 - [ ] https://jobs.lever.co/pigment/0c94c748-1f6e-46f5-81bd-b9286a0706f3 | Pigment | Senior Platform Engineer
 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8403407 | Intercom | Senior Forward Deployed Data Scientist
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5480986008 | Anthropic | Manager, Applied AI Architect
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8201888003?gh_jid=8201888003 | Celonis | Principal Enterprise Architect - AI & Cloud Integrations
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8201397003?gh_jid=8201397003 | Celonis | Senior Value Engineer (Pharma) - AI & Process Optimization
+- [ ] https://sumup.com/careers/positions/8938993002?gh_jid=8938993002 | SumUp | Agente di commercio / Procacciatore (P. IVA) – Settore pagamenti
+- [ ] https://sumup.com/careers/positions/8947080002?gh_jid=8947080002 | SumUp | Conseiller(ère) commercial(e) terrain expérimenté(e) - Indépendant 
+- [ ] https://jobs.ashbyhq.com/causaly/5eee069d-409e-4b69-b59f-232657085570 | Causaly | Senior Agent Harness Engineer
+- [ ] https://jobs.lever.co/palantir/7600fb76-e25e-418c-bf83-d2b1444f2dc6 | Palantir | Supply Chain Security Analyst
+
 ## Procesadas
